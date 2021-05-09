@@ -16,9 +16,9 @@ ga_analytics:
 # Author
 author:
   name: 'Felicity Brand'
-  image: 'authorimage.jpg'
-  greetings: 'G'day!'
-  description: "I write online content—mostly with a technical focus and mostly in the software industry. I’m based in Melbourne, Australia."
+  image: 'authorimage.png'
+  greetings: "Felicity Brand - flicstar"
+  description: "I'm a Technical Communicator. I write online content—mostly with a technical focus and mostly in the software industry. I’m based in Melbourne, Australia."
   bio: 'Felicity Brand is a Communications Consultant. She writes a variety of technical content and has a special knack for designing visuals to communicate technical concepts. Felicity has more than ten years of experience as a writer and technical communicator, and spent her previous career as a business analyst. Felicity is passionate about open source and is based in Melbourne, Australia.'
 
 # Contact form setings
@@ -36,12 +36,12 @@ medium:
 instagram: 'flicstaryarnstar'
 pinterest: 
 linkedin: 'username'
-producthunt: '
+producthunt: 
 
 # Navigation (example text: Style Guide  url: /style-guide/)
 navigation:
   - text: About
-    url: /about/
+    url: /about
 
 
 # Required Plugins
