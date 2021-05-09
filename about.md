@@ -1,10 +1,9 @@
 ---
 layout: page
 title: About
-featured_image_thumbnail: assets/images/authorimage.png 
----
+featured_image: 
 
-I am Felicity Brand (aka flicstar). ![flicstar]("/assets/images/authorimage.png#left")
+I am Felicity Brand (aka flicstar). 
 
 I am a technical communicator — currently working remote, asynchronous and distributed (RAD! 😎).
 
