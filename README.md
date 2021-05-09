@@ -1,8 +1,9 @@
-# Horace Jekyll Theme v1.2.0
+This is my website. I'm using the Horace Jekyll Theme v1.2.0
 
-[Theme Live Demo](https://horace.netlify.com/)
 
 ## Features
+
+[Theme Live Demo](https://horace.netlify.com/)
 
 * Mobile-ready
 * Contact form built-in 
