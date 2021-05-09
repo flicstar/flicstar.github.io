@@ -41,7 +41,7 @@ producthunt:
 # Navigation (example text: Style Guide  url: /style-guide/)
 navigation:
   - text: About
-    url: /about/
+    url: /about
 
 
 # Required Plugins
