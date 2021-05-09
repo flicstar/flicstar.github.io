@@ -1,3 +1,67 @@
-remote_theme: StartBootstrap/startbootstrap-clean-blog-jekyll
+# Site setings
+name: 'flicstar'
+description: 'flicstar is a technical communicator.'
+meta_description: 'flicstar is a technical communicator.'
+logo: 'assets/images/logo.png'
+favicon: 'assets/images/favicon.ico'
+baseurl: 
+production_url: https://flicstar.github.io/
+disqus: 
+mailchimp_url: 
+cover_image: bc_1.jpg
+# Add your GA Tracking Id
+ga_analytics: 
 
-theme: jekyll-theme-cayman
+
+# Author
+author:
+  name: 'Felicity Brand'
+  image: 'authorimage.jpg'
+  greetings: 'G'day!'
+  description: "I write online content—mostly with a technical focus and mostly in the software industry. I’m based in Melbourne, Australia."
+  bio: 'Felicity Brand is a Communications Consultant. She writes a variety of technical content and has a special knack for designing visuals to communicate technical concepts. Felicity has more than ten years of experience as a writer and technical communicator, and spent her previous career as a business analyst. Felicity is passionate about open source and is based in Melbourne, Australia.'
+
+# Contact form setings
+email: flicstar@email.com
+contact_page_description: "Horace theme comes with a contact form built-in. You can use this form with Formspree service and get up to 50 submissions for free. Also, you can easily switch to another service if you want."
+thankyou_page_description: "Your message has been successfully sent. We will contact you very soon!"
+
+# Social links
+twitter: 'felicitybrand'
+facebook: 
+github: 'flicstar'
+codepen: 
+dribbble: 
+medium: 
+instagram: 'flicstaryarnstar'
+pinterest: 
+linkedin: 'username'
+producthunt: '
+
+# Navigation (example text: Style Guide  url: /style-guide/)
+navigation:
+  - text: About
+    url: /about/
+
+
+# Required Plugins
+plugins_dir:
+  - jekyll-paginate
+  - jekyll-tagsgenerator
+  - jekyll-seo-tag
+  - jekyll-sitemap
+
+# Pagination
+paginate: 5
+paginate_path: /page:num/
+
+# Permalinks
+permalink: /:title
+
+# Other
+markdown: kramdown
+
+# Sass
+sass:
+  sass_dir: _sass
+  style: compressed
