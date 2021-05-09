@@ -1,15 +1,13 @@
 ---
 layout: page
 title: About
-featured_image: /assets/images/pages/about.jpg
+featured_image: 
 ---
 
-Daniel Bennett is a senior developer from Vilnius, Lithuania. After graduating from The College with a degree in **Computer Science**, he worked for three small web shops where he honed his development skills and love for JavaScript.
+I am Felicity Brand (aka flicstar). I am a technical communicator — currently working remote, asynchronous and distributed (RAD!).
 
-His work has been recognized by Communication Arts, IBM, How, ID, IdN, AIGA, Effie, Archive, Graphis, AdFed and Rockport. **Net** magazine named him a person to watch in 2018.
+I am currently working as a communcations consultant alongside my amazing, learned and inspirational colleagues at [Open Strategy Partners](https://openstrategypartners.com/){:target="_blank"}; practicing empathy and working truthfully using our authentic communication model.
 
->The world always seems brighter when you’ve just made something that wasn’t there before. <cite>Neil Gaiman</cite>
+I am a member of the [TYPO3 Association](https://typo3.org/), an open source CMS project. I contribute to that project in the Documentation Team and Content Team. I co-authored [The TYPO3 Guidebook](https://www.apress.com/gp/book/9781484265246){:target="_blank"} published January 2021.
 
-As a hobby, Daniel authors the most influential JavaScript blog in Lithuania with over 100,000 page views a month. He lives in Vilnius with his beautiful wife, two boys and one girl.
-
-*Thank You for reading!*
+I am involved with [The Good Docs Project](https://thegooddocsproject.dev/){:target="_blank"}, creating best practice templates and writing instructions for documenting open source software.
