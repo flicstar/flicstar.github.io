@@ -17,13 +17,13 @@ ga_analytics:
 author:
   name: 'Felicity Brand'
   image: 'authorimage.jpeg'
-  greetings: "Felicity Brand - flicstar"
+  greetings: "Felicity Brand | flicstar"
   description: "I'm a Technical Communicator. I write online content—mostly with a technical focus and mostly in the software industry. I’m based in Melbourne, Australia."
   bio: 'Felicity Brand is a Communications Consultant. She writes a variety of technical content and has a special knack for designing visuals to communicate technical concepts. Felicity has more than ten years of experience as a writer and technical communicator, and spent her previous career as a business analyst. Felicity is passionate about open source and is based in Melbourne, Australia.'
 
 # Contact form setings
-email: flicstar@email.com
-contact_page_description: "Horace theme comes with a contact form built-in. You can use this form with Formspree service and get up to 50 submissions for free. Also, you can easily switch to another service if you want."
+email: flicstar@gmail.com
+contact_page_description: 
 thankyou_page_description: "Your message has been successfully sent. We will contact you very soon!"
 
 # Social links
