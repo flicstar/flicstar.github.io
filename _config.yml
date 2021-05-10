@@ -4,39 +4,39 @@ description: 'flicstar is a technical communicator, writing online content with 
 meta_description: 'flicstar is a technical communicator, writing online content with a technical focus.'
 logo: 'assets/images/logo.png'
 favicon: 'assets/images/favicon.ico'
-baseurl: 
+baseurl:
 production_url: https://flicstar.github.io/
 disqus: flicstar
 mailchimp_url: http://eepurl.com/hx8Sxr
 cover_image: bc_1.jpg
 # Add your GA Tracking Id
-ga_analytics: 
+ga_analytics:
 
 
 # Author
 author:
   name: 'Felicity Brand'
-  image: 'authorimage.jpeg'
+  image: 'authorimage.png'
   greetings: "Felicity Brand - flicstar"
   description: "I'm a Technical Communicator. I write online content—mostly with a technical focus and mostly in the software industry. I’m based in Melbourne, Australia."
   bio: 'Felicity Brand is a Communications Consultant. She writes a variety of technical content and has a special knack for designing visuals to communicate technical concepts. Felicity has more than ten years of experience as a writer and technical communicator, and spent her previous career as a business analyst. Felicity is passionate about open source and is based in Melbourne, Australia.'
 
 # Contact form setings
 email: flicstar@gmail.com
-contact_page_description: 
+contact_page_description:
 thankyou_page_description: "Your message has been successfully sent. We will contact you very soon!"
 
 # Social links
 twitter: 'felicitybrand'
-facebook: 
+facebook:
 github: 'flicstar'
-codepen: 
-dribbble: 
-medium: 
+codepen:
+dribbble:
+medium:
 instagram: 'flicstaryarnstar'
-pinterest: 
+pinterest:
 linkedin: 'felicitybrand'
-producthunt: 
+producthunt:
 
 # Navigation (example text: Style Guide  url: /style-guide/)
 navigation:
