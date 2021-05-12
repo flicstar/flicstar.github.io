@@ -2,7 +2,7 @@
 layout: post
 title:  "Application TYPO3 Podcast"
 tags: [ Talks ]
-featured_image_thumbnail: http://i3.ytimg.com/vi/X0Q4vCgftGU/hqdefault.jpg
+featured_image_thumbnail: 
 featured_image: 
 ---
 My first appearance in a podcast – [Application](https://typo3.org/article/meet-felicity-brand-typo3-guidebook-author-australia-application-podcast-s1e4) the TYPO3 Community Podcast, season 1 episode 4.
