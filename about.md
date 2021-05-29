@@ -4,8 +4,9 @@ title: About
 featured_image: 
 ---
 
-<img src="/assets/images/authorimage.png" alt="OSP logo" align="center" width="10%"/>
-I am Felicity Brand (aka flicstar). I am a technical communicator — currently working remote, asynchronous and distributed (RAD! 😎).
+<img src="/assets/images/authorimage.png" alt="OSP logo" align="middle" width="15%"/>
+I am Felicity Brand (aka flicstar). 
+I am a technical communicator — currently working remote, asynchronous and distributed (RAD! 😎).
 
 <img src="/assets/images/pages/osplogo.jpg" alt="OSP logo" align="right" width="100px"/>
 
