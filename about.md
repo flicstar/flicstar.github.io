@@ -8,7 +8,7 @@ I am Felicity Brand (aka flicstar).
 
 I am a technical communicator — currently working remote, asynchronous and distributed (RAD! 😎).
 
-![Open Strategy Partners logo](/assets/images/pages/osplogo.jpg#right width="200")
+<img src="/assets/images/pages/osplogo.jpg" alt="OSP logo" align="right" width="200"/>
 
 I am currently working as a communcations consultant alongside my amazing, learned and inspirational colleagues at [Open Strategy Partners](https://openstrategypartners.com/){:target="_blank"}; practicing empathy and working truthfully using our authentic communication model. 
 
