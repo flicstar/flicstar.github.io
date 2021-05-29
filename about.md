@@ -15,7 +15,7 @@ I work as a communcations consultant alongside my amazing, learned and inspirati
 
 <img src="/assets/images/pages/typo3logo.png" alt="TYPO3 logo" align="right" width="75px"/>
 
-I am a member of the [TYPO3 Association](https://typo3.org/){:target="_blank"}, an open source CMS project. I contribute to that project in the Documentation Team and Content Team. This is a great community. If you're looking for a CMS I can highly recommend it! I co-authored [The TYPO3 Guidebook](https://www.apress.com/gp/book/9781484265246){:target="_blank"}, published January 2021.
+I am a member of the [TYPO3 Association](https://typo3.org/){:target="_blank"}, an open source CMS. I contribute to that project in the Documentation Team and Content Team. This is a great community. If you're looking for a CMS I can highly recommend it! I co-authored [The TYPO3 Guidebook](https://www.apress.com/gp/book/9781484265246){:target="_blank"}, published January 2021.
 
 <img src="/assets/images/pages/doctopus.png" alt="The Good Docs Doctopus" align="right" width="100px"/>
 
