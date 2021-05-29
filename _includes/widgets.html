@@ -6,7 +6,7 @@
 {% endif %}
 
 <section class="widget widget-recent-posts">
-    <h2 class="widget-title">Recent Articles</h2>
+    <h2 class="widget-title">Blog Posts</h2>
     <ul>
         {% for post in site.posts limit:3 %}
         <li>
@@ -52,7 +52,7 @@ endcapture %} {% assign sortedTags = site_tags | split:',' | sort %}
 <section class="widget widget-newsletter">
     <div class="inner">
         <h2 class="widget-title">Subscribe to {{ site.name }}</h2>
-        <p>Get the latest and greatest from {{ site.name }} delivered straight to your inbox every week.</p>
+        <p>Get the latest from {{ site.name }} delivered to your inbox every week.</p>
         <!-- Begin MailChimp Signup Form -->
         <div id="mc_embed_signup">
             <form action="{{ site.mailchimp_url }}" method="post" id="mc-embedded-subscribe-form" name="mc-embedded-subscribe-form"
