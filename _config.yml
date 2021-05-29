@@ -6,7 +6,7 @@ logo: 'assets/images/logo.png'
 favicon: 'assets/images/favicon.ico'
 baseurl:
 production_url: https://flicstar.github.io/
-disqus: flicstar
+disqus: 
 mailchimp_url: http://eepurl.com/hx8Sxr
 cover_image: bc_1.jpg
 # Add your GA Tracking Id
