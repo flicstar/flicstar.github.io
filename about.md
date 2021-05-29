@@ -11,7 +11,7 @@ I am a technical communicator—currently working remote, asynchronous and distr
 
 <img src="/assets/images/pages/osplogo.jpg" alt="OSP logo" align="right" width="100px"/>
 
-I am currently working as a communcations consultant alongside my amazing, learned and inspirational colleagues at [Open Strategy Partners](https://openstrategypartners.com/){:target="_blank"}; practicing empathy and working truthfully using our authentic communication model. 
+I work as a communcations consultant alongside my amazing, learned and inspirational colleagues at [Open Strategy Partners](https://openstrategypartners.com/){:target="_blank"}; practicing empathy and working truthfully using our authentic communication model. 
 
 <img src="/assets/images/pages/typo3logo.png" alt="TYPO3 logo" align="right" width="75px"/>
 
