@@ -1,14 +1,14 @@
 ---
 layout: post
-title:  "Application TYPO3 Podcast"
+title:  "My First Podcast Experience"
 tags: [ Talks ]
 featured_image_thumbnail: http://i3.ytimg.com/vi/Qq3kg2Iw1GY/hqdefault.jpg
 featured_image: 
 ---
 
-![flicstar on YouTube video](http://i3.ytimg.com/vi/X0Q4vCgftGU/hqdefault.jpg "Still of podcast video")
-
 My first appearance in a podcast – [Application](https://typo3.org/article/meet-felicity-brand-typo3-guidebook-author-australia-application-podcast-s1e4) the TYPO3 Community Podcast, season 1 episode 4.
+
+![flicstar on YouTube video](http://i3.ytimg.com/vi/X0Q4vCgftGU/hqdefault.jpg "Still of podcast video")
 
 This podcast was [launched in 2020](https://typo3.org/article/meet-application-the-typo3-community-podcast) with the aim to celebrate the community members of the TYPO3 CMS project.
 
