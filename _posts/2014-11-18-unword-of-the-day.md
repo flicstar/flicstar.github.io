@@ -12,13 +12,17 @@ featured_image_thumbnail: https://images.unsplash.com/photo-1555431189-0fabf2667
 featured_image: https://images.unsplash.com/photo-1555431189-0fabf2667795?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=967&q=80
 ---
 
-> a whole nother very unique do the needful revert expel the virtues
+> a whole nother
+> very unique
+> do the needful
+> revert back
+> expel the virtues
 
 My husband used to work on a project at a major bank, and he dealt with staff in their many South East Asian offices. Working with lots of people who have English as their second language, he encountered a wide range of unusual language usage.
 
-Being a sensitive soul (and a tech writer in another life, I’m sure) he was often offended by some of the clangers he heard, and would bring them home for me to be shocked about.
+Being a sensitive soul, he was often offended by some of the clangers he heard, and would bring them home for me to be shocked about.
 
-Many blog posts have already been written about "_irregardless_" but that is one of the first he noticed. “D_o the needful_” is another favourite, and one he heard the other day was “_expel the virtues_”.
+Many blog posts have already been written about "_irregardless_" but that is one of the first he noticed. “_Do the needful_” is another favourite, and one he heard the other day was “_expel the virtues_”.
 
 #### It's everywhere
 
@@ -26,7 +30,7 @@ I subscribe to the view that English is a living language and I tend to embrace 
 
 > "I tried on the skirt and it fat real good".
 
-People who are new speakers of English tend to be able to combine pieces in new and interesting ways. In some cases they are just following the language instinct, something Stephen Pinker [wrote a whole book about](http://stevenpinker.com/publications/language-instinct).
+People who are new speakers of English tend to be able to combine pieces in new and interesting ways. In some cases they are just following the language instinct, something Stephen Pinker wrote a whole book about in [The Language Instinct](http://stevenpinker.com/publications/language-instinct).
 
 #### The point
 
