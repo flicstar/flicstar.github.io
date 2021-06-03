@@ -13,9 +13,13 @@ featured_image: https://images.unsplash.com/photo-1555431189-0fabf2667795?ixid=M
 ---
 
 _a whole nother_
+
 _very unique_
+
 _do the needful_
+
 _revert back_
+
 _expel the virtues_
 
 My husband used to work on a project at a major bank, and he dealt with staff in their many South East Asian offices. Working with lots of people who have English as their second language, he encountered a wide range of unusual language usage.
