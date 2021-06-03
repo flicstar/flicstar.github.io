@@ -1,7 +1,11 @@
 ---
 layout: post
 title:  "My First Podcast Experience"
-tags: [ Talks ]
+categories: 
+  - "talks"
+tags: 
+  - "podcast"
+  - "typo3"
 featured_image_thumbnail: http://i3.ytimg.com/vi/Qq3kg2Iw1GY/hqdefault.jpg
 featured_image: 
 ---
