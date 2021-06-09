@@ -1,6 +1,7 @@
 ---
 title: "Unword of the Day"
 date: "2014-11-18"
+summary: English is a living language.
 categories: 
   - "language"
 tags: 
