@@ -8,7 +8,7 @@ baseurl:
 production_url: https://flicstar.github.io/
 disqus: 
 mailchimp_url: 
-title_image: 'assets/images/logo.png'
+title_image: 'assets/images/title_image.jpg'
 cover_image: bc_1.jpg
 # Add your GA Tracking Id
 ga_analytics:
