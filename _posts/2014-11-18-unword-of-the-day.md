@@ -9,7 +9,7 @@ tags:
   - "cultural-differences"
   - "language"
   - "slang"
-image:  /assets/images/pages/about.jpg
+image:  /assets/images/pages/unword.jpg
 featured_image_thumbnail: https://images.unsplash.com/photo-1555431189-0fabf2667795?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=967&q=80
 featured_image: https://images.unsplash.com/photo-1555431189-0fabf2667795?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=967&q=80
 ---
