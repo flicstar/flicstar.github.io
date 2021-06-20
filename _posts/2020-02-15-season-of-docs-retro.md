@@ -3,7 +3,7 @@ title: "Season of Docs Retro"
 date: "2020-02-15"
 categories: [ season-of-docs, talks ]
 image: /assets/images/seasonofdocs_logo.png
-featured_image_thumbnail: 
+featured_image_thumbnail: /assets/images/seasonofdocs_logo.png
 featured_image: 
 ---
 
