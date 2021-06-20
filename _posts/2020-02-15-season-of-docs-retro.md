@@ -1,10 +1,10 @@
 ---
 title: "Season of Docs Retro"
 date: "2020-02-15"
-tags: [ season-of-docs, talks ]
+tags: [ season-of-docs, write-the-docs, talks ]
 image: /assets/images/seasonofdocs_logo.png
 featured_image_thumbnail: /assets/images/seasonofdocs_logo.png
-featured_image: https://www.writethedocs.org/_static/sticker-wtd-colors.png
+featured_image: https://typo3.org/fileadmin/t3o_common_storage/news/2020/05/Possible_Profile_Pic3.jpg
 ---
 
 I presented this talk at the [Write the Docs Meetup Melbourne](https://www.meetup.com/en-AU/Write-the-Docs-Australia/events/268284615/) in February 2020.
