@@ -3,12 +3,11 @@ title: "Project Report for Season of Docs 2019"
 date: "2019-11-27"
 tags: [season-of-docs, work-samples]
 image: /assets/images/seasonofdocs.png
-featured_image_thumbnail: osgeolivebannerlogo.png
+featured_image_thumbnail: /assets/images/osgeolivebannerlogo.png
 featured_image: 
-
 ---
 
-## 
+## Project Report for Season of Docs 2019
 
 The inaugural Google [Season of Docs](https://developers.google.com/season-of-docs) program ran from March through to November 2019, to bring open source projects and technical writers together. 
 
