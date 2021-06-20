@@ -1,7 +1,7 @@
 ---
 layout: post
-title:  "My First Podcast Experience"
-summary: My first appearance in a podcast.
+title:  "Application, the TYPO3 Community Podcast"
+summary: Application, the TYPO3 Community Podcast.
 categories: 
   - "talks"
 tags: 
@@ -12,13 +12,13 @@ featured_image_thumbnail: http://i3.ytimg.com/vi/Qq3kg2Iw1GY/hqdefault.jpg
 featured_image: 
 ---
 
-My first appearance in a podcast – [Application](https://typo3.org/article/meet-felicity-brand-typo3-guidebook-author-australia-application-podcast-s1e4) the TYPO3 Community Podcast, season 1 episode 4.
+This year I made my first appearance in a podcast – [Application, the TYPO3 Community Podcast](https://typo3.org/article/meet-felicity-brand-typo3-guidebook-author-australia-application-podcast-s1e4), season 1 episode 4.
 
 ![flicstar on YouTube video](http://i3.ytimg.com/vi/X0Q4vCgftGU/hqdefault.jpg "Still of podcast video")
 
-This podcast was [launched in 2020](https://typo3.org/article/meet-application-the-typo3-community-podcast) with the aim to celebrate the community members of the TYPO3 CMS project.
+This podcast was [launched in 2020](https://typo3.org/article/meet-application-the-typo3-community-podcast) with the aim to celebrate the community members of the TYPO3 CMS project. 
 
-I spent last year co-authoring a [guidebook about TYPO3](https://www.apress.com/gp/book/9781484265246), to promote adoption of the open-source, enterprise content management system.
+We spent the episode talking about the book I co-authored for the community, [the TYPO3 Guidebook](https://www.apress.com/gp/book/9781484265246), which we wrote to promote adoption of the open-source, enterprise content management system.
 
 <!-- blank line -->
 <figure class="video_container">
