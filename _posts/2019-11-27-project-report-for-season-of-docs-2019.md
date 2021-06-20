@@ -1,5 +1,6 @@
 ---
 title: "Project Report for Season of Docs 2019"
+summary: My project report for Season of Docs 2019.
 date: "2019-11-27"
 tags: [season-of-docs, work-samples]
 image: /assets/images/seasonofdocs.png
