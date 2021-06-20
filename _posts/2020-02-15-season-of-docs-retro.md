@@ -1,10 +1,10 @@
 ---
 title: "Season of Docs Retro"
 date: "2020-02-15"
-categories: 
-  - "talks"
-tags: 
-  - "season-of-docs"
+categories: [ season-of-docs, talks ]
+image: /assets/images/seasonofdocs_logo.png
+featured_image_thumbnail: 
+featured_image: 
 ---
 
 I presented this talk at the [Write the Docs Meetup Melbourne](https://www.meetup.com/en-AU/Write-the-Docs-Australia/events/268284615/) in February 2020.
@@ -91,4 +91,9 @@ Follow the Google [Open Source blog](https://opensource.googleblog.com/) for upd
 
 ## Watch it
 
-\[youtube https://www.youtube.com/watch?v=0P4vfpEXJhQ?start=6\]
+<!-- blank line -->
+<figure class="video_container">
+  <iframe src="https://www.youtube.com/embed/0P4vfpEXJhQ" frameborder="0" allowfullscreen="true"> </iframe>
+</figure>
+<!-- blank line -->
+
