@@ -13,7 +13,7 @@ It is a retrospective on the [Google Season of Docs](https://developers.google.c
 
 For Season of Docs 2019, I worked on a project for the [Open Source Geospatial Foundation](https://www.osgeo.org/) (OSGeo). My [project report](https://flicstar.com/2019/11/27/project-report-for-season-of-docs-2019/) describes the work I completed in detail.
 
-Open source culture shock
+## Open source culture shock
 
 Tech writing is tech writing. In an open source environment, it’s the surrounding pieces that are different. 
 
@@ -21,7 +21,7 @@ You need to understand your PAD (purpose, audience, delivery) and that means ado
 
 Eric S Raymond wrote a book called “[The Cathedral and the Bazaar](https://en.wikipedia.org/wiki/The_Cathedral_and_the_Bazaar)”. In it, he describes open source development as “a great babbling bazaar of differing agendas and approaches ... out of which a coherent and stable system could seemingly emerge only by a succession of miracles.”
 
-### Heighten your awareness of the group
+## Heighten your awareness of the group
 
 Most open source communities are distributed communities.  According to Fabian Pfortmüller, that means they’ve probably developed over a long period of time, have a strong sense of shared identity and they want to co-create or feel co-ownership. [Key to understanding communities: the centralized to distributed spectrum](https://medium.com/together-institute/key-to-understanding-communities-the-centralized-to-distributed-spectrum-f41436f7a2f3)
 
@@ -31,7 +31,7 @@ Abide by the Code of Conduct.
 
 (Shout out to @[peitschie](https://github.com/peitschie) for helping me with culture shock.)
 
-### Show up. Do the work.
+## Show up. Do the work.
 
 Guy Martin says that you have to earn your role in the community. "The only way to do that is to gain credibility and make contributions." [Building leadership in an open source community](https://www.linuxfoundation.org/resources/open-source-guides/building-leadership-in-an-open-source-community/) 
 
