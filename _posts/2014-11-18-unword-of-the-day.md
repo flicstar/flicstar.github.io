@@ -37,3 +37,7 @@ People who are new speakers of English tend to be able to combine pieces in new 
 #### The point
 
 It's not worth losing sleep over. Try to go with the flow and don't censure people when you think they've made a mistake. It may be hard to relinquish the meanings of words like "literally" which has [recently had a 'secondary' meaning accepted in the dictionary](http://www.salon.com/2013/08/22/according_to_the_dictionary_literally_now_also_means_figuratively_newscred/), but this is the way of the future and sometimes I think if you can't beat 'em, join 'em.
+
+---
+
+Image credits: Choose your words scrabble tiles photo by [@brett_jordan](https://unsplash.com/@brett_jordan) on Unsplash.
