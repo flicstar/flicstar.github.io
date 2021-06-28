@@ -23,10 +23,6 @@ Anyway, we needed to reinvent a lot of things when the new management came in. A
 </figure>
 <!-- blank line -->
 
-<!-- blank line -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/4Lrbw4-vkFM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-<!-- blank line -->
-
 I never thought of myself as an “ideas man”. But in a short period of time we were re-designing release notes and thinking up new ways to engage with clients to improve our service and value offering.
 
 We had to come up with technical solutions, too, for delivering our content in regional centres.
@@ -47,7 +43,7 @@ Tech writers often work in an orderly and structured way, and can sometimes find
 
 Get a bit of paper and a pen. Mark out a shape first (square, circle, whatever) then divide it up and fill in each section with a repetitive design. Sounds simple, but it's very effective.  And you feel like you’ve made something really cool at the end even though you’ve just been drawing lines and squiggles.
 
-![Zentangle instructions](/assets/images/zentangle.jpg “Zentangle instructions”)
+![Zentangle instructions](/assets/images/zentangle.jpg)
 
 When you’re doing it, don’t focus on the problem you’re trying to solve, just enjoy the doodling. You’ll feel pretty chilled out afterward and you’ll find that new ideas will come to you pretty easily. You'll become a natural problem solver!
 
