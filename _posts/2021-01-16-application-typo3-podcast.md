@@ -5,7 +5,7 @@ summary: Application, the TYPO3 Community Podcast.
 categories: 
   - "talks"
 tags: 
-  - "podcast"
+  - "talks"
   - "typo3"
 image:  /assets/images/podcast.jpg
 featured_image_thumbnail: http://i3.ytimg.com/vi/Qq3kg2Iw1GY/hqdefault.jpg
