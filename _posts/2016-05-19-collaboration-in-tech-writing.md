@@ -22,3 +22,7 @@ A little while ago I helped a friend write a Wikipedia article. We worked on it 
 ## Teamwork is empowering
 
 Working in a team of writers is rewarding. It reminds me of a quilting bee - a group of people working on a project, each bringing their own strengths and working toward a common goal.
+
+---
+
+Image credits: The Quilting Bee, 19th Century Americana By Morgan Weistling.
