@@ -3,12 +3,10 @@ layout: post
 title: "Creative problem solving for tech writers"
 summary: Creativity begets creativity. Try Zentangle!
 date: "2016-02-19"
-categories: 
-  - "creativity"
 tags: [ writing, creativity ]
-image: /assets/images/seasonofdocs_logo.png
-featured_image_thumbnail: 
-featured_image: 
+image: /assets/images/zentangle.jpg
+featured_image_thumbnail: /assets/images/zentangle.jpg
+featured_image: /assets/images/zentangle.jpg
 ---
 
 How much problem solving do you do in your role as a tech writer? I used to do quite a lot. The company I was working at had a start-up mentality and culture. New ideas were encouraged and we usually had little to no budget.
@@ -21,8 +19,12 @@ Anyway, we needed to reinvent a lot of things when the new management came in. A
 
 <!-- blank line -->
 <figure class="video_container">
-  <iframe src="https://www.youtube.com/watch?v=4Lrbw4-vkFM" frameborder="0" allowfullscreen="true"> </iframe>
+  <iframe src="https://www.youtube.com/embed/4Lrbw4-vkFM" title="YouTube video player" frameborder="0" allowfullscreen="true"> </iframe>
 </figure>
+<!-- blank line -->
+
+<!-- blank line -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/4Lrbw4-vkFM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 <!-- blank line -->
 
 I never thought of myself as an “ideas man”. But in a short period of time we were re-designing release notes and thinking up new ways to engage with clients to improve our service and value offering.
@@ -45,7 +47,7 @@ Tech writers often work in an orderly and structured way, and can sometimes find
 
 Get a bit of paper and a pen. Mark out a shape first (square, circle, whatever) then divide it up and fill in each section with a repetitive design. Sounds simple, but it's very effective.  And you feel like you’ve made something really cool at the end even though you’ve just been drawing lines and squiggles.
 
-![Zentangle instructions”](/assets/images/zentangle.jpg “Zentangle instructions”)
+![Zentangle instructions](/assets/images/zentangle.jpg “Zentangle instructions”)
 
 When you’re doing it, don’t focus on the problem you’re trying to solve, just enjoy the doodling. You’ll feel pretty chilled out afterward and you’ll find that new ideas will come to you pretty easily. You'll become a natural problem solver!
 
