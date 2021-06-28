@@ -3,10 +3,10 @@ layout: post
 title: "Collaboration in Tech Writing"
 summary: I love collaborative writing. I think it is the best way to achieve excellence in a piece of written work.
 date: "2016-05-19"
-tags: [ collaboration ]
+tags: [ writing, collaboration ]
 image: /assets/images/quilting.jpg
 featured_image_thumbnail: /assets/images/quilting.jpg
-featured_image: /assets/images/quilting.png
+featured_image: /assets/images/quilting.jpg
 ---
 
 I love collaborative writing. I think it is sometimes the best way to achieve excellence in a piece of written work.
