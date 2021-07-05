@@ -2,7 +2,7 @@
 layout: post
 title: "Newsletters I follow"
 summary: A list of newsletters I subscribe to for work and play.
-date: "2020-02-15"
+date: "2021-07-05"
 tags: [ resources ]
 image: /assets/images/newsletter.png
 featured_image_thumbnail: /assets/images/newsletter.png
