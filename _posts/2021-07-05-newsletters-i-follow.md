@@ -11,14 +11,14 @@ featured_image: /assets/images/newsletter.png
 
 A list of newsletters that I subscribe to for work and play.
 
-I subscribe to a lot of newsletters. The ones I like best come weekly (or better yet, monthly!) and straight to my inbox. I tried Feedly but it didn't suit the way I like to consume information. 
+I subscribe to a lot of newsletters. The ones I like best come weekly (or better yet, monthly!) and straight to my inbox. I tried [Feedly](https://feedly.com/) but it didn't suit the way I like to consume information. 
 
 I think the best newsletters contain practical and useful content. 
 
 ## Currently reading
 
 ### Work 
-These newsletters cover a range of things I'm interested for my professional work like writing, UX, DevRel and tech.
+These newsletters cover a range of things I'm interested in, like writing, UX, DevRel and tech.
 
 * [Write the docs](https://www.writethedocs.org/newsletter/)
 * [DevRelWeekly](https://devrelweekly.com/ )
