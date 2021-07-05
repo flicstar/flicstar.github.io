@@ -9,10 +9,7 @@ featured_image_thumbnail: /assets/images/newsletter.png
 featured_image: /assets/images/newsletter.png
 ---
 
-I subscribe to a lot of newsletters. I like best the ones that are weekly or better yet, monthly. I like to receive then read pretty much straight away.
-I tried that other tool, but it requires me to go in and read, which doesn't work for me. 
-This way, it's curated, its in context and I can follow up and read in the moment or in the next few days. File it away. I can see how big it is and how much time to devote.
-
+Here is a list of newsletters that I subscribe to for work and play.
 
 ## Currently reading
 
