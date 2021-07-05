@@ -9,7 +9,11 @@ featured_image_thumbnail: /assets/images/newsletter.png
 featured_image: /assets/images/newsletter.png
 ---
 
-Here is a list of newsletters that I subscribe to for work and play.
+A list of newsletters that I subscribe to for work and play.
+
+I subscribe to a lot of newsletters. The ones I like best come weekly (or better yet, monthly!) and straight to my inbox. I tried Feedly but it didn't suit the way I like to consume information. 
+
+I think the best newsletters contain practical and useful content. 
 
 ## Currently reading
 
