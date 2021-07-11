@@ -25,6 +25,7 @@ These newsletters cover a range of things I'm interested in, like writing, UX, D
 * [Developer Microskills](https://developermicroskills.com/) from Sam Julien. Not just for developers! My current favourite newsletter!
 * [The 3-2-1 Newsletter](https://jamesclear.com/3-2-1) from James Clear.
 * [UX Writing Events](https://www.uxwritingevents.com/ ) from Scott Kubie. Not just about events.
+* [Bizarro Devs](https://bizzarodevs.com/issues/)
 * [Developer Avocados](https://tinyletter.com/developeravocados)
 * [The Observatory](https://orbit.love/blog). Community newsletter from Orbit.
 * [Increment](https://store.increment.com/products/increment-subscription). A quarterly, full-color magazine that is excellent.
