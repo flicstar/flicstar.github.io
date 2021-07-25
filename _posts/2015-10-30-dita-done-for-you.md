@@ -8,9 +8,11 @@ featured_image_thumbnail: /assets/images/dita.png
 featured_image: /assets/images/dita.png
 ---
 
-Let's face it: **[DITA](https://en.wikipedia.org/wiki/Darwin_Information_Typing_Architecture) is hard work**. There is a steep learning curve and once you get it, you feel like you deserve an "I've climbed Everest" t-shirt.![drivermanual](/assets/images/drivermanual.jpg width="100")
+Let's face it: **[DITA](https://en.wikipedia.org/wiki/Darwin_Information_Typing_Architecture) is hard work**. There is a steep learning curve and once you get it, you feel like you deserve an "I've climbed Everest" t-shirt. 
 
 A little while ago, I developed an open-source sample [DITA](https://en.wikipedia.org/wiki/Darwin_Information_Typing_Architecture) project. It is hosted on [GitHub](https://github.com/flicstar/DITA-Mini-Manual) and is based on a 1960's [Morris Mini Minor](https://en.wikipedia.org/wiki/Mini) Owner's manual.
+
+[<img src="/assets/images/drivermanual.jpg" width="200"/>](/assets/images/drivermanual.jpg)
 
 It will suit anyone wanting to explore a real DITA documentation project or anyone with an interest in Minis!
 
