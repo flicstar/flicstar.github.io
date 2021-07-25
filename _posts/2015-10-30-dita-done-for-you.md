@@ -4,8 +4,8 @@ date: "2015-10-30"
 summary: I did DITA so you don't have to.
 tags: [writing-and-style, dita, work-samples, open-source ] 
 image:  /assets/images/dita.png
-featured_image_thumbnail: 
-featured_image: 
+featured_image_thumbnail: /assets/images/dita.png
+featured_image: /assets/images/dita.png
 ---
 
 Let's face it: **[DITA](https://en.wikipedia.org/wiki/Darwin_Information_Typing_Architecture) is hard work**. There is a steep learning curve and once you get it, you feel like you deserve an "I've climbed Everest" t-shirt.![drivermanual](/assets/images/drivermanual.jpg?w=96)
@@ -53,3 +53,5 @@ If you are looking to self-learn DITA, check out the training course hosted by [
 Another great resource is Tom Johnson's series of posts about his DITA journey:
 
 [http://idratherbewriting.com/2014/04/16/my-dita-journey-begins/](http://idratherbewriting.com/2014/04/16/my-dita-journey-begins/)
+
+Visit the official OASIS site for everything DITA: https://www.oasis-open.org/committees/tc_home.php?wg_abbrev=dita
