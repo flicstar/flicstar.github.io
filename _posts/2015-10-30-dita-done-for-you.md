@@ -8,7 +8,7 @@ featured_image_thumbnail: /assets/images/dita.png
 featured_image: /assets/images/dita.png
 ---
 
-Let's face it: **[DITA](https://en.wikipedia.org/wiki/Darwin_Information_Typing_Architecture) is hard work**. There is a steep learning curve and once you get it, you feel like you deserve an "I've climbed Everest" t-shirt.![drivermanual](/assets/images/drivermanual.jpg height="100")
+Let's face it: **[DITA](https://en.wikipedia.org/wiki/Darwin_Information_Typing_Architecture) is hard work**. There is a steep learning curve and once you get it, you feel like you deserve an "I've climbed Everest" t-shirt.![drivermanual](/assets/images/drivermanual.jpg width="100")
 
 A little while ago, I developed an open-source sample [DITA](https://en.wikipedia.org/wiki/Darwin_Information_Typing_Architecture) project. It is hosted on [GitHub](https://github.com/flicstar/DITA-Mini-Manual) and is based on a 1960's [Morris Mini Minor](https://en.wikipedia.org/wiki/Mini) Owner's manual.
 
@@ -46,7 +46,7 @@ The project is available for anyone to download from [my repo on GitHub](https:/
 
 #### Where can I learn more?
 
-If you are looking to self-learn DITA, check out the training course hosted by [Scriptorium](http://www.scriptorium.com/2015/05/dita-training-call-for-participation), [also on Git Hub](https://github.com/okeefescriptorium/ditatraining).
+If you are looking to self-learn DITA, check out the training course hosted by [Scriptorium](http://www.scriptorium.com/2015/05/dita-training-call-for-participation), also [on Git Hub](https://github.com/okeefescriptorium/ditatraining).
 
 Another great resource is Tom Johnson's series of posts about [his DITA journey](http://idratherbewriting.com/2014/04/16/my-dita-journey-begins/).
 
