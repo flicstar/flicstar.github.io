@@ -8,7 +8,7 @@ featured_image_thumbnail: /assets/images/dita.png
 featured_image: /assets/images/dita.png
 ---
 
-Let's face it: **[DITA](https://en.wikipedia.org/wiki/Darwin_Information_Typing_Architecture) is hard work**. There is a steep learning curve and once you get it, you feel like you deserve an "I've climbed Everest" t-shirt.![drivermanual](/assets/images/drivermanual.jpg?w=96)
+Let's face it: **[DITA](https://en.wikipedia.org/wiki/Darwin_Information_Typing_Architecture) is hard work**. There is a steep learning curve and once you get it, you feel like you deserve an "I've climbed Everest" t-shirt.![drivermanual](/assets/images/drivermanual.jpg?h=100)
 
 A little while ago, I developed an open-source sample [DITA](https://en.wikipedia.org/wiki/Darwin_Information_Typing_Architecture) project. It is hosted on [GitHub](https://github.com/flicstar/DITA-Mini-Manual) and is based on a 1960's [Morris Mini Minor](https://en.wikipedia.org/wiki/Mini) Owner's manual.
 
@@ -16,7 +16,7 @@ It will suit anyone wanting to explore a real DITA documentation project or anyo
 
 * * *
 
-[![ManualSnippet](/assets/images/manualsnippet.png)
+[!ManualSnippet](/assets/images/manualsnippet.png)
 
 * * *
 
@@ -54,4 +54,4 @@ Another great resource is Tom Johnson's series of posts about his DITA journey:
 
 [http://idratherbewriting.com/2014/04/16/my-dita-journey-begins/](http://idratherbewriting.com/2014/04/16/my-dita-journey-begins/)
 
-Visit the official OASIS site for everything DITA: https://www.oasis-open.org/committees/tc_home.php?wg_abbrev=dita
+Visit the official OASIS site for everything DITA: [https://www.oasis-open.org/committees/tc_home.php?wg_abbrev=dita](https://www.oasis-open.org/committees/tc_home.php?wg_abbrev=dita)
