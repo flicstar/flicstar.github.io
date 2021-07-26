@@ -11,7 +11,7 @@ featured_image:
 
 I stumbled across a great 404 page the other day over at [GitHub](https://github.com/404). I’m a Star Wars fan so this really tickled me. It's got the parallax affect too. Kinda cool.
 
-[![github404](/assets/images/github404.png)
+![github404](/assets/images/github404.png)
 
 404 pages don't scare me anymore. I eyeballed the URL, removed an errant character and the page displayed fine. It's not always that easy.
 
