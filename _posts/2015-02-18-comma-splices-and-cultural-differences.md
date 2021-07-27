@@ -1,6 +1,6 @@
 ---
 title: "Comma splices and cultural differences"
-summary:
+summary: You’re allowed to break the rules so long as you understand what rule you’re breaking.
 date: "2015-02-18"
 tags: [writing-and-style]
 image: /assets/images/splicecomma.png
