@@ -23,7 +23,7 @@ Next, because I was using iron-on transfer paper I needed to print the text bac
 
 ![Backward text](/assets/images/backward.jpg)
 
-**Result**
+##Result##
 
 You can't turn tech writing off, no matter the project.
 
