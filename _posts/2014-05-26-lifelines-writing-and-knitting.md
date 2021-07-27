@@ -19,7 +19,7 @@ The most reliable way to recover from a mistake is to use a _lifeline_. A lifeli
 
 ![Lifeline](/assets/images/lifeline.jpg)
 
-##Tech writing lifeline##
+## Tech writing lifeline ##
 
 Source control is a lifeline in tech writing.
 
@@ -31,7 +31,7 @@ Just like the second cup of tea is never as good as the first, I can never quite
 
 With source control, you don’t have to recall artful phrases from memory or reconstruct lost work.
 
-##Know how it works##
+## Know how it works ##
 
 Most authoring tools these days integrate with source control software. I recommend that you become familiar with the nuts and bolts of how your source control system behaves.
 
