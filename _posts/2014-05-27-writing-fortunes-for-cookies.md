@@ -1,10 +1,10 @@
 ---
 title: "Writing fortunes for cookies"
 date: "2014-05-27"
-summary: 
+summary: Ever had to write a fortune?
 tags: [writing-and-style]
-image: /assets/images/.png
-featured_image_thumbnail: /assets/images/.png
+image: 
+featured_image_thumbnail: 
 featured_image: 
 
 ---
@@ -21,10 +21,10 @@ Writing challenge! I knew I wouldn't have a lot of space or flexibility for pres
 
 Next, because I was using iron-on transfer paper I needed to print the text backwards. I created mirror text in Word and did a few test prints.
 
-\[gallery type="rectangular" ids="54,55"\]
+![Backward text](/assets/images/backward.jpg)
 
 **Result**
 
 You can't turn tech writing off, no matter the project.
 
-[![image4](http://flicstar.files.wordpress.com/2014/05/image4.jpeg?w=634)](http://flicstar.files.wordpress.com/2014/05/image4.jpeg)
+![Fortune cookie](/assets/images/fortune.jpg)
