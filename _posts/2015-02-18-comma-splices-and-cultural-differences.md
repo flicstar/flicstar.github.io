@@ -8,7 +8,7 @@ featured_image_thumbnail: /assets/images/splicecomma.png
 featured_image: /assets/images/splicecomma.png
 ---
 
-The craft of crochet is fundamentally the same, but the stitch names are different in the UK  and the US. The same stitches have different names. A single crochet (sc) in America is a double crochet (dc) in England. You have to be very aware of the origin of your pattern before you start.
+The craft of crochet is fundamentally the same, but the stitch names are different in the UK  and the US. The same stitches have different names. A single crochet (sc) in America is a double crochet (dc) in England. You have to be very aware of the origin of your pattern before you start. 
 
 And knitting comes in English and Continental style flavours. The same fundamental concept, just that you hold the yarn and needles differently.
 
@@ -34,7 +34,8 @@ My Aussie colleague would confidently tell me that she would often end sentences
 
 I have always been of the belief that as a tech writer:
 
-> You’re allowed to break the rules so long as you understand what rule you’re breaking
+> You’re allowed to break the rules so long
+  as you understand what rule you’re breaking
 
 And it’s all about effective communication of information to your audience.
 
