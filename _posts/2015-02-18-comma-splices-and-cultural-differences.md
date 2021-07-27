@@ -35,7 +35,7 @@ My Aussie colleague would confidently tell me that she would often end sentences
 I have always been of the belief that as a tech writer:
 
 > You’re allowed to break the rules so long
-  as you understand what rule you’re breaking
+> as you understand what rule you’re breaking
 
 And it’s all about effective communication of information to your audience.
 
