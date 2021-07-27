@@ -1,10 +1,10 @@
 ---
 title: "Lifelines in writing and knitting"
-summary:
+summary: Being able to reclaim work is very important as a writer and a crafter.
 date: "2014-05-26"
 tags: [writing-and-style]
-image: /assets/images/.png
-featured_image_thumbnail: /assets/images/.png
+image: 
+featured_image_thumbnail: 
 featured_image: 
 
 ---
@@ -17,9 +17,9 @@ More drastically you can _frog_ your knitting, which means you take the stitches
 
 The most reliable way to recover from a mistake is to use a _lifeline_. A lifeline is a strand of yarn that you thread through the stitches on the needle and it acts as a place marker. You can confidently return to a known point in time and the stitches won’t unravel past your lifeline. This is as safe as source control.
 
-[![](images/20140608-095858-35938417.jpg)](http://flicstar.files.wordpress.com/2014/06/20140608-095858-35938417.jpg)
+![Lifeline](/assets/images/lifeline.jpg)
 
-**Tech writing lifeline**
+##Tech writing lifeline##
 
 Source control is a lifeline in tech writing.
 
@@ -31,7 +31,7 @@ Just like the second cup of tea is never as good as the first, I can never quite
 
 With source control, you don’t have to recall artful phrases from memory or reconstruct lost work.
 
-**Know how it works**
+##Know how it works##
 
 Most authoring tools these days integrate with source control software. I recommend that you become familiar with the nuts and bolts of how your source control system behaves.
 
@@ -42,4 +42,4 @@ Most authoring tools these days integrate with source control software. I recomm
 
 Be aware of the flexibility and limitations of your source control software - it might just save your life.
 
-[![](images/20140608-095859-35939207.jpg)](http://flicstar.files.wordpress.com/2014/06/20140608-095859-35939207.jpg)Find out more about [fixing your knitting mistakes](http://knitca.blogspot.ca/2013/05/how-to-fix-knitting-mistakes-to-tink-or.html).
+![Scarf](/assets/images/scarf.jpg)
