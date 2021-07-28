@@ -3,7 +3,7 @@ layout: post
 title: "Zentangle graphic instructions"
 summary: A cool example of instructions without words.
 date: "2014-05-20"
-tags: [ instructions-and-procedures
+tags: [ instructions-and-procedures ]
 image: 
 featured_image_thumbnail: 
 featured_image: 
