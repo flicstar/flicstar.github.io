@@ -1,4 +1,5 @@
 ---
+layout: post
 title: "Zentangle graphic instructions"
 summary:
 date: "2014-05-20"
@@ -6,7 +7,6 @@ tags: [ instructions-and-procedures
 image: 
 featured_image_thumbnail: 
 featured_image: 
-
 ---
 
 A cool example of instructions without words:
