@@ -6,7 +6,7 @@ date: "2021-08-04"
 tags: [ talks, events, TYPO3, devrel ]
 image: /assets/images/T3OD21.png
 featured_image_thumbnail: /assets/images/T3OD21.png
-featured_image: /assets/images/T3OD21EventCard.png
+featured_image: /assets/images/T3ODEventCard.png
 ---
 
 In late July 2021, I was very pleased to be able to share the story of The TYPO3 Guidebook, and how we channelled the expertise of an open source community to create a cohesive work.
@@ -27,7 +27,7 @@ This is now an asset for TYPO3 (all book proceeds go back into the community) wh
 
 <!-- blank line -->
 <figure class="video_container">
-  <iframe src="https://youtu.be/b4P0D3cQi3s?t=6625" frameborder="0" allowfullscreen="true"> </iframe>
+  <iframe src="https://youtube.com/embed/b4P0D3cQi3s?t=6625" frameborder="0" allowfullscreen="true"> </iframe>
 </figure>
 <!-- blank line -->
 
