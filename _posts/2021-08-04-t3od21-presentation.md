@@ -21,7 +21,7 @@ It was a pleasure and privilege for me to be able to take part in this event and
 
 This is a great story about developer relations and developer advocacy. We were able to capture the expertise of the designers, engineers, and experts in the TYPO3 community and weave their story into a cohesive whole. 
 
-This is now an asset for TYPO3 (all book proceeds go back into the community) which will serve to introduce the CMS to newcomers, and broaden its reach to an international audience. Growing the community, increasing contributions and the expanding the user base.
+This is now an asset for TYPO3 (all book proceeds go back into the community) which will serve to introduce the CMS to newcomers, and broaden its reach to an international audience. Growing the community, increasing contributions and expanding the user base.
 
 ### Watch it
 
