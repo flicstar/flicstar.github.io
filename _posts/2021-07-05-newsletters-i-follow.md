@@ -30,6 +30,7 @@ These newsletters cover a range of things I'm interested in, like writing, UX, D
 * [The Observatory](https://orbit.love/blog). Community newsletter from Orbit.
 * [Increment](https://store.increment.com/products/increment-subscription). A quarterly, full-color magazine that is excellent.
 * [Josh Comeau](https://www.joshwcomeau.com/). "A front-end web development newsletter that sparks joy". It's excellent!
+* [The Communities Show](https://www.communities.show/)
 * [Velocity](https://velocitypartners.com/blog/). B2B content marketing. I still haven't decided if I'm going to continue reading this one.
 * [FeverBee](https://www.feverbee.com/richs-blog/). Richard posts too frequently - sometimes daily! No matter the quality of the content, I'm going to unsubscribe.
 
