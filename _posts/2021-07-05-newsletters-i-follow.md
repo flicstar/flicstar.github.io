@@ -22,7 +22,7 @@ These newsletters cover a range of things I'm interested in, like writing, UX, D
 
 * [Write the docs](https://www.writethedocs.org/newsletter/)
 * [DevRelWeekly](https://devrelweekly.com/ )
-* [Developer Microskills](https://developermicroskills.com/) from Sam Julien. Not just for developers! My current favourite newsletter!
+* [Developer Microskills](https://developermicroskills.com/) from Sam Julien. Not just for developers! My current favourite newsletter! Fully of practical tips. ♥
 * [The 3-2-1 Newsletter](https://jamesclear.com/3-2-1) from James Clear.
 * [UX Writing Events](https://www.uxwritingevents.com/ ) from Scott Kubie. Not just about events.
 * [Bizarro Devs](https://bizzarodevs.com/issues/)
@@ -30,8 +30,8 @@ These newsletters cover a range of things I'm interested in, like writing, UX, D
 * [The Observatory](https://orbit.love/blog). Community newsletter from Orbit.
 * [Increment](https://store.increment.com/products/increment-subscription). A quarterly, full-color magazine that is excellent.
 * [Josh Comeau](https://www.joshwcomeau.com/). "A front-end web development newsletter that sparks joy". It's excellent!
-* [The Communities Show](https://www.communities.show/)
-* [Velocity](https://velocitypartners.com/blog/). B2B content marketing. I still haven't decided if I'm going to continue reading this one.
+* [The Communities Show](https://www.communities.show/). I rarely have time to watch an entire episode, but I love reading the newsletters! Most of the in-jokes go over my head.
+* [Velocity](https://velocitypartners.com/blog/). B2B content marketing. Tongue in cheek. Tries for irony. Somewhat loathsome yet I can't look away.
 * [FeverBee](https://www.feverbee.com/richs-blog/). Richard posts too frequently - sometimes daily! No matter the quality of the content, I'm going to unsubscribe.
 
 
