@@ -9,7 +9,7 @@ featured_image:
 
 I am a technical communicator—currently working remote, asynchronous and distributed (RAD! 😎).
 
-<img src="/assets/images/pages/osplogo.jpg" alt="OSP logo" align="right" width="100px"/>
+<img src="/assets/images/pages/osplogo.jpg" alt="OSP logo" align="right" width="80px"/>
 
 I work as a communcations consultant alongside my amazing, learned and inspirational colleagues at [Open Strategy Partners](https://openstrategypartners.com/){:target="_blank"}; practicing empathy and working truthfully using our authentic communication model. 
 
