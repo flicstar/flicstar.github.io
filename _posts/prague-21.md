@@ -73,6 +73,6 @@ You can add to your stable of content. One that can sit comfortably alongside th
 
 You can buy the book at all good bookstores (for example, [Amazon](https://www.amazon.com/dp/1484265246/)), and in the [TYPO3 Shop](https://shop.typo3.com/).
 
-Talk about the book on Twitter with the hashtag #TYPO3Guidebook
+We talk about the book on Twitter with the hashtag #TYPO3Guidebook
 
 Check out the [GitHub code repo](https://github.com/Apress/the-typo3-guidebook), and join the conversation on [TYPO3 Slack](https://typo3.org/community/meet/chat-slack) in the [#typo3book](https://typo3.slack.com/archives/CU8E4QBNG) channel.
