@@ -264,6 +264,16 @@
   margin: 0.71428em 0;
 }
 
+.alert a {
+    text-decoration: none !important;
+}
+
+.alert {
+    background-color: #fafafa !important;
+    border-color: #dedede !important;
+    color: black;
+}
+
 .caption-text {
   color: $gray;
   font-size: 16px;
