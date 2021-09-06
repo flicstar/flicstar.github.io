@@ -38,3 +38,7 @@ You can buy the book at all good bookstores (for example, [Amazon](https://www.a
 Talk about the book on Twitter with the hashtag #TYPO3Guidebook
 
 Check out the [GitHub code repo](https://github.com/Apress/the-typo3-guidebook), and join the conversation on [TYPO3 Slack](https://typo3.org/community/meet/chat-slack) in the [#typo3book](https://typo3.slack.com/archives/CU8E4QBNG) channel.
+
+---
+
+Image credits: The Quilting Bee, 19th Century Americana By Morgan Weistling.
