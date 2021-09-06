@@ -23,6 +23,8 @@ This is a great story about developer relations and developer advocacy. We were 
 
 This is now an asset for TYPO3 (all book proceeds go back into the community) which will serve to introduce the CMS to newcomers, and broaden its reach to an international audience. Growing the community, increasing contributions and expanding the user base.
 
+![Book Cover](/assets/images/HoverBook.png?w=200)
+
 ### Video
 
 <!-- blank line -->
