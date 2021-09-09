@@ -1,7 +1,7 @@
 # Site setings
 name: 'flicstar'
-description: 'flicstar is a technical communicator, working in DevRel and open source.'
-meta_description: 'flicstar is a technical communicator, working in DevRel and open source.'
+description: 'flicstar is a technical communicator, writing and editing online content with a technical focus.'
+meta_description: 'flicstar is a technical communicator, writing and editing online content with a technical focus.'
 logo: 'assets/images/logo.png'
 favicon: 'assets/images/favicon.ico'
 baseurl:
@@ -19,8 +19,8 @@ author:
   name: 'Felicity Brand'
   image: 'authorimage.png'
   greetings: "Felicity Brand - flicstar"
-  description: "I'm a Technical Communicator. I am passionate about developer relations and open source. I’m based in Melbourne, Australia."
-  bio: 'Felicity Brand (aka flicstar) creates a variety of technical content and loves to share (and speak about) the craft of writing and editing for technical audiences. She is passionate about DevRel and open source, and is based in Melbourne, Australia'
+  description: "I'm a Technical Communicator. I write and edit technical content about software. I am passionate about developer relations and open source. I’m based in Melbourne, Australia."
+  bio: 'Felicity Brand (aka flicstar) creates and edits a variety of technical content and loves to speak about the craft of writing and editing for technical audiences. She is passionate about DevRel and open source, and is based in Melbourne, Australia'
 
 # Contact form setings
 email: flicstar@gmail.com
