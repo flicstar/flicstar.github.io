@@ -7,7 +7,7 @@ featured_image:
 <p align="center"><img src="/assets/images/authorimage.png" alt="OSP logo" align="middle" width="15%"/> </p>
 <p align="center">I am Felicity Brand (aka flicstar). </p>
 
-I am a technical communicator—currently working remote, asynchronous and distributed (RAD! 😎).
+I am a technical communicator—currently working remote, asynchronous and distributed (RAD! 😎). I'm based in Melbourne, Australia.
 
 <img src="/assets/images/pages/osplogo.jpg" alt="OSP logo" align="right" width="80px"/>
 
