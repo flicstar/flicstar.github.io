@@ -9,10 +9,10 @@ featured_image_thumbnail: /assets/images/HoverBook.png
 featured_image: 
 ---
 
-You don't often see a technical book amongst the list of [DevRel](https://devrel.co/about/) content creation. 
+You don't often see a technical book amongst the list of [DevRel]((https://www.stephaniemorillo.co/post/content-strategy-for-devrel-teams-a-primer)) content creation. 
 
 While technical books aren’t as important as they used to be, they do still have a place in this
-[multi-channel world of technical content](https://www.stephaniemorillo.co/post/content-strategy-for-devrel-teams-a-primer). 
+multi-channel world of technical content. 
 
 Last year I co-authored a book for an open source CMS called [TYPO3](https://typo3.org/) and I want to share the story for any other developer advocates out there who may be inspired to do something similar.
 
@@ -65,5 +65,7 @@ Don’t underestimate the [affordance](https://www.interaction-design.org/litera
 ## Add a book to your content strategy
 
 My message with this story is for other communities and organizations to consider writing a book too. 
+
 By creating a book, you’re tapping into the expert knowledge of your devs and channeling that into a usable, tangible asset. 
+
 You’re creating a curated resource to help other devs learn, and on the flipside, you’re telling the story of your product and sharing the value of what your devs have built. 
