@@ -9,15 +9,15 @@ featured_image_thumbnail: /assets/images/HoverBook.png
 featured_image: 
 ---
 
-## How does writing a book fit into DevRel?
-
 Out of all the content you see coming out of [DevRel](https://devrel.co/about/): docs, blogs, whitepapers, podcasts, conference presentations, social messages, 
-you don’t often see a technical book. While technical books aren’t as important as they used to be, they do still have a place in this
+you don’t often see a technical book. 
+
+While technical books aren’t as important as they used to be, they do still have a place in this
 [multi-channel world of technical content](https://www.stephaniemorillo.co/post/content-strategy-for-devrel-teams-a-primer). 
+
 Last year I co-authored a book for an open source CMS called [TYPO3](https://typo3.org/) and I want to share the story for any other developer advocates out there who may be inspired to do something similar.
 
-
-### ##  The need for a book
+## The need for a book
 
 [TYPO3](https://typo3.org/) has a mature, thriving community around it yet they still want to grow. They want to increase awareness internationally, grow adoption and grow their user base. They want to increase code contribution - they’re an open source community so of course they want more contributors. They also want to continue building their community. 
 
@@ -30,7 +30,7 @@ You may be thinking, “We’ve got a website. We’ve got official docs. If we�
 A book answers that need much better. Rather than having a collection of blog posts or pages in the docs, the power of a book is that you can meet the needs of different types of readers in one go, by carefully curating and presenting your content with a clear goal in mind.
 
 
-### ##  Speaking to different readers
+##  Speaking to different readers
 
 We structured the TYPO3 Guidebook to have two clear parts: four chapters with conceptual material followed by 10 practical guides. 
 This allowed us to reach the broadest possible audience, and tailor the content to meet the needs of readers with different goals.
@@ -45,15 +45,15 @@ Books help **decision makers** and anyone evaluating a technology. Perhaps they�
 and learn more about performance and security. They don’t have to navigate docs, or wade through marketing content on a website to get to that detail. 
 
 
-### ##  Where does DevRel fit in?
+##  Where does DevRel fit in?
 
 [Sam Julien](https://www.samjulien.com/), creator of the Developer Microskills newsletter, talks about how the range of [developer advocate responsibilities](https://www.samjulien.com/what-is-a-developer-advocate) falls into two broad categories: **speaking** and **listening**. 
 
-We did the listening part first:
+> We did the listening part first.
 
 My co-authors and I are members of the TYPO3 community and we just fully immersed ourselves. We attended loads of events and conducted a lot of interviews (face to face and written). We spent time speaking with highly technical, highly passionate developers about the CMS, what they liked about it, how they used it, and the very specific areas that they worked on. This covered the DevRel area of _community_ and all throughout the writing and review phase of the book, we covered off the _feedback_ aspect. (Using Google Docs let us share the draft content broadly for maximum input.)
 
-The speaking part came next:
+> The speaking part came next.
 
 The speaking comes with the creation of the book itself. We took the expertise and knowledge from the community and stitched it into a cohesive whole so that the book can do the speaking, covering key DevRel points of _awareness_ and _education_. 
 
