@@ -19,8 +19,8 @@ author:
   name: 'Felicity Brand'
   image: 'authorimage.png'
   greetings: "Felicity Brand - flicstar"
-  description: "I'm a technical writer and editor. I call myself a Technical Communicator. I am passionate about developer relations and open source. I’m based in Melbourne, Australia."
-  bio: 'Felicity Brand (aka flicstar) creates and edits a variety of technical content and loves to speak about the craft of writing and editing for technical audiences. She is passionate about DevRel and open source, and is based in Melbourne, Australia'
+  description: "I'm a technical writer and editor. I am passionate about open source and I’m based in Melbourne, Australia."
+  bio: 'Felicity Brand (aka flicstar) creates and edits a variety of technical content and loves to speak about the craft of writing and editing for technical audiences. She is passionate about open source, and is based in Melbourne, Australia'
 
 # Contact form setings
 email: flicstar@gmail.com
