@@ -34,43 +34,17 @@ We used raw data taken from interviews with experts from the community. We worke
 
 Once handed over to our publisher, they engaged technical reviewers from the community. At this time we engaged the Design Team to create graphics and diagrams for us. Community members also added fully tested code to our GitHub repo to support the guides in Part 2 of the book.
 
-This is a great story about developer relations. We were able to capture the expertise of the designers, engineers, and experts in the TYPO3 community and weave their story into a cohesive whole. 
-
-### How does writing a book fit into DevRel? ###
-
-[Sam Julien](https://www.samjulien.com/), DevRel at Auth0 (and creator of the Developer Microskills newsletter - and if you don’t already follow it, you should because I highly recommend it.)
-He talks about the whole full range of skills of the developer advocate falls into two broad categories of **speaking** and **listening**. 
-
-We did the listening part first:
-We were already members of this community and we just fully immersed ourselves. We attended loads of events and did a lot of interviews face to face and written interviews. Speaking with highly technical, highly passionate developers about the CMS, what they liked about it, how they used it - all the different use cases -, and the very specific areas that they worked on.
-
-The speaking part comes with the creation of the book itself. We took the expertise and knowledge from the community and stitched it into a cohesive whole so that the book can do the speaking, covering key points DevRel points of _awareness_ and _education_. 
-
-## The value of a book for a community
-
-Of course docs and blog posts are going to have the most up-to-date information, and are easy to search for. But books aint dead. And print books still outsell ebooks. So while books aren’t as important as they used to be, they do still have a place in this multi-channel world of technical content. 
-
-The book doesn’t speak to one audience. It meets the needs of different types of readers and that’s the power of writing a book, rather than having a collection of blog posts or pages in the docs, it gives you that opportunity to carefully curate your content with a clear goal in mind.
-
-![Book Cover](/assets/images/HoverBook.png?w=200)
-
-Books serve **beginners** well because they are foundational and they’re linear. If you’ve got a real newbie, they can just start at the beginning and read. They’ll get the overview, they can work through the tutorials sequentially.
-
-The book is also helping **experienced developers** who are approaching this new technology for the first time. It’s helping them understand the basic principles right away. The system architecture, development approach and coding standards and guidelines. 
-
-It’s helping **decision makers**, anyone evaluating the CMS. Perhaps they’re going to be maintaining this thing so they want to find out about the release cycle, how to upgrade, and performance. Security. They can just jump straight to chapter 4 and do that. They may not work through the practical component of the book like a newbie might, but they would probably eyeball those to get a feel for how the CMS works. They don’t have to navigate docs, they don’t have to dive into detail. 
-
 ## Try it yourself ##
 
-My hope with this story is to inspire other communities, other organizations to consider writing a book. 
+This is a great story about developer relations. We were able to capture the expertise of the designers, engineers, and experts in the TYPO3 community and weave their story into a cohesive whole. 
 
-Because you’re tapping into the expert knowledge of your devs and channeling that into a useable, tangible asset that becomes a resource to help other devs learn and to help tell the story of your product. And share the value of what they’re working on. 
+My hope with this story is to inspire other communities and other organizations to consider writing a book about their tech product or service. 
 
-You can add to your stable of content. One that can sit comfortably alongside the other resources you already have for your product. 
+Writing a book gives you the power to carefully curate your content and present it with a clear goal in mind. A book adds to your stable of content, and can sit comfortably alongside (and link out to) the other resources you already have for your product. 
 
 ## Buy it, Share it, Review it
 
-You can buy the book at all good bookstores (for example, [Amazon](https://www.amazon.com/dp/1484265246/)), and in the [TYPO3 Shop](https://shop.typo3.com/).
+You can buy The TYPO3 Guidebook at all good bookstores (for example, [Amazon](https://www.amazon.com/dp/1484265246/)), and in the [TYPO3 Shop](https://shop.typo3.com/).
 
 We talk about the book on Twitter with the hashtag #TYPO3Guidebook
 
