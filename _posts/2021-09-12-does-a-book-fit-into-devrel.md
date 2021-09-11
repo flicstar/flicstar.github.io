@@ -9,8 +9,7 @@ featured_image_thumbnail: /assets/images/HoverBook.png
 featured_image: 
 ---
 
-Out of all the content you see coming out of [DevRel](https://devrel.co/about/): docs, blogs, whitepapers, podcasts, conference presentations, social messages, 
-you don’t often see a technical book. 
+You don't often see a technical book amongst the list of [DevRel](https://devrel.co/about/) content creation. 
 
 While technical books aren’t as important as they used to be, they do still have a place in this
 [multi-channel world of technical content](https://www.stephaniemorillo.co/post/content-strategy-for-devrel-teams-a-primer). 
