@@ -58,7 +58,7 @@ The speaking comes with the creation of the book itself. We took the expertise a
 
 ## The value of a book for a community
 
-[Books on technology age quickly](https://techpatio.com/2021/guest-posts/how-to-keep-your-technology-book-current). Of course online content like docs and blog posts are going to have the most up-to-date information about a technology. But [books aint dead](https://perceptions.substack.com/p/why-havent-physical-books-died-yet). And [print books still outsell ebooks](https://www.cnbc.com/2019/09/19/physical-books-still-outsell-e-books-and-heres-why.html). 
+[Books on technology age quickly](https://techpatio.com/2021/guest-posts/how-to-keep-your-technology-book-current). Of course online content like docs and blog posts are going to have the most up-to-date information about a technology. But [books ain't dead](https://perceptions.substack.com/p/why-havent-physical-books-died-yet). And [print books still outsell ebooks](https://www.cnbc.com/2019/09/19/physical-books-still-outsell-e-books-and-heres-why.html). 
 
 Don’t underestimate the [affordance](https://www.interaction-design.org/literature/book/the-glossary-of-human-computer-interaction/affordances) of a book. Instead of reams of online articles or procedurals, you can encapsulate it in a tangible, portable asset that goes where you go, and tells the story of your community or product.
 
