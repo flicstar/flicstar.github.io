@@ -2,7 +2,7 @@
 layout: post
 title: "How does writing a book fit into DevRel?"
 summary: Why you should add a book to your DevRel content strategy.
-date: "2021-mm-dd"
+date: "2021-09-12"
 tags: [ TYPO3, devrel ]
 image: 
 featured_image_thumbnail: /assets/images/HoverBook.png
