@@ -14,7 +14,7 @@ You don't often see a technical book amongst the list of [DevRel]((https://www.s
 While technical books aren’t as important as they used to be, they do still have a place in this
 multi-channel world of technical content. 
 
-Last year I co-authored a book for an open source CMS called [TYPO3](https://typo3.org/) and I want to share the story for any other developer advocates out there who may be inspired to do something similar.
+Last year I co-authored [a book](https://www.amazon.com/dp/1484265246/) for an open source CMS called [TYPO3](https://typo3.org/) and I want to share the story for any other developer advocates out there who may be inspired to do something similar.
 
 ## The need for a book
 
