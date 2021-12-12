@@ -62,6 +62,16 @@ The speaking comes with the creation of the book itself. We took the expertise a
 
 Don’t underestimate the [affordance](https://www.interaction-design.org/literature/book/the-glossary-of-human-computer-interaction/affordances) of a book. Instead of reams of online articles or procedurals, you can encapsulate it in a tangible, portable asset that goes where you go, and tells the story of your community or product.
 
+## DevRelCon21
+
+I spoke about this topic at [DevRelCon 2021](https://2021.devrel.net/).
+
+<!-- blank line -->
+<figure class="video_container">
+  <iframe src="https://www.youtube.com/embed/F1LpTXBgego" frameborder="0" allowfullscreen="true"> </iframe>
+</figure>
+<!-- blank line -->
+
 ## Add a book to your content strategy
 
 My message with this story is for other communities and organizations to consider writing a book too. 
