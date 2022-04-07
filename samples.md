@@ -3,9 +3,7 @@ layout: page
 title: Work samples
 featured_image: 
 ---
-
-## Work samples
-  
+ 
 * [DITA Mini Manual](https://github.com/flicstar/DITA-Mini-Manual) - An open-source project I wrote hosted on Github.
 * [Analysis strategies](https://help-in.qsrinternational.com/1-help/Content/analyze/analysis-strategies.htm) - I'm particularly proud of this Help page because, through many iterations with SMEs, I reduced a lengthy explanation into a very concise article about how to use the software.
 * [Understanding sociograms](https://youtu.be/wwyXC6lDK98) - A video tutorial. I did the storyboard, wrote the script and used Camtasia to create the video.
