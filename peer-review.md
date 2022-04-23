@@ -22,11 +22,14 @@ Does this sound familiar?
 
 When Hemingway App and Grammarly just don't cut it, you need a human! More than that, a fellow documentarian. Someone who understands what you're writing about. 
 
-I've been a technical communicator for 14 years which has given me a broad understanding of technology. This means that if you're writing about writing or tech, you won't have to explain the context to me. It also means that whether you're writing for writers or developers, I can advocate for your reader. 
+After 14 years as a technical writer, I have a broad understanding of technology. This means that if you're writing about writing or tech, you 
+won't have to explain the context to me. It also means I can advocate for your readers, be they writers or developers.
 
 I’m a friendly, confident editor.
 
 Pass your published (or ready-to-publish) piece over to me and I’ll peer review it for free. I'll give you feedback, comments and suggestions that you can take or leave. 
+
+📝 Catch me at felicitybrand at gmail dot com, or DM me on [Write the Docs Slack](https://www.writethedocs.org/slack/) or [Twitter](https://twitter.com/flicstar_).
 
 ### What do I get out of it?
 
@@ -38,5 +41,4 @@ I won't tell anyone I edited your work. I won't talk about it on socials. I won'
 
 ### Share the love 
 
-If you want to give back, feel free to give me a shout-out with an "Edited by flicstar" acknowledgement on your published piece. Or a friendly tweet, whatever. 
-But really, there's no obligation. 
+If you want to give back, feel free to acknowledge me on your published piece ("Edited by flicstar"). Or send a friendly tweet, whatever. But really, there's no obligation. 
