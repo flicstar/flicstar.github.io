@@ -27,7 +27,7 @@ won't have to explain the context to me. It also means I can advocate for your r
 
 I’m a friendly, confident editor.
 
-Pass your published (or ready-to-publish) piece over to me and I’ll peer review it for free. I'll give you feedback, comments and suggestions that you can take or leave. 
+Pass your published (or ready-to-publish) piece over to me—Github, Google Doc, email attachment, whatever. I’ll peer review it for free. I'll give you feedback, comments and suggestions that you can take or leave. 
 
 📝 Catch me at felicitybrand at gmail dot com, or DM me on [Write the Docs Slack](https://www.writethedocs.org/slack/) or [Twitter](https://twitter.com/flicstar_).
 
