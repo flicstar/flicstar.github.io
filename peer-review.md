@@ -22,7 +22,7 @@ Does this sound familiar?
 
 When Hemingway App and Grammarly just don't cut it, you need a human! More than that, a fellow documentarian. Someone who understands what you're writing about. 
 
-After 14 years as a technical writer, I have a broad understanding of technology. This means that if you're writing about writing or tech, you 
+With 14 years' experience as a technical writer, I have a broad understanding of technology. This means that if you're writing about writing or tech, you 
 won't have to explain the context to me. It also means I can advocate for your readers, be they writers or developers.
 
 I’m a friendly, confident editor.
