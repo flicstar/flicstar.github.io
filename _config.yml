@@ -43,7 +43,8 @@ producthunt:
 navigation:
   - text: About
     url: /about
-
+  - text: Peer review
+    url: /peer-review
 
 # Required Plugins
 plugins_dir:
