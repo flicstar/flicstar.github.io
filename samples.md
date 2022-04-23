@@ -42,7 +42,7 @@ featured_image:
 * [TYPO3 Proud to support BabesGotBytes](https://typo3.org/article/typo3-proud-to-support-babesgotbytes)
 * [The TYPO3 Guidebooks available for pre-order](https://typo3.org/article/the-typo3-guidebook-is-available-for-pre-order)
 
-## Technical Writing (procedural and conceptual)
+## Technical Writing
 
 ### TYPO3 Open Source CMS
 
