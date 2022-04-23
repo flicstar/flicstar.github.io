@@ -8,12 +8,12 @@ featured_image:
  
 ### Developmental
 
-**b13 blog**
+#### b13 blog
 
 * The series of posts about TYPO3 version 11. Here's one example: [Link sharing in TYPO3 v11](https://b13.com/blog/link-sharing-in-typo3-v11)
 * [Expert-based user research](https://b13.com/blog/expert-based-user-research)
 
-**Sulu technical guides**
+#### Sulu technical guides
 
 * [Understanding Sulu and taking your first steps](https://sulu.io/guides/understanding-sulu-and-taking-your-first-steps)
 * [Structured content with blocks](https://sulu.io/guides/structured-content-with-blocks)
