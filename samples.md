@@ -3,7 +3,12 @@ layout: page
 title: Work samples
 featured_image: 
 ---
- 
+
+Check out my yearly wrap-up posts for links out to more work samples:
+
+* [Yearly wrap-up: Things I did in 2021](https://flicstar.com/things-i-did-in-2021) 
+* [Yearly wrap-up: Things I did in 2020](https://flicstar.com/things-i-did-in-2020)
+
 ## Editing
  
 ### Developmental
