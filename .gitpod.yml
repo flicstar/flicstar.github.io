@@ -5,7 +5,8 @@ ports:
   - port: 4000
     onOpen: open-browser
 tasks:
-  - command: jekyll serve -l --host=0.0.0.0
+  - init: bundle update && bundle install
+    command: bundle exec jekyll serve --host=0.0.0.0
 github:
   prebuilds:
     # enable for the master/default branch (defaults to true)
