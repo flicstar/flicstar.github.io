@@ -12,29 +12,21 @@ The examples shown here give an indication of my tone and commenting style.
 
 #### I recommend changing the format, and give a suggestion
 
-| <img src="/assets/images/JH.png"/> |
-| ------- |
+<img src="/assets/images/JH.png"/>
 
 #### I try to split a long sentence
 
-<kbd>
-<img src="/assets/images/CB.png"/></img>
-</kbd>
+> bob
+> <img src="/assets/images/CB.png"/>
 
 #### I cut unnecessary words
 
-<table><tr><td>
-    <img src="/assets/images/MB.png"/>
-</td></tr></table>
+> <img src="/assets/images/MB.png"/>
 
 #### I suggest removing words
 
-<kbd>
 <img src="/assets/images/OB.png"/>
-</kbd>  
 
 #### I question a word
 
-<kbd>
 <img src="/assets/images/LZ.png"/>
-</kbd>
