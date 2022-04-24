@@ -12,6 +12,12 @@ Check out my yearly wrap-up posts for links to more work samples:
 You can also check out some examples that show my [editing style](https://flicstar.com/style).
 
 ## Editing
+
+| Type   |      Example      |
+|:----------|:-------------|
+| Developmental | * [Link sharing in TYPO3 v11](https://b13.com/blog/link-sharing-in-typo3-v11)<br />* [Expert-based user research](https://b13.com/blog/expert-based-user-research)<br />* [Understanding Sulu and taking your first steps](https://sulu.io/guides/understanding-sulu-and-taking-your-first-steps)<br />* [Structured content with blocks](https://sulu.io/guides/structured-content-with-blocks)|
+| Copy editing | * [TYPO3 v11.4 Into New Galaxies](https://typo3.org/article/typo3-version-114-into-new-galaxies)<br />* [Documentation Team Sweeping Week](https://typo3.org/article/documentation-team-sweeping-week)|
+| Proof reading | * [New Code of Conduct - Give your feedback](https://typo3.org/article/new-code-of-conduct-give-your-feedback) <br />* [Server Team Status Report October 2021](https://typo3.org/article/server-team-status-report-october-2021) |
  
 ### Developmental
 
