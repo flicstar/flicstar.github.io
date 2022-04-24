@@ -13,7 +13,7 @@ The examples shown here give an indication of my tone and commenting style.
 #### I recommend changing the format, and give a suggestion
 
 | <img src="/assets/images/JH.png"/> |
--
+| ------- |
 
 #### I try to split a long sentence
 
