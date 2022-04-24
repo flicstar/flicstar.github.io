@@ -23,9 +23,9 @@ The examples shown here give an indication of my tone and commenting style.
 
 #### I cut unnecessary words
 
-<kbd>
-<img src="/assets/images/MB.png"/>
-</kbd>
+<table><tr><td>
+    <img src="/assets/images/MB.png"/>
+</td></tr></table>
 
 #### I suggest removing words
 
