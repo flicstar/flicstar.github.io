@@ -4,10 +4,12 @@ title: Work samples
 featured_image: 
 ---
 
-Check out my yearly wrap-up posts for links out to more work samples:
+Check out my yearly wrap-up posts for links to more work samples:
 
 * [Yearly wrap-up: Things I did in 2021](https://flicstar.com/things-i-did-in-2021) 
 * [Yearly wrap-up: Things I did in 2020](https://flicstar.com/things-i-did-in-2020)
+
+You can also check out some examples that show my [editing style](https://flicstar.com/style).
 
 ## Editing
  
