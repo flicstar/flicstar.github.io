@@ -6,8 +6,8 @@ featured_image:
 
 ## JPEG
 
-<img src="/assets/images/jh.jpg"/>
+<img src="/assets/images/JH.jpg"/>
 
 ## PNG
 
-<img src="/assets/images/jh.png"/>
+<img src="/assets/images/JH.png"/>
