@@ -12,14 +12,13 @@ The examples shown here give an indication of my tone and commenting style.
 
 #### I recommend changing the format, and give a suggestion
 
-<kbd>
-<img src="/assets/images/JH.png"/>
-</kbd>
+| <img src="/assets/images/JH.png"/> |
+-
 
 #### I try to split a long sentence
 
 <kbd>
-<img src="/assets/images/CB.png"/>
+<img src="/assets/images/CB.png"/></img>
 </kbd>
 
 #### I cut unnecessary words
