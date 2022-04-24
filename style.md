@@ -16,12 +16,11 @@ The examples shown here give an indication of my tone and commenting style.
 
 #### I try to split a long sentence
 
-> bob
-> <img src="/assets/images/CB.png"/>
+<img src="/assets/images/CB.png"/>
 
 #### I cut unnecessary words
 
-> <img src="/assets/images/MB.png"/>
+<img src="/assets/images/MB.png"/>
 
 #### I suggest removing words
 
