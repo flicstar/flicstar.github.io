@@ -3,9 +3,9 @@ layout: post
 title: "DevRel Adjacent"
 date: "2021-11-05"
 tags: [ devrel, writing ]
-image: /assets/images/image.png
-featured_image_thumbnail: /assets/images/image.png
-featured_image: /assets/images/image.png
+image: /assets/images/pencils.jpg
+featured_image_thumbnail: /assets/images/pencils.jpg
+featured_image: /assets/images/pencils.jpg
 ---
 
 As a technical writer, I can relate to DevRel.
@@ -33,3 +33,7 @@ creating great content - be that UI copy or UX writing, procedural and official 
 
 So as a technical communicator, then, I am DevRel adjacent. This explains why I feel like so much of the DevRel content out there is speaking 
 directly to me, even though I am not a developer.
+
+---
+
+Image credits: Pencils photo by Tamanna Rumee: https://www.pexels.com/photo/colored-pencils-on-the-colored-paper-7986298/
