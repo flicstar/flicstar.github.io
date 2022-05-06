@@ -2,15 +2,14 @@
 layout: post
 title: "Editing in open source"
 summary: Editing in open source is about nurturing writers.
-date: "2021-mm-dd"
-tags: [ talks, events, TYPO3, devrel ]
-image: /assets/images/image.png
-featured_image_thumbnail: /assets/images/image.png
-featured_image: /assets/images/image.png
+date: "2022-05-05"
+tags: [ editing, open-source ]
+image: /assets/images/open-source.png
+featured_image_thumbnail: /assets/images/open-source.png
+featured_image: /assets/images/open-source.png
 ---
 
 Editing in open source is about nurturing writers and non-writers, and watching where you tread because you want to walk a path of sustaining non-code contributions.
-
 
 >There are two key aspects to keep in mind when editing in open source:
 > * Open source = volunteers, so tread gently.
