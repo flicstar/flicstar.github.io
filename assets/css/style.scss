@@ -942,16 +942,7 @@
   }
 }
 @media only screen and (min-width: 785px) {
-  blockquote,
-  .post-content img[src$='#left'] {
-    margin-left: calc(360px - 47vw);
-  }
-
-  blockquote,
-  .post-content img[src$='#right'] {
-    margin-right: calc(360px - 47vw);
-  }
-
+  
   .post-full .post-thumbnail,
   .post-featured .post-thumbnail,
   .post-content img[src$='#wide'] {
@@ -962,16 +953,7 @@
   }
 }
 @media only screen and (min-width: 1141px) {
-  blockquote,
-  .post-content img[src$='#left'] {
-    margin-left: -180px;
-  }
-
-  blockquote,
-  .post-content img[src$='#right'] {
-    margin-right: -180px;
-  }
-
+ 
   .post-full .post-thumbnail,
   .post-featured .post-thumbnail,
   .post-content img[src$='#wide'] {
