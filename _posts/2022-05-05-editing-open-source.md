@@ -11,9 +11,9 @@ featured_image: /assets/images/open-source.png
 
 Editing in open source is about nurturing writers and non-writers, and watching where you tread because you want to walk a path of sustaining non-code contributions.
 
->There are two key aspects to keep in mind when editing in open source:
-> * Open source = volunteers, so tread gently.
-> * Open source = global communities, so tread mindfully.
+There are two key aspects to keep in mind when editing in open source:
+* Open source = volunteers, so tread gently.
+* Open source = global communities, so tread mindfully.
 
 ## Open source = volunteers
 
