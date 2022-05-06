@@ -40,22 +40,26 @@ Tread mindfully.
 
 The open source projects I've been involved with have all been global, with English as the preferred language. That means working with many people who are non-native English writers.  
 
-This requires sensitivity.
+Obviously, editing for global communities requires sensitivity to cultural difference. My job as an editor is about thinking globally emdash having a broad awareness of what is region-specific and might not convey meaning across borders. This could be word choice, figures of speech, language conventions, currency punctuation, and hemispherical bias. I don't always know all the answers, but I do know enough to flag things that might not work. Here, I'm advocating for the reader and being sensitive in my feedback to the writer.
 
-Fixing quotes.
-Language conventions (German quotation marks, currency styling.) Need a style guide. US English.
-Figurative language.
-Be careful of feelings, region-specificity. “Some cultures” US like to sandwich feedback. Germans are more to the point. That’s why editing codes are good. As well as the positivity pass - link to these
+Being a native English speaker gives me a kind-of natural superpower. I find that most writers are keen to lean heavily on my native-speaking abilities. They tend to embrace the editing process as an opportunity for refreshing their language skills. I sometimes find myself having to explain grammar rules that have grown dusty in my mind.  Generally, though, this is an area where I can add value, and it makes me feel good. 
 
 
 ## Minimalist editing
 
-My approach when working in open source is to dial back my editing. I don't go for brutal edits with a heavy red pen. I try to polish the writing and add value to the finished piece, but not at the expense of my author's psyche. We want them coming back, continuing to contribute and making the project thrive.
+My approach when editing in open source is to consider the broader context of the writer and the project.
 
+* Is the writer usually a non-writer?
+* Is the writer a non-native speaker?
+* Have they ever contributed before?
 
-As an open source advocate, I believe in the importance of non-code contributions for the health of any project. Open source projects thrive when people work together to create something fully-rounded. 
+I don't go for brutal edits with a heavy red pen, I tend to dial my editing back a bit. Of course, I polish the writing and try to add value to the finished piece, but not at the expense of my author's psyche.
 
-Editing lightly in open source sustains non-code contributions. If people know there is a friendly editor (who is not TOO heavy with the red pen), they're more likely to write the next budget report, sprint review or team retrospective.
+As an open source advocate, I believe in the importance of non-code contributions for the health of any project. 
+
+> Editing lightly in open source sustains non-code contributions. 
+
+If people know there is a friendly editor (who is not TOO heavy with the red pen), they're more likely to write the next blog post, community sprint review, or team retrospective.
 
 ---
 
