@@ -112,12 +112,17 @@ pre code {
     padding: 0;
 }
 
-blockquote {
-    color: $gray-darkest;
-    font-size: 1rem;
-    line-height: 1;
-    margin: 0 0 0.88235em;
-    position: relative;
+blockquote{
+  font-size: 1.4em;
+  width:60%;
+  margin:50px auto;
+  font-family:Open Sans;
+  color: #555555;
+  padding:1.2em 30px 1.2em 75px;
+  border-left:8px solid #E1198B ;
+  line-height:1.6;
+  position: relative;
+  background:#FDE9F4;
 }
 
 blockquote:before,
