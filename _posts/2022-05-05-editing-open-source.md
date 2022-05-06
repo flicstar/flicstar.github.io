@@ -1,0 +1,62 @@
+---
+layout: post
+title: "Editing in open source"
+summary: Editing in open source is about nurturing writers.
+date: "2021-mm-dd"
+tags: [ talks, events, TYPO3, devrel ]
+image: /assets/images/image.png
+featured_image_thumbnail: /assets/images/image.png
+featured_image: /assets/images/image.png
+---
+
+Editing in open source is about nurturing writers and non-writers, and watching where you tread because you want to walk a path of sustaining non-code contributions.
+
+
+>There are two key aspects to keep in mind when editing in open source:
+> * Open source = volunteers, so tread gently.
+> * Open source = global communities, so tread mindfully.
+
+## Open source = volunteers
+
+Tread gently.  
+
+Most writers I've edited for in open source projects aren't writers - they're developers or UX designers or tech integrators. They're also volunteering their writing time.
+
+Remembering that my writers might be unpaid, non-writers means going gently on edits. 
+Specifically, I tend to retain the author voice as much as possible, and sometimes that means (gasp!) retaining some poor construction. 
+
+This approach has several benefits:
+
+* Writers feel legitimate because they've gone through the editing process and improved the finished piece.
+* Writers feel proud and validated to see their writing in print.
+* Writers are more likely to continue to contribute their writing,  which ultimately benefits the project and the broader community.
+
+> As an editor, you might also be volunteering your time. Editing lightly is faster, meaning you can hit deadlines and move with the project. 
+
+
+## Open source = global communities
+
+Tread mindfully. 
+
+The open source projects I've been involved with have all been global, with English as the preferred language. That means working with many people who are non-native English writers.  
+
+This requires sensitivity.
+
+Fixing quotes.
+Language conventions (German quotation marks, currency styling.) Need a style guide. US English.
+Figurative language.
+Be careful of feelings, region-specificity. “Some cultures” US like to sandwich feedback. Germans are more to the point. That’s why editing codes are good. As well as the positivity pass - link to these
+
+
+## Minimalist editing
+
+My approach when working in open source is to dial back my editing. I don't go for brutal edits with a heavy red pen. I try to polish the writing and add value to the finished piece, but not at the expense of my author's psyche. We want them coming back, continuing to contribute and making the project thrive.
+
+
+As an open source advocate, I believe in the importance of non-code contributions for the health of any project. Open source projects thrive when people work together to create something fully-rounded. 
+
+Editing lightly in open source sustains non-code contributions. If people know there is a friendly editor (who is not TOO heavy with the red pen), they're more likely to write the next budget report, sprint review or team retrospective.
+
+---
+
+Image credits: Open source by [Garth DB](https://thenounproject.com/garthdb/) from NounProject.com
