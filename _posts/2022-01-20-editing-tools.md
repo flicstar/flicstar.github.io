@@ -16,7 +16,7 @@ they’ll write using the toolchain they’re most comfortable with. Tech editor
 variety of different landscapes, and you’ll need your own tools for editing once you get there.
 
 
-### Writing programs or text editors
+### Writing programs and text editors
 
 Long-form writing today can happen almost anywhere. Google Docs, Word, an editable PDF, any number of note-taking tools 
 like [Notion](https://www.notion.so/Getting-Started-5e1c43098c214140850aca77da43db5c) or [HedgeDoc](https://hedgedoc.org/). 
