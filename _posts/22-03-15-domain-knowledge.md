@@ -3,7 +3,7 @@ layout: post
 title: "Domain knowledge - the “tech” in technical editing"
 summary: What does it mean to understand complex technical topics at a high level?
 date: "2022-03-15"
-tags: [ editing, open-source ]
+tags: [ editing ]
 image: /assets/images/brain.jpg
 featured_image_thumbnail: /assets/images/brain.jpg
 featured_image: /assets/images/brain.jpg
