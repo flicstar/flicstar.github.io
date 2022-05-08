@@ -52,7 +52,7 @@ My approach when editing in open source is to consider the broader context of th
 * Is the writer a non-native speaker?
 * Have they ever contributed before?
 
-I don't go for brutal edits with a heavy red pen, I tend to dial my editing back a bit. Of course, I polish the writing and try to add value to the finished piece, but not at the expense of my author's psyche.
+I don't go for brutal edits with a heavy red pen, I tend to dial my editing back a bit. Of course, I polish the writing and try to add value to the finished piece, but not at the expense of my author's psyche. If an article needs more substantial changes, I'll try to occupy a space of [collaborative writing](https://flicstar.com/collaboration-in-tech-writing) rather than heavy-handed editing. (We're all in this together!)
 
 As an open source advocate, I believe in the importance of non-code contributions for the health of any project. **Editing lightly in open source sustains non-code contributions.** If people know there is a friendly editor (who is not TOO heavy with the red pen), they're more likely to write the next blog post, community sprint review, or team retrospective.
 
