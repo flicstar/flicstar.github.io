@@ -9,19 +9,19 @@ featured_image:
 
 I spend most of my time doing developmental and substantive editing but I don't have a lot of examples that are free to share. 
 
-| Type   |      Example      |
-|:----------|:-------------|
-| Copy editing | * [TYPO3 v11.4 Into New Galaxies](https://typo3.org/article/typo3-version-114-into-new-galaxies)<br />* [Documentation Team Sweeping Week](https://typo3.org/article/documentation-team-sweeping-week)|
-| Proof reading | * [New Code of Conduct - Give your feedback](https://typo3.org/article/new-code-of-conduct-give-your-feedback) <br />* [Server Team Status Report October 2021](https://typo3.org/article/server-team-status-report-october-2021) |
+I have been editing for the [TYPO3](https://typo3.org/) blog since early 2021. Here are just two examples (scroll down to the bottom to see my contribution credit):
 
-You can check out line edits that show my [editing style](https://flicstar.com/style).
+* [TYPO3 v11.4 Into New Galaxies](https://typo3.org/article/typo3-version-114-into-new-galaxies)
+* [Documentation Team Sweeping Week](https://typo3.org/article/documentation-team-sweeping-week)|
+
 
 ## Marcomm Writing
 
 | Blog   |      Example      |
 |:----------|:-------------|
 | Open Strategy Partners | * [The OSP Content Brief](https://openstrategypartners.com/the-content-brief)<br />* [Writing Appreciation: A Container Explainer](https://openstrategypartners.com/writing-appreciation-a-container-explainer)<br />* [The Positivity Pass](https://openstrategypartners.com/the-positivity-pass)<br />* [Empathy in Practice](https://openstrategypartners.com/empathy-in-practice) - this is the test piece I wrote to get my job at OSP! |
-| TYPO3 Community | * [TYPO3 Proud to support BabesGotBytes](https://typo3.org/article/typo3-proud-to-support-babesgotbytes)<br />* [The TYPO3 Guidebooks available for pre-order](https://typo3.org/article/the-typo3-guidebook-is-available-for-pre-order) |
+| TYPO3 Community | [TYPO3 Proud to support BabesGotBytes](https://typo3.org/article/typo3-proud-to-support-babesgotbytes) |
+| The Good Docs | [Marketing Yourself - Why You Need a Tech Writing Portfolio](https://thegooddocsproject.dev/blog/marketing-yourself-why-you-need-a-tech-writing-portfolio/) |
 
 ## Technical Writing
 
