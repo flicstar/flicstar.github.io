@@ -12,7 +12,9 @@ featured_image: /assets/images/brain.jpg
 What does it mean to understand complex technical topics at a high level? 
 
 I have a broad and shallow understanding of technology. I knew this was a good thing but I couldn't articulate it until I came across a 
-requirement for a tech editing role: “We'd like someone who can understand complex technical topics at a high level.” (Thanks [Draft.dev](https://github.com/draftdev/jobs/blob/main/editor.md) for this description.) 
+requirement for a tech editing role: 
+
+> “We'd like someone who can understand complex technical topics at a high level.” (Thanks [Draft.dev](https://github.com/draftdev/jobs/blob/main/editor.md) for this description.) 
 
 The [February 2022 edition](https://www.writethedocs.org/blog/newsletter-february-2022/) of the Write the Docs newsletter came to the conclusion that while “domain knowledge trumps all”, you need “just enough” 
 knowledge to get your work done. I think this holds true for editing as well as writing. As a technical editor, you _do_ need domain knowledge. You need to understand the subject matter to be 
