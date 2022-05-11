@@ -64,12 +64,12 @@ that writer has gone through to create a piece before it gets to me. It means I 
 
 Since I work while my colleagues sleep, I sometimes feel like a friendly elf, and I have been dubbed [Heinzelmännchen](https://en.wikipedia.org/wiki/Heinzelm%C3%A4nnchen). 
 
-(Fun fact: The agency I work for, [Open Strategy Partners](https://openstrategypartners.com/), is based in Cologne!)
+To be an effective friendly elf, you need a friction-free async production process so that everyone is set up for success. That means task management tools
+(we use [Asana](https://asana.com/)), established hand-off behaviors, and excellent communication skills.
 
 > It’s a cautionary tale: keep your Heinzelmännchen happy, or you will work alone.—[The Elves of Cologne](https://germangirlinamerica.com/heinzelmannchen-the-elves-of-cologne/)
 
-To be an effective friendly elf, you need a friction-free async production process so that everyone is set up for success. That means task management tools
-(we use [Asana](https://asana.com/)), established hand-off behaviors, and excellent communication skills.
+_(Fun fact: The agency I work for, [Open Strategy Partners](https://openstrategypartners.com/), is based in Cologne!)_
 
 
 ## Editing gives me the warm and fuzzies ♥
