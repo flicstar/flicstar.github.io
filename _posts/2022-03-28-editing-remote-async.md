@@ -26,7 +26,7 @@ The tyranny of asynchronicity turned me into a great editor. I got really good a
 * **Writer empathy** and compassion.
 
 
-### Async collaboration
+#### Async collaboration
 
 I don’t have the luxury of talking to my authors in real-time. But editing is a conversation, and sometimes you need to ask questions. When you don’t have time to wait for an answer, the best practice is to use context to make educated guesses. I get that context from having an understanding of:
 
@@ -38,7 +38,7 @@ I don’t have the luxury of talking to my authors in real-time. But editing is 
 Context helps me anticipate the author's intention, as well as frame my suggestions and comments. An editor who understands the context of the writing gets the best outcome with the least back-and-forth.
 
 
-### Creating connections
+#### Creating connections
 
 It’s not essential, but it’s helpful to have a relationship with your writers. That means making an effort to establish human connection across the asynchronous-divide. I 
 like to use any tool I can to be friendly, show my personality and establish rapport with my writers. By tool, I mean software that allows for conversation and connection to happen: Slack, Discord, email, Asana, Twitter, you name it.
@@ -49,7 +49,7 @@ and async. GitLab is famously all-remote and they have some useful information i
 > “Asynchronous work encourages thoughtfulness and intentionality”—Gitlab
 
 
-### Writer empathy
+#### Writer empathy
 
 Editing lends itself to moments of rapid focus because there isn’t a lot of blank-page creativity required. Sometimes I find it really hard to tackle the writing tasks that inevitably come my way. Hard as it is, it’s crucial that I continue to write because that’s what helps me be a good editor.
  I’m reminded just how difficult writing can be: to enter that state of flow and create. 
