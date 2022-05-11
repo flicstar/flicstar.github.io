@@ -10,7 +10,6 @@ featured_image: /assets/images/freelance.png
 ---
 
 
-
 Being an async tech editor lets me wring the most value out of my time.
 
 Working asynchronous, remote (who isn’t, these days?), and part-time gives me little opportunity to get into [flow](https://en.wikipedia.org/wiki/Flow_(psychology)). 
@@ -18,9 +17,9 @@ Or, put another way, it means I have to be laser-focused when I sit down at the 
 
 I have short bursts of productivity, and I want to use that time effectively. Morphing from tech writing to tech editing turned out to be the answer. Having closeable tasks that are more abstract (less creative) is ideal—like reviewing a brief or editing a written article.
 
-I have a tiny bit of time zone overlap with my colleagues, but for the most part, I am awake while they are asleep. What used to make me sad has become my superpower.  The tyranny of asynchronicity turned me into a great editor. 
+I have a tiny bit of time zone overlap with my colleagues, but for the most part, I am awake while they are asleep. What used to make me sad 😢 has become my superpower 🚀.  
 
-I got really good at:
+The tyranny of asynchronicity turned me into a great editor. I got really good at:
 
 * **Async collaboration** - a boon for editors and their authors.
 * **Creating connections** in a remote (and distributed) team.
@@ -65,9 +64,9 @@ that writer has gone through to create a piece before it gets to me. It means I 
 
 Since I work while my colleagues sleep, I sometimes feel like a friendly elf, and I have been dubbed [Heinzelmännchen](https://en.wikipedia.org/wiki/Heinzelm%C3%A4nnchen). 
 
-> It’s a cautionary tale: keep your Heinzelmännchen happy, or you will work alone.—[The Elves of Cologne](https://germangirlinamerica.com/heinzelmannchen-the-elves-of-cologne/)
-
 (Fun fact: The agency I work for, [Open Strategy Partners](https://openstrategypartners.com/), is based in Cologne!)
+
+> It’s a cautionary tale: keep your Heinzelmännchen happy, or you will work alone.—[The Elves of Cologne](https://germangirlinamerica.com/heinzelmannchen-the-elves-of-cologne/)
 
 To be an effective friendly elf, you need a friction-free async production process so that everyone is set up for success. That means task management tools
 (we use [Asana](https://asana.com/)), established hand-off behaviors, and excellent communication skills.
