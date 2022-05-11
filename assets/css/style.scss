@@ -286,9 +286,6 @@
 
 /* Featured Posts */
 .featured-posts {
-  border-bottom: 1px solid $gray-lighter;
-  margin-bottom: 5em;
-  padding-bottom: 1.66667em;
 }
 
 .featured-posts .read-more {
@@ -424,8 +421,6 @@
 /* Hero */
 .hero-wrap {
   background: $gray-lightest;
-  border-bottom: 1px solid $gray-lighter;
-  margin: 0 0 3.33333em;
   position: relative;
 }
 
@@ -456,8 +451,6 @@
 }
 
 .hero {
-  padding-bottom: 1.66667em;
-  padding-top: 3.33333em;
   position: relative;
   text-align: center;
 }
