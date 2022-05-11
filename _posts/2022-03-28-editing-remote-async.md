@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Turn async into your editing superpower"
+title: "Async as an editing superpower"
 summary: Being an async tech editor lets me wring the most value out of my time.
 date: "2022-03-15"
 tags: [ editing ]
