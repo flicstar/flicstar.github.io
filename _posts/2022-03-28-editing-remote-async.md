@@ -3,7 +3,7 @@ layout: post
 title: "Async as an editing superpower"
 summary: Being an async tech editor lets me wring the most value out of my time.
 date: "2022-03-15"
-tag-name: [ editing ]
+tags: [ editing ]
 image: /assets/images/freelance.png
 featured_image_thumbnail: /assets/images/freelance.png
 featured_image: /assets/images/freelance.png
