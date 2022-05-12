@@ -60,6 +60,12 @@ paginate_path: /page:num/
 # Permalinks
 permalink: /:title
 
+# Tags
+collections:
+  tags:
+    output: true
+    permalink: tags/:path/
+
 # Other
 markdown: kramdown
 
