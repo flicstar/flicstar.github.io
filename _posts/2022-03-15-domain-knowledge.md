@@ -29,8 +29,13 @@ the universe. Being able to understand the space outside a domain gives you the 
 
 Domain awareness means I can advocate for the reader and polish writing to be clear and simple - especially around a complex topic.
 
-How did I come to a place of domain awareness? Time. I think it’s a combination of working and lived experience (14 years’ a tech writer), and a steady diet of 
-consuming industry content (I read a lot!). I’ve edited content about a variety of topics these past couple of months sweeping across:  
+How does a tech writer upskill in tech? By getting their hands dirty. I recently came across a Google job description outlining different ways a candidate may have gained domain knowledge:  
+
+> "Experience in technologies (software or hardware systems) by investigation, direct experimentation (for example, 
+> reading or running code), and interactions with Subject Matter Experts."—Google
+
+How did I come to a place of domain awareness? All of the above, plus _time_. I think it’s a combination of working and lived experience (14 years’ a tech writer), and a steady diet of 
+consuming industry content (I read a lot!). This has enabled me to edit content about a variety of topics these past couple of months sweeping across:  
 
 * Core mergers and certification for an open source CMS.
 * Blockchain, miners, validators, staking and pooling for a web3 client.
