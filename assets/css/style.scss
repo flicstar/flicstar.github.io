@@ -938,7 +938,7 @@
   
   .post-full .post-thumbnail,
   .post-featured .post-thumbnail,
-  .post-content img[src$='#wide'] {
+  .post-content {
     margin-left: calc(360px - 47vw);
     margin-right: calc(360px - 47vw);
     max-width: none;
@@ -949,7 +949,7 @@
  
   .post-full .post-thumbnail,
   .post-featured .post-thumbnail,
-  .post-content img[src$='#wide'] {
+  .post-content {
     margin-left: -180px;
     margin-right: -180px;
     max-width: none;
