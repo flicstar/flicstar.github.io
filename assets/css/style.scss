@@ -938,23 +938,14 @@
   
   .post-full .post-thumbnail,
   .post-featured .post-thumbnail,
-  .post-content {
+  .post-content img[src$='#wide']{
     margin-left: calc(360px - 47vw);
     margin-right: calc(360px - 47vw);
     max-width: none;
     width: 94vw;
   }
 }
-@media only screen and (min-width: 1141px) {
- 
-  .post-full .post-thumbnail,
-  .post-featured .post-thumbnail,
-  .post-content {
-    margin-left: -180px;
-    margin-right: -180px;
-    max-width: none;
-    width: 1080px;
-  }
+@media only screen and (min-width: 1141px) 
 
   .outer {
     padding-left: 30px;
