@@ -12,7 +12,7 @@ I spend most of my time doing developmental and substantive editing but I don't 
 I have been editing for the [TYPO3](https://typo3.org/) blog since early 2021. Here are just two examples (scroll down to the bottom to see my contribution credit):
 
 * [TYPO3 v11.4 Into New Galaxies](https://typo3.org/article/typo3-version-114-into-new-galaxies)
-* [Documentation Team Sweeping Week](https://typo3.org/article/documentation-team-sweeping-week)|
+* [Documentation Team Sweeping Week](https://typo3.org/article/documentation-team-sweeping-week)
 
 
 ## Marcomm Writing
