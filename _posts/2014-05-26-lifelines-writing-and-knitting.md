@@ -2,7 +2,7 @@
 title: "Lifelines in writing and knitting"
 summary: Being able to reclaim work is very important as a writer and a crafter.
 date: "2014-05-26"
-tags: [writing-and-style]
+tags: [ tools, version-control ]
 image: 
 featured_image_thumbnail: 
 featured_image: 
