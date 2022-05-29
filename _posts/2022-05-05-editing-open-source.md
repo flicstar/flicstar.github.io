@@ -3,7 +3,7 @@ layout: post
 title: "Editing in open source"
 summary: Editing in open source is about nurturing writers.
 date: "2022-05-05"
-tags: [ editing, open-source ]
+tags: [ editing, open-source, i18n ]
 image: /assets/images/open-source.png
 featured_image_thumbnail: /assets/images/open-source.png
 featured_image: /assets/images/open-source.png
