@@ -7,6 +7,7 @@ categories:
 tags: 
   - "talks"
   - "typo3"
+  - "open-source"
 image:  /assets/images/podcast.jpg
 featured_image_thumbnail: http://i3.ytimg.com/vi/Qq3kg2Iw1GY/hqdefault.jpg
 featured_image: 
