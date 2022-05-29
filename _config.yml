@@ -43,8 +43,6 @@ producthunt:
 navigation:
   - text: About
     url: /about
-  - text: Blog
-    url: /blog/
   - text: Peer review
     url: /peer-review
 
@@ -57,7 +55,7 @@ plugins_dir:
 
 # Pagination
 paginate: 7
-paginate_path: /blog/page:num/
+paginate_path: /page:num/
 
 # Permalinks
 permalink: /:title
