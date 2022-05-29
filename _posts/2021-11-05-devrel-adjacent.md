@@ -2,7 +2,7 @@
 layout: post
 title: "DevRel Adjacent"
 date: "2021-11-05"
-tags: [ devrel, writing ]
+tags: [ devrel, tech-writing, editing ]
 image: /assets/images/pencils.jpg
 featured_image_thumbnail: /assets/images/pencils.jpg
 featured_image: /assets/images/pencils.jpg
