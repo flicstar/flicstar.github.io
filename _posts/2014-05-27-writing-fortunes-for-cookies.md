@@ -2,7 +2,7 @@
 title: "Writing fortunes for cookies"
 date: "2014-05-27"
 summary: Ever had to write a fortune?
-tags: [writing-and-style]
+tags: [ writing ]
 image: 
 featured_image_thumbnail: 
 featured_image: 
