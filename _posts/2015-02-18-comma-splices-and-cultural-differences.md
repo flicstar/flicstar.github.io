@@ -2,7 +2,7 @@
 title: "Comma splices and cultural differences"
 summary: You’re allowed to break the rules so long as you understand what rule you’re breaking.
 date: "2015-02-18"
-tags: [writing-and-style]
+tags: [ writing, editing, i18n ]
 image: /assets/images/splicecomma.png
 featured_image_thumbnail: /assets/images/splicecomma.png
 featured_image: /assets/images/splicecomma.png
