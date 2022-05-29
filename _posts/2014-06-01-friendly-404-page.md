@@ -2,7 +2,7 @@
 title: "Friendly 404 page"
 summary: You should jump at the chance to write a 404 page because they are challenging and fun.
 date: "2014-06-01"
-tags: [design-and-content-strategy]
+tags: [ content-design, content-strategy ]
 image: 
 featured_image_thumbnail: 
 featured_image: 
