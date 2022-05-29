@@ -1,10 +1,9 @@
 ---
-layout: default
+layout: page
 title: Blog
 
 ---
 
-{% if page.url == "/" %}
 <!-- Featured-->
 <div class="featured-posts outer">
     {% for post in site.posts %}
@@ -29,4 +28,4 @@ title: Blog
 {% include pagination.html %}
 {% if site.mailchimp_url %}
     {% include newsletter-box.html %}
-{% endif %}
+
