@@ -2,7 +2,7 @@
 title: "DITA done for you"
 date: "2015-10-30"
 summary: I did DITA so you don't have to.
-tags: [writing-and-style, dita, work-samples, open-source ] 
+tags: [ tech-writing, dita, open-source, tools ] 
 image:  /assets/images/dita.png
 featured_image_thumbnail: /assets/images/dita.png
 featured_image: /assets/images/dita.png
