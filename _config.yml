@@ -43,7 +43,9 @@ producthunt:
 navigation:
   - text: About
     url: /about
-  - text: Peer review
+  - text: Blog
+    url: /blog
+ - text: Peer review
     url: /peer-review
 
 # Required Plugins
