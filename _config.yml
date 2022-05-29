@@ -43,6 +43,8 @@ producthunt:
 navigation:
   - text: About
     url: /about
+  - text: Blog
+    url: /blog
   - text: Peer review
     url: /peer-review
 
