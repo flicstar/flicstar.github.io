@@ -2,7 +2,7 @@
 title: "Project Report for Season of Docs 2019"
 summary: My project report for Season of Docs 2019.
 date: "2019-11-27"
-tags: [season-of-docs, work-samples]
+tags: [ season-of-docs, tech-writing ]
 image: /assets/images/seasonofdocs.png
 featured_image_thumbnail: /assets/images/osgeolivebannerlogo.png
 featured_image: /assets/images/osgeosod.png
