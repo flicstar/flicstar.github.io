@@ -3,7 +3,7 @@ layout: post
 title: "Instructions to assemble a spinning wheel"
 summary: Congratulations on the purchase of your spinning wheel!
 date: "2014-05-27"
-tags: [instructions-and-procedures, job-hunting ]
+tags: [ tech-writing ]
 image: 
 featured_image_thumbnail: 
 featured_image: 
