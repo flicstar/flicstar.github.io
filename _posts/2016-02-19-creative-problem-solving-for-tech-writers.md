@@ -3,7 +3,7 @@ layout: post
 title: "Creative problem solving for tech writers"
 summary: Creativity begets creativity. Try Zentangle!
 date: "2016-02-19"
-tags: [ writing, creativity ]
+tags: [ tech-writing, content-design ]
 image: /assets/images/zentangle.jpg
 featured_image_thumbnail: /assets/images/zentangle.jpg
 featured_image: /assets/images/zentangle.jpg
