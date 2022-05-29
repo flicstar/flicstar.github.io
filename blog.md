@@ -4,7 +4,6 @@ title: Work samples
 featured_image: 
 ---
 
-{% if page.url == "/" %}
 <!-- Featured-->
 <div class="featured-posts outer">
     {% for post in site.posts %}
