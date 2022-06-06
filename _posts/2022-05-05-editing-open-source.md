@@ -22,27 +22,26 @@ Tread gently.
 Most writers I've edited for in open source projects aren't writers - they're developers or UX designers or tech integrators. They're also volunteering their writing time.
 
 Remembering that my writers might be unpaid, non-writers means going gently on edits. 
-Specifically, I tend to retain the author voice as much as possible, and sometimes that means (gasp!) retaining some poor construction. 
+> Specifically, I tend to retain the author's voice as much as possible, and sometimes that means (gasp!) retaining some poor construction. 
 
 This approach has several benefits:
 
 * Writers feel legitimate because they've gone through the editing process and improved the finished piece.
 * Writers feel proud and validated to see their writing in print.
-* Writers are more likely to continue to contribute their writing,  which ultimately benefits the project and the broader community.
+* Writers are more likely to continue to contribute their writing, which ultimately benefits the project and the broader community.
 
-> As an open source editor, you might also be volunteering your own time. Editing lightly is faster, meaning you can meet deadlines and move with the project. 
+As an open source editor, you might also be volunteering your own time. Editing lightly is faster, meaning you can meet deadlines and keep pace with the project.  
 
 
 ## Open source = global communities
 
 Tread mindfully. 
 
-The open source projects I've been involved with have all been global, with English as the preferred language. That means working with many people who are non-native English writers.  
+The open source projects I have worked with are global, with English as the preferred language. That means working with many people who are non-native English writers.  
 
-Obviously, editing for global communities requires sensitivity to cultural difference. My job as an editor is about thinking globally—having a broad awareness of what is region-specific and might not convey meaning across borders. This could be word choice, figures of speech, language conventions, currency punctuation, and hemispherical bias. I don't always know all the answers, but I do know enough to flag things that might not work. Here, I'm advocating for the reader and being sensitive in my feedback to the writer.
+Editing for global communities requires sensitivity to cultural differences. My job as an editor is about thinking globally—having a broad awareness of what is region-specific and might not convey meaning across borders. This could be word choice, figures of speech, language conventions, currency punctuation, and hemispherical bias. I don't always know all the answers, but I know enough to flag the things that might not work. Here, I'm advocating for the reader and being sensitive in my feedback to the writer.
 
-Being a native English speaker gives me a kind-of natural superpower. I find that most writers are keen to lean heavily on my native-speaking abilities. They tend to embrace the editing process as an opportunity for refreshing their language skills. I sometimes find myself having to explain grammar rules that have grown dusty in my mind.  Generally, though, this is an area where I can add value, and it makes me feel good. 
-
+Being a native English speaker gives me a kind-of natural superpower. I find that most writers are keen to lean heavily on my native-speaking abilities. They tend to embrace the editing process as an opportunity to refresh their language skills. I sometimes find myself having to explain grammar rules that have grown dusty in my mind.  Generally, though, this is an area where I can add value, and it makes me feel good. 
 
 ## Minimalist editing
 
