@@ -29,6 +29,9 @@ the universe. Understanding the space _outside_ a domain gives you the ability t
 
 Domain awareness means I can advocate for the reader and polish writing to be clear and simple - especially around a complex topic.
 
+
+### Building domain awareness
+
 How does a tech writer upskill in tech? By getting their hands dirty. I recently came across a Google job description outlining different ways a candidate may have gained domain knowledge:  
 
 > "Experience in technologies (software or hardware systems) by investigation, direct experimentation (for example, 
