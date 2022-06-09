@@ -18,7 +18,7 @@ stepping into a variety of different landscapes, and you’ll need your own tool
 ### Writing programs and text editors
 
 Technical writing today can happen almost anywhere: Google Docs, Word, an editable PDF, plain text editors, and any number of note-taking tools 
-like [Notion](https://www.notion.so/Getting-Started-5e1c43098c214140850aca77da43db5c) or [HedgeDoc](https://hedgedoc.org/). I’m keeping a keen eye on [Almanac](https://almanac.io/) but haven’t used it yet.
+like [Notion](https://www.notion.so/) or [HedgeDoc](https://hedgedoc.org/). I’m keeping a keen eye on [Almanac](https://almanac.io/) but haven’t used it yet.
 
 (I’m not mentioning _documentation_ because that covers a whole universe of tools too large to list here.)
 
