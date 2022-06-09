@@ -30,7 +30,7 @@ Technical content is often created using a lightweight markup language. You can'
 * [Markdown](https://www.markdownguide.org/) and its various [flavors](https://www.markdownguide.org/getting-started/#flavors-of-markdown). 
 * Plain text markups like [reStructuredText (reST)](https://docutils.sourceforge.io/rst.html), [AsciiDoc](https://asciidoc.org/), [DITA](https://www.oasis-open.org/committees/dita/faq.php) and [HTML](https://html.spec.whatwg.org/multipage/). 
 
-Also worth mentioning are static site generators (SSGs) like Jekyll](https://jekyllrb.com/), Hugo](https://gohugo.io/), and Sphinx](https://www.sphinx-doc.org/en/master/index.html). It pays to have a mental model of how some of the popular SSGs hang 
+Also worth mentioning are static site generators (SSGs) like [Jekyll](https://jekyllrb.com/), [Hugo](https://gohugo.io/), and [Sphinx](https://www.sphinx-doc.org/en/master/index.html). It pays to have a mental model of how some of the popular SSGs hang 
 together so you can traverse a repo, fix a link, or understand how blog posts work on the site.
 
 
@@ -38,10 +38,10 @@ together so you can traverse a repo, fix a link, or understand how blog posts wo
 
 How is your author sharing their files with you? It’s good to know your way around Google Drive and Dropbox. 
 
-You might be expected to edit in version control software⁠—so get familiar with how to review a pull request in GitHub and a 
-merge request in GitLab. There is a bit of a learning curve here.
+You might be expected to edit in version control software⁠—so get familiar with how to review a pull request in [GitHub](https://github.com/) and a 
+merge request in [GitLab](https://about.gitlab.com/). There is a bit of a learning curve here.
 
-You might be required to edit directly in a content management system (CMS) as part of a structured workflow. It's good to have an understanding of some of these tools, like Drupal, Sulu, TYPO3, WordPress, etc. Also consider other content platforms like wikis (think Confluence) and knowledge bases (like Zendesk).
+You might be required to edit directly in a content management system (CMS) as part of a structured workflow. It's good to have an understanding of some of these tools, like [Drupal](https://www.drupal.org/), [Sulu](https://sulu.io/), [TYPO3](https://typo3.org/), [WordPress](https://wordpress.com/), etc. Also consider other content platforms like wikis (think [Confluence](https://www.atlassian.com/software/confluence)) and knowledge bases (like [Zendesk](https://www.zendesk.com/au/)).
 
 
 ### Language checkers and linters
