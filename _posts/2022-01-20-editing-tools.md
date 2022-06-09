@@ -27,11 +27,11 @@ like [Notion](https://www.notion.so/Getting-Started-5e1c43098c214140850aca77da43
 
 Technical content is often created using a lightweight markup language. You can't be fluent in everything, but it's good to brush up on the basics so that you can add value when you edit (and not trip up on some of the semantic elements). 
 
-* Markdown and its various flavors. 
-* Plain text markups like reStructuredText (reST), AsciiDoc, DITA and HTML. 
+* [Markdown](https://www.markdownguide.org/) and its various [flavors](https://www.markdownguide.org/getting-started/#flavors-of-markdown). 
+* Plain text markups like [reStructuredText (reST)](https://docutils.sourceforge.io/rst.html), [AsciiDoc](https://asciidoc.org/), [DITA](https://www.oasis-open.org/committees/dita/faq.php) and [HTML](https://html.spec.whatwg.org/multipage/). 
 
-Also worth mentioning are static site generators (SSGs) like Jekyll, Hugo, and Sphinx. It pays to have a mental model of how some common SSGs hang together so you can 
-traverse a repo, fix a link, or understand how blog posts work on the site.
+Also worth mentioning are static site generators (SSGs) like Jekyll](https://jekyllrb.com/), Hugo](https://gohugo.io/), and Sphinx](https://www.sphinx-doc.org/en/master/index.html). It pays to have a mental model of how some of the popular SSGs hang 
+together so you can traverse a repo, fix a link, or understand how blog posts work on the site.
 
 
 ### File sharing, version control platforms, and CMSs
