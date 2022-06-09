@@ -4,9 +4,9 @@ title: "Async as an editing superpower"
 summary: Being an async tech editor lets me wring the most value out of my time.
 date: "2022-03-15"
 tags: [ editing ]
-image: /assets/images/freelance.png
-featured_image_thumbnail: /assets/images/freelance.png
-featured_image: /assets/images/freelance.png
+image: /assets/images/moonshine.jpg
+featured_image_thumbnail: /assets/images/moonshine.jpg
+featured_image: /assets/images/moonshine.jpg
 ---
 
 
@@ -44,8 +44,8 @@ Context helps me anticipate the author's intention, as well as frame my suggesti
 It's not essential, but it's helpful to have a relationship with your writers. That means making an effort to establish human connection across the asynchronous-divide. I 
 like to use any tool I can to be friendly, show my personality and establish rapport with my writers. By tool, I mean software that allows for conversation and connection to happen: Slack, Discord, email, Asana, Twitter, you name it.
 
-A lot has been written about working remote 
-and async. GitLab is famously all-remote and they have some useful information in their [handbook](https://about.gitlab.com/company/culture/all-remote/asynchronous/).
+A lot has been written about working remote and async. Check out the [Async Toolkit](https://async.twist.com/async-collaboration-toolkit/) from Twist for a list 
+of tools. GitLab is famously all-remote and they have some useful information in their [handbook](https://about.gitlab.com/company/culture/all-remote/asynchronous/) about async culture and behavior.
 
 > "Asynchronous work encourages thoughtfulness and intentionality"—Gitlab
 
@@ -83,5 +83,4 @@ My favorite thing is knowing that I've made someone else's job or day easier. Ed
 
 ---
 
-Image credits: Freelance image by [Eucalyp](https://thenounproject.com/eucalyp/) from NounProject.com
-
+Image credits: Moon photo by [Mahdi Soheili](https://unsplash.com/photos/XncGiwY8F2M) on Unsplash
