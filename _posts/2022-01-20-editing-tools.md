@@ -4,9 +4,9 @@ title: "My editing tech stack"
 summary: Like any activity, technical editing has its own set of languages and tools.
 date: "2022-01-20"
 tags: [ editing, tools ]
-image: /assets/images/edit-tool.png
-featured_image_thumbnail: /assets/images/edit-tool.png
-featured_image: /assets/images/edit-tool.png
+image: /assets/images/teacups.jpg
+featured_image_thumbnail: /assets/images/teacups.jpg
+featured_image: /assets/images/teacups.jpgg
 ---
 
 Like any activity, technical editing has its own set of languages and tools. 
@@ -14,6 +14,8 @@ Like any activity, technical editing has its own set of languages and tools.
 Technical writing today can happen in a variety of different programs and languages. As a tech editor, you need to be versatile and tech-literate because you edit
 where the writing is. If your author is a developer, they’ll write using the toolchain they’re most comfortable with. Tech editors today need to be comfortable 
 stepping into a variety of different landscapes, and you’ll need your own tools for editing once you get there.
+
+## Tools for content
 
 ### Writing programs and text editors
 
@@ -43,6 +45,8 @@ merge request in [GitLab](https://about.gitlab.com/). There is a bit of a learni
 
 You might be required to edit directly in a content management system (CMS) as part of a structured workflow. It's good to have an understanding of some of these tools, like [Drupal](https://www.drupal.org/), [Sulu](https://sulu.io/), [TYPO3](https://typo3.org/), [WordPress](https://wordpress.com/), etc. Also consider other content platforms like wikis (think [Confluence](https://www.atlassian.com/software/confluence)) and knowledge bases (like [Zendesk](https://www.zendesk.com/au/)).
 
+
+## Tools for editing
 
 ### Language checkers and linters
 
@@ -78,4 +82,4 @@ good at your job. If you feel comfortable with the technology you're working wit
 
 ---
 
-Image credits: Page with pencil and ruler image by [Flatart](https://thenounproject.com/Flatart/) from Noun Project.
+Image credits: Teacups image by [NEOSiAM  2021](https://www.pexels.com/photo/cups-and-plates-4889325/) from Pexels.
