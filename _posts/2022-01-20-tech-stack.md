@@ -6,7 +6,7 @@ date: "2022-01-20"
 tags: [ editing, tools ]
 image: /assets/images/teacups.jpg
 featured_image_thumbnail: /assets/images/teacups.jpg
-featured_image: /assets/images/teacups.jpgg
+featured_image: /assets/images/teacups.jpg
 ---
 
 Like any activity, technical editing has its own set of languages and tools. 
