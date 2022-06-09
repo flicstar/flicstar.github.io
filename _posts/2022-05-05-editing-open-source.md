@@ -4,9 +4,9 @@ title: "Editing in open source"
 summary: Editing in open source is about nurturing writers.
 date: "2022-05-05"
 tags: [ editing, open-source, i18n ]
-image: /assets/images/open-source.png
-featured_image_thumbnail: /assets/images/open-source.png
-featured_image: /assets/images/open-source.png
+image: /assets/images/forest.jpg
+featured_image_thumbnail: /assets/images/forest.jpg
+featured_image: /assets/images/forest.jpg
 ---
 
 Editing in open source is about nurturing writers and non-writers, and watching where you tread to sustain a path of non-code contributions.
@@ -69,4 +69,4 @@ blog post, community sprint review, or team retrospective—and the community be
 
 ---
 
-Image credits: Open source by [Garth DB](https://thenounproject.com/garthdb/) from NounProject.com
+Image credits: Tropical green forest photo by [wirestock](https://www.freepik.com/free-photo/landscape-tropical-green-forest_13291234.htm) on Freepik.
