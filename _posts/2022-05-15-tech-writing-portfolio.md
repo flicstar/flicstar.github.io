@@ -3,15 +3,16 @@ layout: post
 title: "Marketing yourself - Why you need a tech writing portfolio"
 date: "2022-05-15"
 tags: [ tech-writing, open-source, job-hunting ]
-featured_image_thumbnail: 
-featured_image: 
+image: /assets/images/blorange.jpg
+featured_image_thumbnail: /assets/images/blorange.jpg
+featured_image: /assets/images/blorange.jpg
 ---
 
 A writing portfolio is a collection of samples of your own writing—basically, it shows **what you can do**.
 A strong portfolio goes further and shows **how you think**.
 Whether it's private or public, it's a good idea to have one, and they're not as hard to create as you might think. 
 
-! This post first appeared on [The Good Docs Project blog](https://thegooddocsproject.dev/blog/marketing-yourself-why-you-need-a-tech-writing-portfolio/) 
+{% include note.html content="This post first appeared on [The Good Docs Project blog](https://thegooddocsproject.dev/blog/marketing-yourself-why-you-need-a-tech-writing-portfolio/)" %}
 
 Let's dive in and explore this powerful tool that will work for you, and be an asset whether you're job hunting or not.
 
