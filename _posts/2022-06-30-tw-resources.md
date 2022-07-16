@@ -37,7 +37,7 @@ I've only caught last couple of these, but Zohra has a lovely manner, and impres
 
 Amruta has been doing a sterling job for a while now, plugging away at creating authentic content on her YouTube channel. It's a really personal journey and both novice and experienced tech writers can find helpful content on her channel, "Tech. Writing. Life."
 
-🎥 [Amruta Ranade](https://www.youtube.com/c/AmrutaRanade)
+🎥 [Amruta Ranade on YouTube](https://www.youtube.com/c/AmrutaRanade)
 
 
 ## Need more?
