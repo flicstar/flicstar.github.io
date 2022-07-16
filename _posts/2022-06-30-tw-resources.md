@@ -4,9 +4,9 @@ title: "Tech writing gems to add to your feed"
 summary: Resources I’m enjoying right now..
 date: "2022-06-30"
 tags: [ resources, tech-writing ]
-image: /assets/images/image.png
-featured_image_thumbnail: /assets/images/image.png
-featured_image: /assets/images/image.png
+image: https://brianakdesigns.com/wp-content/uploads/2020/02/Unicorn-Headphones-8.jpg
+featured_image_thumbnail: https://brianakdesigns.com/wp-content/uploads/2020/02/Unicorn-Headphones-8.jpg
+featured_image: https://brianakdesigns.com/wp-content/uploads/2020/02/Unicorn-Headphones-8.jpg
 ---
 
 I'm pleased that there is an ever-increasing amount of content being created by tech writers for tech writers.
@@ -40,6 +40,10 @@ Amruta has been doing a sterling job for a while now, plugging away at creating 
 [Amruta Ranade](https://www.youtube.com/c/AmrutaRanade)
 
 
-## Hungry for more?
+## Need more?
 
 If you're looking for more to listen to, Tom Johnson has a dedicated page with a comprehensive list of [other tech comm podcasts](https://idratherbewriting.com/technical-writing-podcasts/) on his website,  I'd Rather Be Writing.
+
+---
+
+Image credits: Knit unicorn headset cover photo by [Briana K Designs](https://brianakdesigns.com/unicorn-headphone-wrap/).
