@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Tech writing gems to add to your feed"
+title: "Tech writing listens to add to your feed"
 summary: Resources I’m enjoying right now..
 date: "2022-06-30"
 tags: [ resources, tech-writing ]
@@ -8,8 +8,6 @@ image: https://brianakdesigns.com/wp-content/uploads/2020/02/Unicorn-Headphones-
 featured_image_thumbnail: https://brianakdesigns.com/wp-content/uploads/2020/02/Unicorn-Headphones-8.jpg
 featured_image: https://brianakdesigns.com/wp-content/uploads/2020/02/Unicorn-Headphones-8.jpg
 ---
-
-I'm pleased that there is an ever-increasing amount of content being created by tech writers for tech writers.
 
 Here is a round-up of some podcasts (and one YouTuber) that I'm particularly enjoying right now. 
 
