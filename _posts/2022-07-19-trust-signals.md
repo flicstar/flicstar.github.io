@@ -59,7 +59,7 @@ What is meaningful can vary by team and by project, so context and personas are 
 > Shameless plug: Open Strategy Partners conduct [trust audits](https://openstrategypartners.com/services/strategize#:~:text=to%20learn%20more!-,Trust%20Signals%20Audit,-What%20are%20Trust), and can help tailor a communication strategy for your open source project.
 
 
-## Examples of Signals
+## Examples of signals
 
 #### Direct signals
 
