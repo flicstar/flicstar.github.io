@@ -4,9 +4,9 @@ title: "Trust signals in open source"
 summary: Trust signals in open source.
 date: "2022-07-19"
 tags: [ open-source, writing, content-strategy ]
-image: https://images.unsplash.com/photo-1544955448-6346fb3cadc9
-featured_image_thumbnail: https://images.unsplash.com/photo-1544955448-6346fb3cadc9
-featured_image: https://images.unsplash.com/photo-1544955448-6346fb3cadc9
+image: /assets/images/signal-tower.jpg
+featured_image_thumbnail: /assets/images/signal-tower.jpg
+featured_image: /assets/images/signal-tower.jpg
 ---
 
 Open source projects generally have many visible cues (or signals) that let people make rich inferences about the health of the project and the tone of its community. These signals inform their decision about using a product or joining a project. 
