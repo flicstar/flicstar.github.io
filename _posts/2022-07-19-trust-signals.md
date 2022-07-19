@@ -11,7 +11,7 @@ featured_image: /assets/images/signal-tower.jpg
 
 Open source projects generally have many visible cues (or signals) that let people make rich inferences about the health of the project and the tone of its community. These signals inform their decision about using a product or joining a project. 
 
-Trust plays an important role in [values-based decision-making](https://www.forbes.com/sites/forbescoachescouncil/2018/07/20/what-does-it-mean-to-make-values-based-decisions-12-entrepreneurs-weigh-in/), and if your project has a vibrant set of signals, a prospective user or contributor is far more likely to engage with your product or community. 
+Trust plays an important role in [values-based decision-making](https://www.forbes.com/sites/forbescoachescouncil/2018/07/20/what-does-it-mean-to-make-values-based-decisions-12-entrepreneurs-weigh-in/). If your project has a vibrant set of signals, a prospective user or contributor is far more likely to engage with your product or community. 
 
 So how can you influence your trust signals? Let’s dive in.
 
@@ -20,18 +20,14 @@ So how can you influence your trust signals? Let’s dive in.
 
 Trust signals can be direct or indirect.
 
-
-
-* **Direct **- Highly visual cues that are quick and easy to consume. These are usually built-in to an interface such as number of commits or issues, project stars, badges and use of labels.  \
+* **Direct** - Highly visual cues that are quick and easy to consume. These are usually built-in to an interface, and include things like number of commits or issues, project stars, badges, and use of labels.
 _Direct cues, by nature, make an immediate impression._
-* **Indirect **- These are inferred from browsing through content associated with the project, for example, pull requests and discussions. Responsive maintainers can be a signal of a healthy project; and if conversations are positive and inclusive, people can gauge the tone of the community.  \
+* **Indirect** - These are inferred from browsing through content associated with the project, for example, pull requests and discussions. Responsive maintainers can  signal a healthy project; and if conversations are positive and inclusive, people can gauge the tone of the community.
 _Indirect cues are costlier to produce and are therefore more reliable (because they are harder to fake)._
 
 > An important attribute of signals is their production cost: signals that are costlier to produce are considered more reliable because they are harder to fake. 
 
 **Key signals** that people use to inform their decision about whether or not to contribute to a GitHub project:
-
-
 
 * A README file with thorough contents and clear structure, describing what the project does, how to get started using it, what a new contributor could work on, and what guidelines they should follow.
 * The availability of scaffolding, such as issue and pull request templates, or issue labels.
@@ -41,7 +37,7 @@ _Indirect cues are costlier to produce and are therefore more reliable (because 
 
 —From [The Signals that Potential Contributors Look for When Choosing Open-source Projects](https://dl.acm.org/doi/pdf/10.1145/3359224)
 
-A direct trust signal (for example, the number of downloads) may not always be inherently meaningful, but can provide a baseline to measure against. Once a project improves its indirect trust signals, a project can measure change against the baseline. For example, improving the README might improve the number of downloads.
+A direct trust signal (for example, the number of downloads) may not always be inherently meaningful, but can provide a baseline to measure against. Once a project improves its indirect trust signals, it can measure change against the baseline. For example, improving the README might increase the number of downloads.
 
 
 # Context is important
@@ -53,10 +49,10 @@ For example,
 * Frequent releases might signal a vibrant project, or that a codebase is very buggy.
 * A detailed contributor’s guide might excite some new contributors but be off-putting to others, signaling too much process overhead and a higher bar to participation.
 
-What is meaningful can vary by team and by project, so context and personas are really important when interpreting signals. Useful persona questions and metrics can be found at [Community Health analytics for OSS](https://chaoss.community/metrics/) (CHAOSS):
+What is meaningful can vary by team and by project, so context and personas are crucial when interpreting signals. You can find useful persona questions and metrics at [Community Health analytics for OSS](https://chaoss.community/metrics/) (CHAOSS) covering:
 
 * Diversity and inclusion
-* Evolution (growth and (decline of project)
+* Evolution (growth and decline of project)
 * Risk (security, code quality, license, transparency)
 * Value (social, economic, individual, communal)
 
@@ -65,7 +61,7 @@ What is meaningful can vary by team and by project, so context and personas are 
 
 ## Examples of Signals
 
-**Direct signals**
+#### Direct signals
 
 Highly visual cues that are quick and easy to consume (usually built-in to a user interface).
 
@@ -78,7 +74,7 @@ Highly visual cues that are quick and easy to consume (usually built-in to a use
 * License
 * Number of commits, contributors, forks, issues, pull requests, star gazers, and watchers
 
-**Indirect signals**
+#### Indirect signals
 
 Knowledge inferred from additional information available about the project. 
 
