@@ -1,7 +1,7 @@
 ---
 layout: post
-title: "Trust Signals in Open Source"
-summary: Trust Signals in Open Source.
+title: "Trust signals in open source"
+summary: Trust signals in open source.
 date: "2022-07-19"
 tags: [ open-source, writing, content-strategy ]
 image: https://images.unsplash.com/photo-1544955448-6346fb3cadc9
