@@ -56,9 +56,6 @@ What is meaningful can vary by team and by project, so context and personas are 
 * Risk (security, code quality, license, transparency)
 * Value (social, economic, individual, communal)
 
-> Shameless plug: Open Strategy Partners conduct [trust audits](https://openstrategypartners.com/services/strategize#:~:text=to%20learn%20more!-,Trust%20Signals%20Audit,-What%20are%20Trust), and can help tailor a communication strategy for your open source project.
-
-
 ## Examples of signals
 
 #### Direct signals
@@ -94,6 +91,13 @@ Knowledge inferred from additional information available about the project.
 
 If you’re a project looking to increase your user base or grow your community, consider the trust signals of the project. Put effort into polishing your indirect signals (written content and community activity) so that they flow on to impact your direct signals.
 
+## Focus on your indirect signals
+
+If you’re an open source project looking to increase your user base or grow your community, consider your indirect trust signals. Put effort into 
+creating good docs, be aware of the language you’re using, and really nurture your community. This work will flow through to impact your direct 
+signals (number of download, size of community), and entice new folk to your project.
+
+> Shameless plug: Open Strategy Partners conduct [trust audits](https://openstrategypartners.com/services/strategize#:~:text=to%20learn%20more!-,Trust%20Signals%20Audit,-What%20are%20Trust), and can help tailor a communication strategy for your open source project.
 
 ## References
 
