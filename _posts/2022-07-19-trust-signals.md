@@ -87,10 +87,6 @@ Knowledge inferred from additional information available about the project.
 * Community channels - Slack and Discord, activity on StackOverflow, project hashtag use on social media.
 * Community tone - language used through the project can indicate attitude to inclusion, diversity, and accessibility. 
 
-> An open source project can work to directly influence their trust signals by creating good docs and nurturing their community.
-
-If you’re a project looking to increase your user base or grow your community, consider the trust signals of the project. Put effort into polishing your indirect signals (written content and community activity) so that they flow on to impact your direct signals.
-
 ## Focus on your indirect signals
 
 If you’re an open source project looking to increase your user base or grow your community, consider your indirect trust signals. Put effort into 
