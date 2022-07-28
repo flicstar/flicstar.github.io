@@ -9,7 +9,7 @@ featured_image_thumbnail: /assets/images/signal-tower.jpg
 featured_image: /assets/images/signal-tower.jpg
 ---
 
-Open source projects generally have many visible cues (or signals) that let people make rich inferences about the health of the project and the tone of its community. These signals inform their decision about using a product or joining a project. 
+Open source projects have many visible cues (or signals) that let people make rich inferences about the health of the project and the tone of its community. These signals inform their decision about using a product or joining a project. 
 
 Trust plays an important role in [values-based decision-making](https://www.forbes.com/sites/forbescoachescouncil/2018/07/20/what-does-it-mean-to-make-values-based-decisions-12-entrepreneurs-weigh-in/). If your project has a vibrant set of signals, a prospective user or contributor is far more likely to engage with your product or community. 
 
