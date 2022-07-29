@@ -27,7 +27,7 @@ Tech comm celebs Portia Burton and Eric Holscher host this podcast with ten epis
 
 ## Inside Tech Comm with Zohra Mutabanna
 
-I've only caught last couple of these, but Zohra has a lovely manner, and impresses me every time with her active listening skills. She's an empathetic interviewer, which makes these podcasts really enjoyable to listen to. 
+I've only caught the last couple of these, but Zohra has a lovely manner, and impresses me every time with her active listening skills. She's an empathetic interviewer which makes these podcasts really enjoyable to listen to. 
 
 🎧 [Inside Tech Comm](https://www.insidetechcomm.show/1728253)
 
