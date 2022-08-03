@@ -13,10 +13,6 @@ Here is a round-up of some podcasts (and one YouTuber) that I'm particularly enj
 
 {% include note.html content="This post was published in code:words on Medium." %}
 
-
-{% include note.html content="This post was published in <a href="(https://codewords.tech/)">code:words</a>on Medium." %}
-
-
 ## WORD UP! 
 
 This new-ish tech writing podcast by Alex Fiedler is really easy to listen to. It's scoped as tech writing for start-ups, and framed as being for the Israel tech comm market but it is totally relatable and I think it transcends geographic boundaries. It isn't over-produced and I really hope Alex maintains his momentum and continues to push out episodes. 
