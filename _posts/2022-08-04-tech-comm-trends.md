@@ -96,3 +96,5 @@ Open source is my happy place. I’m intrinsically motivated! Who knew?! I start
 ## Remote work
 
 This is me, and most everyone else these days. I was working remotely before the pandemic (“I liked them before they were cool”). You get good at async communication. I do miss people. I wrote about how you can make [being remote and async](https://flicstar.hashnode.dev/async-editing) work act in your favor. Hint: you become a friendly elf!
+
+> Check out Tom Johnson's series, [Trends to follow or forget in tech comm](https://idratherbewriting.com/trends/trends-to-follow-or-forget-intro.html)
