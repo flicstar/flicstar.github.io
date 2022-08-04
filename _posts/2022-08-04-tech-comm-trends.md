@@ -2,7 +2,7 @@
 layout: post
 title: "In response to 15 Tech Comm Trends"
 summary: In response to Tom Johnson's 15 tech comm trends to follow or forget. 
-date: "2022-07-01"
+date: "2022-08-04"
 tags: [ tech-writing ]
 image: /assets/images/TechCommBingo.png
 featured_image_thumbnail: /assets/images/bingothumbnail.png
