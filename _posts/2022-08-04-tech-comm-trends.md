@@ -10,7 +10,7 @@ featured_image: /assets/images/TechCommBingo.png
 ---
 
 
-Tom Johnson wrote a series about the [Trends to follow or forget in tech comm](https://idratherbewriting.com/trends/trends-to-follow-or-forget-intro.html). He’s put a lot of work into pulling it together and I encourage you to check it out. I feel like I could call BINGO! on a lot of these, so decided to write a brief blurb about my experience with each trend. It makes me feel old.
+Tom Johnson wrote a series about the '[trends to follow or forget in tech comm](https://idratherbewriting.com/trends/trends-to-follow-or-forget-intro.html)'. He’s put a lot of work into pulling it together and I encourage you to check it out. I feel like I could call BINGO! on a lot of these, so decided to write a brief blurb about my experience with each trend. It makes me feel old.
 
 
 ## HATs and single-sourcing
