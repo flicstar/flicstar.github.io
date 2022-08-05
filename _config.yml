@@ -43,7 +43,7 @@ producthunt:
 navigation:
   - text: About
     url: /about
-  - text: Peer review
+  - text: Needa beta reader?
     url: /peer-review
 
 # Required Plugins
