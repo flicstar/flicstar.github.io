@@ -642,9 +642,7 @@ img {
  */
 code[class*="language-"],
 pre[class*="language-"] {
-    color: $gray-light;
     background: none;
-    text-shadow: 0 1px rgba(0, 0, 0, 0.3);
     font-family: Consolas, Monaco, 'Andale Mono', 'Ubuntu Mono', monospace;
     text-align: left;
     white-space: pre;
