@@ -4,7 +4,7 @@ title: I'll be your beta reader 👩‍💻
 featured_image: 
 ---
 
-Have you just hit publish and want a sanity check on your writing? 
+Have you just hit publish and want a coherence check on your writing? 
 
 If you're a tech writer who blogs, I'll peer review your work. 🤓
 
