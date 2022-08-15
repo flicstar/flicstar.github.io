@@ -2,7 +2,7 @@
 layout: post
 title: "Registering my .eth name"
 summary: I chronicle my first experience doing anything on a blockchain.
-date: "2022-08-06"
+date: "2022-08-15"
 tags: [ web3, blockchain ]
 image: https://images.unsplash.com/photo-1547675960-7634cf1b0856?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1083&q=80
 featured_image_thumbnail: https://www.cointribune.com/app/uploads/2021/11/imgonline-com-ua-Resize-pnz5xAG69metDXG2.jpg
@@ -12,7 +12,6 @@ featured_image: https://images.unsplash.com/photo-1547675960-7634cf1b0856?ixlib=
 In February this year I used the [Ethereum Name Service](https://ens.domains/) (ENS) to buy my eth name—my first experience doing anything on a blockchain.
 
 It was a wild ride. Here’s how it went down:
-
 
 1. Listen to Brantly Millegan speak on [Web3 Breakdowns](https://www.joincolossus.com/episodes/97809264/millegan-ethereum-name-service?tab=transcript) about it. Get excited because it sounds ridiculously easy. (first mistake! 😂)
 2. Go to the [website](https://ens.domains/) - realize I need a wallet. With ETH (but I’ll cross that bridge when I come to it).
