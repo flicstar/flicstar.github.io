@@ -32,7 +32,7 @@ Glad I bought it - it was a useful exercise and I learned a lot. No, I haven’t
 
 On the Decoder podcast [Can the law keep up with crypto?](https://www.theverge.com/22944579/crypto-bitcoin-internet-law-nft-tiktok-dances-tonya-evans-interview), Professor Tonya Evans said that she bought her ENS domain **just to grab the name**. Which was entirely my motivation too. 
 
-> “I do own my ENS [Ethereum Name Service] domain, because even if I don’t use it, I want to make sure nobody else uses it.”
+> “I do own my ENS [Ethereum Name Service] domain, because even if I don’t use it, I want to make sure nobody else uses it.”—[Tonya Evans](https://proftonyaevans.com/)
 
 —-
 
