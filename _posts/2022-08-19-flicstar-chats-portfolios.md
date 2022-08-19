@@ -4,10 +4,15 @@ title: "flicstar chat: Portfolios"
 date: "2022-08-19"
 tags: [ tech-writing, resources, job-hunting ]
 image: 
-featured_image_thumbnail: fcportfolio.png
+featured_image_thumbnail: /assets/images/fcportfolio.png
 featured_image: 
 ---
 
+<!-- blank line -->
+<figure class="video_container">
+  <iframe src="https://www.youtube.com/embed/jQc53HkztM8" frameborder="0" allowfullscreen="true"> </iframe>
+</figure>
+<!-- blank line -->
 
 Check out episode #2 of [The Interface Podcast](https://uxcontent.com/the-interface-podcast/)
 
