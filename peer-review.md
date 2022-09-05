@@ -4,11 +4,11 @@ title: I'll be your beta reader 👩‍💻
 featured_image: 
 ---
 
-Have you just hit publish and want a coherence, confidence, or quality check check on your writing? 
+Have you just hit publish and want a coherence, confidence, or quality check on your writing? 
 
-If you're a tech writer who blogs, I'll peer review your work. 🤓
+Sometimes Hemingway App and Grammarly just don't cut it—you need a human!
 
-Sometimes Hemingway App and Grammarly just don't cut it—you need a human! More than that, a fellow documentarian.
+If you're a developer with a tech blog, or a tech writer with an anything-blog, I'll peer review your work. 🤓
 
 ### Send it over 🚚
 
