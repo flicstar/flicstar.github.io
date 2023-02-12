@@ -15,13 +15,13 @@ body {
 
 a {
     color: $color-accent;
-    text-decoration: underline;
+    text-decoration: none;
     -webkit-transition: color .3s ease;
     transition: color .3s ease;
-}
 
 a:hover {
-    color: $gray-darkest;
+  color: $gray-darkest;
+  text-decoration: underline;
 }
 
 h1,
