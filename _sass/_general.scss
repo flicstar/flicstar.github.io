@@ -9,19 +9,19 @@ html {
 
 body {
     background: #fff;
-    color: $gray-darkest;
+    color: $gray-dark;
     line-height: 1.66667;
 }
 
 a {
     color: $color-accent;
-    text-decoration: none;
+    text-decoration: underline;
     -webkit-transition: color .3s ease;
     transition: color .3s ease;
+}
 
 a:hover {
-  color: $gray-darkest;
-  text-decoration: underline;
+    color: $gray-darkest;
 }
 
 h1,
