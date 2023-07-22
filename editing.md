@@ -4,7 +4,8 @@ title: Editing
 featured_image: 
 ---
 
-I work as an editor at [Open Strategy Partners](https://openstrategypartners.com/). I also edit as part of the writers collective, [Foster](https://www.foster.co/).
+I work as an editor at [Open Strategy Partners](https://openstrategypartners.com/).   
+I also edit as part of the writers collective, [Foster](https://www.foster.co/).
 
 ### Writing about editing
 
