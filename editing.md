@@ -4,17 +4,20 @@ title: Editing
 featured_image: 
 ---
 
-## Writing about editing
+I work as an editor at [Open Strategy Partners](https://openstrategypartners.com/). I also edit as part of the writers collective, [Foster](https://www.foster.co/).
 
-I work as a technical editor. To keep my editing skills sharp, I write.
+### Writing about editing
 
-
+* [Respectful review comments in open source]()
+* [Editing the impatient writer]()
+* [Avoid writer's block when you're editing content]()
+* [From code reviews to prose reviews]()
+* [Editing skills: innate or learned?]()
+* [Anatomy of an editing comment]()
 
 ## Editing codes
 
-[Editing codes](https://openstrategypartners.com/resources/the-osp-editing-codes/) are semantic short codes that represent the writing principles in your writer's guide.
-
-The codes are a lightweight convention for reviewing content. They communicate the rationale behind a suggested edit based on a specific writing guideline.
+[Editing codes](https://openstrategypartners.com/resources/the-osp-editing-codes/) are semantic short codes that are a lightweight convention for reviewing content. They communicate the rationale behind a suggested edit based on a specific writing guideline.
 
 The codes were devised by Open Strategy Partners (disclaimer: I work there!).
 
@@ -22,11 +25,7 @@ The codes were devised by Open Strategy Partners (disclaimer: I work there!).
 * [Editing Codes Use Cases](https://flicstar.hashnode.dev/editing-codes-use-cases)
 * Editing Codes - A shared langauge
 
-## Foster
-
-I'm a contributor at Foster where I edit a variety of different kinds of writing. Check it out.
-
-## Blogstars
+## Blogstars Series
 
 I review articles written by tech bloggers and call out things they've done well. Why? To make them feel good 🤗 and to call out specific techniques to help other bloggers improve their writing.
 
