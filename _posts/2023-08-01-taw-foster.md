@@ -18,8 +18,7 @@ You know when you have an epiphany? It's sudden. Drastic. Gives you a completely
 
 Thoughts remembered. New thoughts emerged. 
 
-> You said you wanted to get back to yourself? Look! Remember!? You made this. It came from you. It's beautiful. See it with your today-eyes. You are a maker. Things came naturally then
-> because you knew who you were. You knew what you valued and what nourished your soul. Is that gone? Changed? Let's work it out - together. —The Universe
+> _You said you wanted to get back to yourself? Look! Remember!? You made this. It came from you. It's beautiful. See it with your today-eyes. You are a maker. Things came naturally then because you knew who you were. You knew what you valued and what nourished your soul. Is that gone? Changed? Let's work it out - together._ —The Universe
 
 So anyway, Foster. It's a [really cool collective I joined](https://flicstar.com/foster) at the end of last year. It gives an outlet to my earnest desire for EDITING - since January I've stretched my editing muscles, contributing to fiction and non-fiction, short and long pieces. So much fun! Giving feedback on writing is something that taps into the very heart of me. I love doing it and it's something I'm good at.
 
