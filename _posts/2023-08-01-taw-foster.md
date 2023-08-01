@@ -18,14 +18,14 @@ You know when you have an epiphany? It's sudden. Drastic. Gives you a completely
 
 Thoughts remembered. New thoughts emerged. 
 
-> _You said you wanted to get back to yourself? Look! Remember!? You made this. It came from you. It's beautiful. See it with your today-eyes. You are a maker. Things came naturally then
-> because you knew who you were. You knew what you valued and what nourished your soul. Is that gone? Changed? Let's work it out - together._ —The Universe
+> You said you wanted to get back to yourself? Look! Remember!? You made this. It came from you. It's beautiful. See it with your today-eyes. You are a maker. Things came naturally then
+> because you knew who you were. You knew what you valued and what nourished your soul. Is that gone? Changed? Let's work it out - together. —The Universe
 
 So anyway, Foster. It's a [really cool collective I joined](https://flicstar.com/foster) at the end of last year. It gives an outlet to my earnest desire for EDITING - since January I've stretched my editing muscles, contributing to fiction and non-fiction, short and long pieces. So much fun! Giving feedback on writing is something that taps into the very heart of me. I love doing it and it's something I'm good at.
 
 Foster holds a couple of writers programs every year - they're called seasons. I committed to [Season 3, The Artisan's Way](https://www.foster.co/season3). It was five weeks of workshops, learning, writing, introspection. So, so good! I've never attended anything like this before. Hanging out with like-minded people? Big tick from me. Plus experts? Sign me up.
 
-_ The age of average writing is over. The future belongs to artisans. As the media world gets noisier and more mediocre, the writers who will win—both economically and culturally—will increasingly be the true artisans. At Foster, we believe that focusing on substance, craft, and voice is the only way to matter in the future._
+_The age of average writing is over. The future belongs to artisans. As the media world gets noisier and more mediocre, the writers who will win—both economically and culturally—will increasingly be the true artisans. At Foster, we believe that focusing on substance, craft, and voice is the only way to matter in the future._
 
 From AI prompts to adding spice, discovering the COMPOSE pattern ("it's not a framework!!") and peeking behind the curtain to see how a byline sausage gets made. The season got me unstuck. Yay! I'm doing [morning pages](https://juliacameronlive.com/2019/01/03/morning-pages-the-beginning/) again. I took myself on an [Artist Date](https://juliacameronlive.com/2015/02/24/the-magic-of-artist-dates/) the other day - woah! First time in years. I'm writing this during a Foster co-writing session that's keeping me accountable. I hope to keep riding this wave for as long as it'll take me. 🌊🏄‍♀️
 
