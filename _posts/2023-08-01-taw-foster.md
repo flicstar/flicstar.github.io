@@ -1,14 +1,12 @@
 ---
 layout: post
-title:  "Foster Season 3"
-summary: Foster Season 3 Wrap-up
+title:  "The Artisan’s Way Writers Program"
+summary: 
 tags: [writing, editing, foster ]
-image: /assets/images/pennyfarthing.jpg 
-featured_image_thumbnail: /assets/images/pennyfarthing.jpg
-featured_image: /assets/images/pennyfarthing.jpg
+image: /assets/images/TAW.png
+featured_image_thumbnail: /assets/images/TAW.png
+featured_image: /assets/images/TAW.png
 ---
-
-# The Artisan’s Way Writers Program
 
 I used to be a really good writer. I mean, [this thing](https://flicstar.com/lifelines-writing-and-knitting) I wrote back in 2014 is finger-kiss-good *mwah*. What's it got? It's light but weighty. It conveys a point neatly, has my voice, is just the right length, doesn't prevaricate or diminish itself. It’s me being my authentic self, but where did I go? 
 
