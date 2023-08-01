@@ -2,7 +2,7 @@
 layout: post
 title:  "Foster Season 3"
 summary: Foster Season 3 Wrap-up
-tags: [writing, editing ]
+tags: [writing, editing, foster ]
 image: /assets/images/pennyfarthing.jpg 
 featured_image_thumbnail: /assets/images/pennyfarthing.jpg
 featured_image: /assets/images/pennyfarthing.jpg
@@ -17,6 +17,7 @@ I'm a member of the Foster Writers Collective and this year, I took part in [Sea
 > craft, and voice is the only way to matter in the future.
 
 This was the first writers program I've ever been involved with - and I loved every second. I fully committed. 
+
 
 
 
