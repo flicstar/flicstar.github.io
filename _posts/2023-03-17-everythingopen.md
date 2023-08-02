@@ -18,7 +18,7 @@ I presented at the [Everything Open 2023](https://2023.everythingopen.au/) confe
 <!-- blank line -->
 
 
-I work at Open Strategy Partners, where [trust plays a big part in how we communicate](https://openstrategypartners.com/blog/communicate-connect-grow-the-osp-origin-story/), and the type of content we create for our clients. 
+I work at Open Strategy Partners, where [trust plays a big part in how we communicate](https://openstrategypartners.com/blog/communicate-connect-grow-the-osp-origin-story/). 
 
 After my talk, the questions and discussion that arose from the audience showed that there was a big interest in docs and tech writing, and their associated challenges like: 
 
@@ -29,6 +29,8 @@ After my talk, the questions and discussion that arose from the audience showed 
 - the loneliness of lone writers. 
 
 
-Overall, it was a friendly, welcoming, professional event, with a wonderful organizing committee and supportive tech staff. The live streaming which went off without a hitch! Really cool.
+Overall, it was a friendly, welcoming, professional event, with a wonderful organizing committee and supportive tech staff. The live streaming went off without a hitch! Really cool.
 
-You can grab a copy of my slides and see the references and supporting material over on the [OSP blog](https://openstrategypartners.com/blog/boost-your-projects-trust-signals-with-great-docs/). While you're there, get yourself a [Trust and Vibrancy Report from OSP!](https://openstrategypartners.com/services/strategize/#c3685) 
+You can grab a copy of my slides and see the references and supporting material over on the [OSP blog](https://openstrategypartners.com/blog/boost-your-projects-trust-signals-with-great-docs/). 
+
+While you're there, get yourself a [Trust and Vibrancy Report from OSP!](https://openstrategypartners.com/services/strategize/#c3685) 
