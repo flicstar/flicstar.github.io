@@ -47,7 +47,7 @@ navigation:
   - text: Need a review?
     url: /peer-review
   - text: Writing
-    url: /writing/writing
+    url: /writing
 
 # Required Plugins
 plugins_dir:
