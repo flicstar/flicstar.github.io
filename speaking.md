@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Speaking Posts
+featured_image: 
 ----
 
 <ul>
@@ -12,4 +13,3 @@ title: Speaking Posts
     {% endif %}
   {% endfor %}
 </ul>
-
