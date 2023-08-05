@@ -4,7 +4,7 @@ title: Editing
 featured_image: 
 
 ---
-<div class="outer">
+
 <div class="post-feed inner-wide">
 <ul>
   {% for post in site.categories.editing %}
@@ -15,7 +15,7 @@ featured_image:
   {% endfor %}
 </ul>
 </div>
-</div>
+
 
 <!-- Pagination-->
 {% include pagination.html %}
