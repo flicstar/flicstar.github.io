@@ -6,12 +6,16 @@ featured_image:
 ---
 
 
-<ul>
-  {% for post in site.categories.editing %}
+<div class="outer">
+  <div class="post-feed-title inner">Writing about editing</div>
+    {% endif %}
+       <div class="post-feed inner-wide">
+       {% for post in site.categories.editing %}
     {% if post.url %}
         <li><a href="{{ post.url }}">{{ post.title }}</a>
          {{ post.excerpt }}
         </li>
     {% endif %}
-  {% endfor %}
-</ul>
+  {% endfor %}         
+    </div>   
+</div>
