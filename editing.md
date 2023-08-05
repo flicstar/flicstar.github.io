@@ -10,8 +10,8 @@ featured_image:
   {% for post in site.categories.editing %}
     {% if post.url %}
         <li><a href="{{ post.url }}">{{ post.title }}</a></li>
-    {% endif %}
   {% include postbox.html %}
+  {% endif %}
   {% endfor %}
 </ul>
 </div>
