@@ -2,7 +2,6 @@
 layout: post
 title:  "The Artisan’s Way Writers Program"
 summary: 
-category: writing
 tags: [writing, editing, foster ]
 image: /assets/images/TAW.png
 featured_image_thumbnail: /assets/images/TAW.png
