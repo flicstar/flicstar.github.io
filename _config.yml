@@ -44,7 +44,7 @@ producthunt:
 navigation:
   - text: About
     url: /about
-  - text: Writing
+  - text: Tech Writing
     url: /writing
   - text: Editing
     url: /editing
