@@ -1,7 +1,7 @@
 ---
+
 layout: page
 title: Writing Posts
-
 ----
 
 <p>Posts in category "Writing" are:</p>
