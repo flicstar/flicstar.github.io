@@ -1,8 +1,10 @@
 ---
 layout: page
-title: Writing Posts
+title: Writing
 featured_image: 
-----
+
+---
+
 
 <p>I write about technical writing, open source, work I'm doing, and things I find interesting.</p>
 
