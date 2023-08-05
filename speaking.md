@@ -1,10 +1,7 @@
 ---
 layout: page
 title: Speaking Posts
-
-
 ----
-
 
 <ul>
   {% for post in site.categories.speaking %}
