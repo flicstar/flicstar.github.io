@@ -5,7 +5,7 @@ featured_image:
 
 ---
 
-<div class="post-feed inner-wide">
+
 
   {% for post in site.categories.editing %}
     {% if post.url %}
@@ -14,5 +14,5 @@ featured_image:
   {% endif %}
   {% endfor %}
 
-</div>
+
 
