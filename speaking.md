@@ -3,7 +3,7 @@ layout: page
 title: Speaking Posts
 featured_image: 
 
-----
+---
 
 <ul>
   {% for post in site.categories.speaking %}
