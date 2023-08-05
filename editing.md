@@ -10,10 +10,10 @@ featured_image:
   <div class="post-feed-title inner">Writing about editing</div>
        <div class="post-feed inner-wide">
        {% for post in site.categories.editing %}
+         {% include postbox.html %}
     {% if post.url %}
-        <li><a href="{{ post.url }}">{{ post.title }}</a>
+       <a href="{{ post.url }}">{{ post.title }}</a>
          {{ post.excerpt }}
-        </li>
     {% endif %}
   {% endfor %}         
     </div>   
