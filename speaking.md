@@ -1,12 +1,10 @@
 ---
-
 layout: page
-title: Editing
-featured_image: 
+title: Speaking Posts
 
----
+----
 
-<p>Posts in category "Editing" are:</p>
+<p>Posts in category "Writing" are:</p>
 
 <ul>
   {% for post in site.categories.speaking %}
@@ -15,5 +13,3 @@ featured_image:
     {% endif %}
   {% endfor %}
 </ul>
-
-

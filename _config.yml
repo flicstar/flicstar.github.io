@@ -44,10 +44,12 @@ producthunt:
 navigation:
   - text: About
     url: /about
-  - text: Need a review?
-    url: /peer-review
   - text: Writing
     url: /writing
+  - text: Editing
+    url: /editing
+  - text: Speaking
+    url: /speaking
 
 # Required Plugins
 plugins_dir:
