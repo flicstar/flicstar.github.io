@@ -6,13 +6,12 @@ featured_image:
 ---
 
 
-
-  {% for post in site.categories.editing %}
+<ul>
+  {% for post in site.categories.speaking %}
     {% if post.url %}
-        <li><a href="{{ post.url }}">{{ post.title }}</a></li>
-  {% include postbox.html %}
-  {% endif %}
+        <li><a href="{{ post.url }}">{{ post.title }}</a>
+         {{ post.excerpt }}
+        </li>
+    {% endif %}
   {% endfor %}
-
-
-
+</ul>
