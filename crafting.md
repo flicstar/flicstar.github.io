@@ -1,6 +1,6 @@
 ---
-layout: page
-title: Crafting
+layout: default
+title: Crafting 🧶
 featured_image: 
 
 ---
