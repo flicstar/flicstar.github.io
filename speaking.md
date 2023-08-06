@@ -5,12 +5,13 @@ featured_image:
 
 ---
 
-<ul>
-  {% for post in site.categories.speaking %}
-    {% if post.url %}
-        <li><a href="{{ post.url }}">{{ post.title }}</a> {{ post.date | date: '%Y-%m-%d' }}
-         {{ post.excerpt }}
-        </li>
-    {% endif %}
-  {% endfor %}
-</ul>
+<div class="featured-posts outer">
+<div class="outer">
+  <div class="post-feed-title inner"></div>
+       <div class="post-feed inner-wide">
+       {% for post in site.categories.speaking %}
+         {% include postbox.html %}
+  {% endfor %}         
+    </div>   
+</div>
+</div>
