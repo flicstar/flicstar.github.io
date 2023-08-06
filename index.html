@@ -3,17 +3,7 @@ layout: default
 title: flicstar
 ---
 
-{% if page.url == "/" %}
-<!-- Featured-->
-<div class="featured-posts outer">
-    {% for post in site.posts %}
-        {% if post.featured == true %}
-            {% include featuredbox.html %}
-        {% endif %}
-    {% endfor %}
-</div>
-{% endif %}
-<!-- Posts Index -->
+
  <p>&nbsp;</p>
     <h5 align="center"> I write about technical editing over on my Hashnode blog, <a href="https://flicstar.hashnode.dev/">flicstar edits</a></h5> 
     <p>&nbsp;</p>
@@ -46,6 +36,3 @@ I am involved with [The Good Docs Project](https://thegooddocsproject.dev/){:tar
 
 * [Australian Society for Technical Communication](https://www.astc.org.au/){:target="_blank"}
 * [Institute of Professional Editors (IPEd)](https://www.iped-editors.org/){:target="_blank"}
-<!-- Pagination-->
-
-{% endif %}
