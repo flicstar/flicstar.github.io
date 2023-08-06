@@ -19,11 +19,11 @@ I work as a technical editor and writer at [Open Strategy Partners](https://open
 
 <img src="/assets/images/pages/typo3logo.png" alt="TYPO3 logo" align="right"/>
 
-I am a member of the [TYPO3 Association](https://typo3.org/){:target="_blank"}, an open source CMS. I contribute to that project in the [Documentation Team](https://typo3.org/community/teams/documentation){:target="_blank"} and [Content Team](https://typo3.org/community/teams/content){:target="_blank"}. This is a great community. If you're looking for a CMS I can highly recommend it! I co-authored [The TYPO3 Guidebook](https://www.apress.com/gp/book/9781484265246){:target="_blank"}, published January 2021.
+I am a member of the [TYPO3 Association](https://typo3.org/){:target="_blank"}, an open source CMS. I contribute to that project in the [Content Team](https://typo3.org/community/teams/content){:target="_blank"}. This is a great community. If you're looking for a CMS I can highly recommend it! I co-authored [The TYPO3 Guidebook](https://www.apress.com/gp/book/9781484265246){:target="_blank"}, published January 2021.
 
 <img src="/assets/images/pages/doctopus.png" alt="The Good Docs Doctopus" align="right"/>
 
-I am involved with [The Good Docs Project](https://thegooddocsproject.dev/){:target="_blank"}, creating best practice templates and writing instructions for documenting open source software. I review templates and write for the [blog](https://thegooddocsproject.dev/blog/). It's heaps cool over there - you should totally come and join us.
+I am involved with [The Good Docs Project](https://thegooddocsproject.dev/){:target="_blank"}, creating best practice templates and writing instructions for documenting open source software. It's heaps cool over there - you should totally come and join us.
 
 ### Get in touch
 
