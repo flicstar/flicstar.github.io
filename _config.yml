@@ -50,8 +50,6 @@ navigation:
     url: /editing
   - text: Speaking
     url: /speaking
-  - text: Crafting 🧶
-    url: /crafting
 
 # Required Plugins
 plugins_dir:
