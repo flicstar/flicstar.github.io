@@ -7,8 +7,9 @@ date: "2022-06-29"
 datePublished: Wed Jun 29 2022 04:04:56 GMT+0000 (Coordinated Universal Time)
 cuid: cl4z2qp0q038lgjnv1q0ne0xd
 slug: types-of-tech-editing
-cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1655612273880/jh4NaPiwK.jpg
+featured_image_thumbnail:  https://cdn.hashnode.com/res/hashnode/image/upload/v1655612273880/jh4NaPiwK.jpg
 tags: [ writing, editing ]
+
 ---
 
 There are many different names used to describe the different types of editing. The waters are murky—and the hosts of The Editing Podcast agree. In [The different levels of editing](https://theeditingpodcast.captivate.fm/episode/levels-of-editing) episode, Louise exclaims, "The language of editing is so tangled!". And Denise adds, "Many of my clients aren't aware of these definitions - they just want "*editing*."
