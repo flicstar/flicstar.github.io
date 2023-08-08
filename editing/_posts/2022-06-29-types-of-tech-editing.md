@@ -1,8 +1,7 @@
 ---
 layout: post 
 title: "The 3, no, 4! (or is it 5?) Types of Tech Editing"
-seoTitle: "Types of Technical Editing"
-seoDescription: "The language of editing is tangled. We can't agree and it doesn't matter. Most folks just want "editing"."
+summary: The language of editing is tangled. We can't agree and it doesn't matter. Most folks just want "editing".
 date: "2022-06-29"
 datePublished: Wed Jun 29 2022 04:04:56 GMT+0000 (Coordinated Universal Time)
 cuid: cl4z2qp0q038lgjnv1q0ne0xd
