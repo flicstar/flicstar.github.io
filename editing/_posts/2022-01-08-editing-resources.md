@@ -2,7 +2,7 @@
 layout: post
 title: "Editing resources"
 summary: A list of useful resources for tech editing.
-date: "2022-01-15"
+date: "2022-01-08"
 tags: [ editing, tools ]
 image: 
 featured_image_thumbnail: 
