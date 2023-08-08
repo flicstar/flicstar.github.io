@@ -1,4 +1,5 @@
 ---
+layout: post
 title: "What is technical editing?"
 summary: "I write about technical editing. Here’s what I mean when I use the term "technical editing"."
 date: "2022-01-14"
