@@ -1,10 +1,9 @@
 ---
 layout: post
-title: "What is technical editing?"
-summary: "I write about technical editing. Here’s what I mean when I use the term "technical editing"."
+title: "What is technical editing"
+summary: I write about technical editing. Here’s what I mean when I use the term "technical editing".
 date: "2022-01-14"
 datePublished: Fri Jan 14 2022 23:57:58 GMT+0000 (Coordinated Universal Time)
-cuid: cl4ngfrdm02amwfnvdhg57bzj
 slug: what-is-technical-editing
 featured_image_thumbnail: https://images.unsplash.com/photo-1547057740-4b18aac8eed2?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=387&q=80
 tags: [ technology, editing ]
