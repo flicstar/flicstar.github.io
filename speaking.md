@@ -4,8 +4,9 @@ title: Speaking Posts
 featured_image: 
 
 ---
-  <img src="/assets/images/pages/typo3logo.png" alt="TYPO3 logo" align="right"/>
+  
 <div class="featured-posts outer">
+  <img src="https://typo3.org/fileadmin/t3o_common_storage/news/2020/05/Possible_Profile_Pic3.jpg" align="right"/>
 <div class="outer">  
   <div class="post-feed-title inner"></div>
        <div class="post-feed inner-wide">
