@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: page
 title: "Blogstars"
 summary: I review articles written by tech bloggers and call out things they've done well.
 tags: [ editing, tech-writing ]
@@ -19,8 +19,6 @@ I like making writers feel good 🤗 In this series, I do a [Positivity Pass](ht
 
 <div class="featured-posts outer">
 <div class="outer">
-</div>
-
   <div class="post-feed-title inner"></div>
        <div class="post-feed inner-wide">
        {% for post in site.categories.blogstars %}
