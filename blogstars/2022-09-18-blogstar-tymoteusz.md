@@ -1,9 +1,13 @@
 ---
+layout: post
 title: "Blogstar: Tymoteusz"
+summary: This blogstar uses techniques to make their article scannable and consumable.
+date: "2022-09-18"
 datePublished: Fri Dec 31 2021 13:00:00 GMT+0000 (Coordinated Universal Time)
 cuid: cl91w5ztk000209k269aoecfo
 slug: blogstar-tymoteusz
-tags: writing, programming-blogs, editing, technical-writing-1
+featured_image_thumbnail: 
+tags: [ writing, editing, blogging ]
 
 ---
 
@@ -20,7 +24,11 @@ Today I looked at some writing by [Tymoteusz Motylewski](https://typeshare.co/tm
 
 📝 [Use Open-Source To Fast-Track Your Programming Career, And Skip Being Junior](https://typeshare.co/tmotyl/posts/day-9-1-tip-i-would-give-someone-who-wanted-to-get-started-working-in-industry-rstg)
 
-
+<!-- blank line -->
+<figure class="video_container">
+  <iframe src="https://www.youtube.com/embed/xzJU_VC0mik" frameborder="0" allowfullscreen="true"> </iframe>
+</figure>
+<!-- blank line -->
 
 %[https://youtu.be/xzJU_VC0mik]
 
@@ -36,4 +44,4 @@ In my [positivity pass](https://openstrategypartners.com/blog/the-positivity-pas
 
 ---
 
-You can find the editing codes on the [Open Strategy Partners website](https://openstrategypartners.com/resources/the-osp-editing-codes/) and on [GitHub](https://github.com/open-strategy-partners/editing-codes).
+You can find the editing codes on the [Open Strategy Partners website](https://openstrategypartners.com/resources/the-osp-editing-codes/).
