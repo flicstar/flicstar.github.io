@@ -26,7 +26,11 @@ Today I looked at some writing by [Yuri Lee](https://yurilee.hashnode.dev/), who
 📝 [How to contribute to Open Source as a beginner](https://yurilee.hashnode.dev/how-to-contribute-to-open-source-as-a-beginner)
 
 
-%[https://youtu.be/BqZQqvmEGu4]
+<!-- blank line -->
+<figure class="video_container">
+  <iframe src="https://www.youtube.com/embed/BqZQqvmEGu4" frameborder="0" allowfullscreen="true"> </iframe>
+</figure>
+<!-- blank line -->
 
 
 In my [positivity pass](https://openstrategypartners.com/blog/the-positivity-pass-and-why-we-do-it/) on this article, I highlight a couple of principles that show why profanity can sometimes work. 
@@ -40,5 +44,4 @@ The swears in Yuri’s writing tap into the struggle of learning something new -
 
 ---
 
-You can find the editing codes on the [Open Strategy Partners website](https://openstrategypartners.com/resources/the-osp-editing-codes/) and on [GitHub](https://github.com/open-strategy-partners/editing-codes).
-
+Check out the other **[blogstars](https://flicstar.com/blogstars)**.

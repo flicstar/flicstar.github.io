@@ -30,13 +30,10 @@ Today I looked at some writing by [Tymoteusz Motylewski](https://typeshare.co/tm
 </figure>
 <!-- blank line -->
 
-%[https://youtu.be/xzJU_VC0mik]
-
-
 
 In my [positivity pass](https://openstrategypartners.com/blog/the-positivity-pass-and-why-we-do-it/) on this article, I highlight a couple of principles that make it work:
 
-- **WIIFM **- The title clearly identifies why the reader should keep reading.
+- **WIIFM** - The title clearly identifies why the reader should keep reading.
 - **FLOW** - The text is nicely structured to keep the eye moving down the page.
 - **LIST** - The text is organized with ordered and unordered lists to avoid a **WALL** of text.
 
@@ -44,4 +41,4 @@ In my [positivity pass](https://openstrategypartners.com/blog/the-positivity-pas
 
 ---
 
-You can find the editing codes on the [Open Strategy Partners website](https://openstrategypartners.com/resources/the-osp-editing-codes/).
+Check out the other **[blogstars](https://flicstar.com/blogstars)**.

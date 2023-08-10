@@ -22,13 +22,16 @@ Today I looked at some writing by [Ronald Blüthl](https://hashnode.com/@rblueth
 
 📝 [How to write better code](https://r.bluethl.net/how-to-write-better-code)
 
-
-%[https://youtu.be/qYTgTMY5K30]
+<!-- blank line -->
+<figure class="video_container">
+  <iframe src="https://www.youtube.com/embed/qYTgTMY5K30" frameborder="0" allowfullscreen="true"> </iframe>
+</figure>
+<!-- blank line -->
 
 
 In my [positivity pass](https://openstrategypartners.com/blog/the-positivity-pass-and-why-we-do-it/) on this article, I highlight a couple of principles that make it work:
 
-- **SBHEAD **- Use headings as a structural aid to chunk your content.
+- **SBHEAD** - Use headings as a structural aid to chunk your content.
 - **HEAD**- Choose words that define the purpose of each text block. Try to use consistent construction.
 - **ACTIV, LEAD** - Lead with actions and use the active voice to make your content engaging.
 
@@ -37,5 +40,5 @@ In my [positivity pass](https://openstrategypartners.com/blog/the-positivity-pas
 
 ---
 
-You can find the editing codes on the [Open Strategy Partners website](https://openstrategypartners.com/resources/the-osp-editing-codes/) and on [GitHub](https://github.com/open-strategy-partners/editing-codes).
+Check out the other **[blogstars](https://flicstar.com/blogstars)**.
 

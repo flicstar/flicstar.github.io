@@ -22,9 +22,11 @@ Today I looked at some writing by [Justin](https://technically.dev/justin) of [T
 
 📝 [APIs for the rest of us](https://technically.dev/posts/apis-for-the-rest-of-us/)
 
-
-%[https://youtu.be/vBqkalDGNkE]
-
+<!-- blank line -->
+<figure class="video_container">
+  <iframe src="https://www.youtube.com/embed/vBqkalDGNkE" frameborder="0" allowfullscreen="true"> </iframe>
+</figure>
+<!-- blank line -->
 
 In my [positivity pass](https://openstrategypartners.com/blog/the-positivity-pass-and-why-we-do-it/) on this article, I highlight a couple of principles that make it work really well. 
 
@@ -37,5 +39,5 @@ In my [positivity pass](https://openstrategypartners.com/blog/the-positivity-pas
 
 ---
 
-You can find the editing codes on the [Open Strategy Partners website](https://openstrategypartners.com/resources/the-osp-editing-codes/) and on [GitHub](https://github.com/open-strategy-partners/editing-codes).
+Check out the other **[blogstars](https://flicstar.com/blogstars)**.
 
