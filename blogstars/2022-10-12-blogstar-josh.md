@@ -1,9 +1,13 @@
 ---
+layout: post
 title: "Blogstar: Josh"
+summary: This blogstar uses writing principles to make the reader feel knowledgeable while they are learning. Sneaky!
+date: "2022-10-12"
 datePublished: Fri Dec 31 2021 13:00:00 GMT+0000 (Coordinated Universal Time)
 cuid: cl969ax3b000409jp8wmadovt
 slug: blogstar-josh
-tags: writing, blogging, programming-blogs, editing, technical-writing-1
+featured_image_thumbnail: 
+tags: [ writing, editing, blogging ]
 
 ---
 

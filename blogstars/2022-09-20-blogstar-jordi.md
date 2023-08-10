@@ -1,9 +1,13 @@
 ---
+layout: post
 title: "Blogstar: Jordi"
+summary: This blogstar uses narrative flow to create a compelling article that is a pleasure to read.
+date: "2022-09-20"
 datePublished: Fri Dec 31 2021 13:00:00 GMT+0000 (Coordinated Universal Time)
 cuid: cl91x3vh2000009kz2yvuha6j
 slug: blogstar-jordi
-tags: writing, blogging, programming-blogs, editing, technical-writing-1
+featured_image_thumbnail: 
+tags: [ writing, editing, blogging ]
 
 ---
 

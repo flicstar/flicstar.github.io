@@ -1,9 +1,12 @@
 ---
+layout: post
 title: "Blogstar: Tahi"
+summary: This blogstar shows us how to write authentically.
+date: "2022-11-05"
 datePublished: Fri Dec 31 2021 22:26:48 GMT+0000 (Coordinated Universal Time)
 cuid: cla69gmt1000n08mk10d48toh
 slug: blogstar-tahi
-tags: writing, blogging, programming-blogs, editing, technical-writing-1
+tags: [ writing, editing, blogging ]
 
 ---
 

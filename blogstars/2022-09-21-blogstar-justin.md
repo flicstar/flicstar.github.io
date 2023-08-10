@@ -1,10 +1,13 @@
 ---
+layout: post
 title: "Blogstar: Justin"
+summary: This blogstar overcomes the curse of knowledge and writes simply to create a digestible technical-explainer.
+date: "2022-09-21"
 datePublished: Fri Dec 31 2021 13:00:00 GMT+0000 (Coordinated Universal Time)
 cuid: cl91xk6fi000009mu94ct3njj
 slug: blogstar-justin
-tags: writing, blogging, programming-blogs, editing, technical-writing-1
-
+featured_image_thumbnail: 
+tags: [ writing, editing, blogging ]
 ---
 
 Justin overcomes the curse of knowledge and writes simply to explain well. The writing principles shown here create a digestible technical-explainer.

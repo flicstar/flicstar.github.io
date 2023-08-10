@@ -1,9 +1,12 @@
 ---
+layout: post
 title: "Blogstar: Ronald"
+summary: This blogstar shows us how to write effective headings.
+date: "2022-10-14"
 datePublished: Fri Dec 31 2021 13:00:00 GMT+0000 (Coordinated Universal Time)
 cuid: cl97yyz9r000809mlhy1lehig
 slug: blogstar-ronald
-tags: writing, blogging, programming-blogs, editing, technical-writing-1
+tags: [ writing, editing, blogging ]
 
 ---
 

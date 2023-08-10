@@ -1,9 +1,13 @@
 ---
+layout: post
 title: "Blogstar: Yuri"
+summary: This blogstar swears - and that's okay.
+date: "2022-09-23"
 datePublished: Fri Dec 31 2021 13:00:00 GMT+0000 (Coordinated Universal Time)
 cuid: cl91xf5og000209kzf2eh3810
 slug: blogstar-yuri
-tags: writing, blogging, programming-blogs, editing, technical-writing-1
+featured_image_thumbnail: 
+tags: [ writing, editing, blogging ]
 
 ---
 

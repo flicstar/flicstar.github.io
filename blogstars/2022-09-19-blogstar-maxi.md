@@ -1,9 +1,13 @@
 ---
+layout: post
 title: "Blogstar: Maxi"
+summary: This blogstar establishes context to orient the reader and manage their expectations.
+date: "2022-09-19"
 datePublished: Fri Dec 31 2021 13:00:00 GMT+0000 (Coordinated Universal Time)
 cuid: cl91wvkig000509k2abit52q8
 slug: blogstar-maxi
-tags: writing, programming-blogs, editing, technical-writing-1
+featured_image_thumbnail: 
+tags: [ writing, editing, blogging ]
 
 ---
 
