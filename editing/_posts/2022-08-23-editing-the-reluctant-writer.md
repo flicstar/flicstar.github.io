@@ -15,13 +15,13 @@ tags: [ opensource, styleguide, writing, feedback, editing ]
 > Check out my other responses:
 > - [Editing the impatient writer](https://flicstar.com/editing-the-impatient-writer)
 > - [Editing the nervous writer](https://flicstar.com/editing-the-nervous-writer)
-> - [Editing the confident writer](https://flicstar.hashnode.dev/editing-the-confident-writer)
+> - [Editing the confident writer](https://flicstar.com/editing-the-confident-writer)
 
 The **reluctant writer**: “*Writing is not your thing. You wrestle words onto the page and everything looks and feels wrong*.”
 
 I edit a lot of different kinds of writers. Some who are writers-first, others who wouldn’t call themselves writers: UX designers, software developers, product managers. These are my reluctant writers.
  
-When editing non-writers, [tread gently](https://flicstar.hashnode.dev/editing-in-open-source) - especially in open source where contributions are voluntary. The last thing you want to do is discourage a reluctant writer with pedantry and a mass of corrections.
+When editing non-writers, [tread gently](https://flicstar.com/editing-in-open-source) - especially in open source where contributions are voluntary. The last thing you want to do is discourage a reluctant writer with pedantry and a mass of corrections.
  
 * An editor can help a reluctant writer by ensuring the writing is **fit for purpose**.    
 🤓 Look at the bigger picture and understand the context.
