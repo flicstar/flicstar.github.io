@@ -5,6 +5,7 @@ date: "2022-08-23"
 datePublished: Tue Aug 23 2022 05:35:13 GMT+0000 (Coordinated Universal Time)
 cuid: cl75r6nti047essnv1nzj8nk6
 slug: editing-the-reluctant-writer
+image: /assets/images/eggs.png
 featured_image_thumbnail:  /assets/images/eggs.png
 tags: [ opensource, styleguide, writing, feedback, editing ]
 
