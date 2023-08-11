@@ -5,7 +5,7 @@ date: "2022-08-23"
 datePublished: Tue Aug 23 2022 05:35:13 GMT+0000 (Coordinated Universal Time)
 cuid: cl75r6nti047essnv1nzj8nk6
 slug: editing-the-reluctant-writer
-image: /assets/images/eggs.png
+featured_image: /assets/images/eggs.png
 featured_image_thumbnail:  /assets/images/eggs.png
 tags: [ opensource, styleguide, writing, feedback, editing ]
 
@@ -21,7 +21,7 @@ The **reluctant writer**: “*Writing is not your thing. You wrestle words onto 
 
 I edit a lot of different kinds of writers. Some who are writers-first, others who wouldn’t call themselves writers: UX designers, software developers, product managers. These are my reluctant writers.
  
-When editing non-writers, [tread gently](https://flicstar.com/editing-in-open-source) - especially in open source where contributions are voluntary. The last thing you want to do is discourage a reluctant writer with pedantry and a mass of corrections.
+When editing non-writers, [tread gently](https://flicstar.com/editing-open-source) - especially in open source where contributions are voluntary. The last thing you want to do is discourage a reluctant writer with pedantry and a mass of corrections.
  
 * An editor can help a reluctant writer by ensuring the writing is **fit for purpose**.    
 🤓 Look at the bigger picture and understand the context.
