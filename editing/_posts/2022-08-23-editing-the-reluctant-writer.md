@@ -5,15 +5,15 @@ date: "2022-08-23"
 datePublished: Tue Aug 23 2022 05:35:13 GMT+0000 (Coordinated Universal Time)
 cuid: cl75r6nti047essnv1nzj8nk6
 slug: editing-the-reluctant-writer
-featured_image_thumbnail:  https://cdn.hashnode.com/res/hashnode/image/upload/v1661232233003/Ra5ieklOL.jpg
+featured_image_thumbnail:  /assets/images/eggs.png
 tags: [ opensource, styleguide, writing, feedback, editing ]
 
 ---
 
 > This is in response to The Editing podcast episode: [4 types of editing for 4 kinds of  writer](https://theeditingpodcast.captivate.fm/episode/kinds-of-writer). I highly recommend listening to this podcast!   
 > Check out my other responses:
-> - [Editing the impatient writer](https://flicstar.hashnode.dev/editing-the-impatient-writer)
-> - [Editing the nervous writer](https://flicstar.hashnode.dev/editing-the-nervous-writer)
+> - [Editing the impatient writer](https://flicstar.com/editing-the-impatient-writer)
+> - [Editing the nervous writer](https://flicstar.com/editing-the-nervous-writer)
 > - [Editing the confident writer](https://flicstar.hashnode.dev/editing-the-confident-writer)
 
 The **reluctant writer**: “*Writing is not your thing. You wrestle words onto the page and everything looks and feels wrong*.”
