@@ -35,16 +35,3 @@ ____
     Maxi shows us how to establish context. The principles used here quickly identify the article as part of a series - helping orient the reader and manage their expectations.
 - **[Blogstar: Tymoteusz](https://flicstar.com/blogstar-tymoteusz)**
    Tymoteusz shows us how to keep things digestible. The writing principles used here work together to make the article really consumable and scannable.
-
-----
-
-<div class="featured-posts outer">
-<div class="outer">
-  <div class="post-feed-title inner"></div>
-       <div class="post-feed inner-wide">
-       {% for post in site.categories.blogstars %}
-         {% include postbox.html %}
-  {% endfor %}         
-    </div>   
-</div>
-</div>
