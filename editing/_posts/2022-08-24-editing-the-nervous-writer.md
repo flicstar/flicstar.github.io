@@ -19,7 +19,7 @@ tags: [ writing, feedback, editing ]
 
 *The **nervous writer** can write well but they’re worried about making mistakes. They second-guess themselves and agonize over the publish button.*
 
-[I work in open source](https://flicstar.com/editing-in-open-source). Most open source projects are global. That means I work with people who are writing in their second or third (or even fourth!) language. These are my nervous writers. They are confident in their subject matter, but self-conscious about grammar.
+[I work in open source](https://flicstar.com/editing-open-source). Most open source projects are global. That means I work with people who are writing in their second or third (or even fourth!) language. These are my nervous writers. They are confident in their subject matter, but self-conscious about grammar.
  
 I want these writers to focus on getting their message down on paper. I make it clear that I will polish their writing before publishing. 
 
