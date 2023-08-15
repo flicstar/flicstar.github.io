@@ -1,10 +1,12 @@
 ---
 layout: post
 title: "Editing codes - the newest tool in your editing toolbox"
+summary: You need to pack a lot of punch into your editing comments. They need to explain the what, why and what-next all at once. 
 date: "2022-08-14"
 datePublished: Sun Aug 14 2022 03:42:21 GMT+0000 (Coordinated Universal Time)
 cuid: cl6ss6u9f0cmjfdnvf67q84e6
 slug: editing-codes
+image: assets/images/gears.png
 featured_image_thumbnail: assets/images/gears.png
 tags: [ writing, feedback, editing, editing-codes ]
 ---
