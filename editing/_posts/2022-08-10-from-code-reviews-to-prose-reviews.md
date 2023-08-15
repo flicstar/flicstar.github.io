@@ -28,9 +28,7 @@ This bit can be hard. You may have developed an eye twitch from step 1 but rise 
 This '[positivity pass](https://openstrategypartners.com/blog/the-positivity-pass-and-why-we-do-it/)' packs a powerful punch. Amongst other things, it will:
 
 * Put you, as the reviewer, in a compassionate headspace.
-    
-* Establish rapport between you and the writer.
-    
+* Establish rapport between you and the writer. 
 * Reinforce good habits for the writer.
     
 
@@ -54,7 +52,7 @@ Your writer probably doesn't need you to pick up grammar errors - leave that to 
 
 In your role as reviewer, you advocate for the reader, so question anything that doesn't make sense to you. When asking a question, think about whether you actually want an answer from the writer or whether you just want to create a thought-provoking prompt.
 
-![commentsquestions](/assets/images/commentsquestions.png align="center")
+![commentsquestions](/assets/images/commentsquestions.png)
 
 
 ### Suggestions
@@ -85,11 +83,8 @@ The ability to peer review someone else's writing is a great skill to develop. E
 # Further reading
 
 * [How to create an effective content review process](https://gathercontent.com/blog/how-to-provide-feedback-on-content)
-    
 * [The Art of the Review](https://www.knowledgeowl.com/blog/posts/art-of-review/)
-    
 * [Anatomy of an editing comment](https://flicstar.com/anatomy-of-an-editing-comment)
-    
 * [Avoid writer's block when you're editing content](https://flicstar.com/editor-writers-block)
     
 
