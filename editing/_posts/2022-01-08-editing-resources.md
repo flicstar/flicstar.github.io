@@ -23,6 +23,7 @@ Each of these sites has a collection of resources covering style guides, books, 
 * [Right Touch Editing](https://www.righttouchediting.com/copyediting/) has some wonderful checklists and cheat sheets. 
 * [Rabbit with a red pen](https://www.rabbitwitharedpen.com/resources) has writing, editing, and conscious language resources.
 * [That White Paper Guy](https://thatwhitepaperguy.com/recommended-books-on-white-papers-and-everything-else/) has a great book list and links to other resources.
+* [Readbility Guidelines](https://readabilityguidelines.co.uk/) from Content Design London.
 
 ## Listen
 * OSP Podcast [Communicate, Connect, Grow](https://www.youtube.com/channel/UCK1FgQnuVwknf_CWenjZSMw)
