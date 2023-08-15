@@ -12,9 +12,9 @@ tags: [ writing, feedback, editing ]
 
 > This is in response to The Editing podcast episode: [4 types of editing for 4 kinds of  writer](https://theeditingpodcast.captivate.fm/episode/kinds-of-writer). I highly recommend listening to this podcast!   
 > Check out my other responses:
-> - [Editing the impatient writer](https://flicstar.hashnode.dev/editing-the-impatient-writer)
-> - [Editing the nervous writer](https://flicstar.hashnode.dev/editing-the-nervous-writer)
-> - [Editing the reluctant writer](https://flicstar.hashnode.dev/editing-the-reluctant-writer)
+> - [Editing the impatient writer](https://flicstar.com/editing-the-impatient-writer)
+> - [Editing the nervous writer](https://flicstar.com/editing-the-nervous-writer)
+> - [Editing the reluctant writer](https://flicstar.com/editing-the-reluctant-writer)
 
 I edit a lot of different kinds of writers.  I’m not a one-size-fits-all editor (and really, is anyone? 🤔)
  
