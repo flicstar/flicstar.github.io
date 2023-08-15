@@ -46,7 +46,7 @@ Isn’t everything a suggestion?🤷‍♀️ I think there is room for nuance h
 
    Of course, the writer can still opt to reject your strong suggestions. Rejection hurts, and it’s up to you to continue a back-and-forth convo if you feel it's warranted. Sometimes you have to let it go.
 
-- **Possibilities **- Optional but recommended suggestions. If these changes aren’t made, it’s not the end of the world. The writing still works - it just might not hit all the notes.
+- **Possibilities** - Optional but recommended suggestions. If these changes aren’t made, it’s not the end of the world. The writing still works - it just might not hit all the notes.
 
    Unlike recommendations, these types of suggestions tend more toward subjectivity. Your personal experience with inclusive language, localization, phrasing, and presentation choices is authentic and valuable to the writer.
 

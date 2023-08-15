@@ -25,10 +25,8 @@ Not only can the same type of editing be referred to by different names, but the
 [IPEd](https://www.iped-editors.org/about-editing/types-of-editing/), [The Writing Cooperative](https://writingcooperative.com/3-types-of-editing-and-the-differences-between-them-d6de60bcb66f), and [CIEP](https://www.ciep.uk/about/faqs/about-proofreading-and-editing) all present three types of editing - but not the same three:
 
 - Substantive, Copy editing, Proofreading <sub><sup>The Institute of Professional Editors (IPEd)</sup></sub>
-
 - Developmental, Line editing, Copy editing <sub><sup>The Writing Cooperative
 </sup></sub>
-
 - Structural, Copy editing, Proofreading <sub><sup>The Chartered Institute of Editing and Proofreading UK (CIEP)</sup></sub>
 
 ### Four types of editing
@@ -36,15 +34,12 @@ Not only can the same type of editing be referred to by different names, but the
 [The Editing Podcast](https://theeditingpodcast.captivate.fm/episode/levels-of-editing), [The Grammar Factory](https://grammarfactory.com/editing/types-of-editing/), and [Editors Canada](https://www.editors.ca/hire/what-can-professional-editor-do-you) present four types of editing, and here we see some muddying of the waters with synonyms.
 
 - Developmental, Line editing, Copy editing, Proofreading <sub><sup>The Editing Podcast</sup></sub>
-
 - Developmental, Structural, Copy editing, Proofreading <sub><sup>The Grammar Factory</sup></sub>
-
 - Structural, Stylistic, Copy editing, Proofreading <sub><sup>Editors Canada</sup></sub>
 
 The [Editing Mastery](https://www.udemy.com/course/editing-mastery/) course by Shani Raja and the [Editing Essentials](https://comtech-serv.com/training/editing/) course by ComTech both teach four types of editing - these seem closer in terminology: 
 
 - Content, Structure, Style, Presentation <sub><sup>Editing Mastery course by Shani Raja</sup></sub>
-
 - Context, Structural, Stylistic, Copy <sub><sup>Editing Essentials course by ComTech</sup></sub>
 
 ### Five types of editing
@@ -52,9 +47,7 @@ The [Editing Mastery](https://www.udemy.com/course/editing-mastery/) course by S
 [Archway Publishing](https://www.archwaypublishing.com/en/resources/the-different-types-of-editing), [Right Touch Editing](https://www.righttouchediting.com/copyediting/), and the [Reedsy Blog](https://blog.reedsy.com/guide/editing/ ) go one better, listing five types of editing:
 
 - Developmental, Substantive, Mechanical, Line editing, Copy editing <sub><sup>Archway Publishing</sup></sub>
-
 - Developmental, Stylistic, Copy editing, Fact-checking, Proofreading <sub><sup>Right Touch Editing</sup></sub>
-
 - Editorial assessment, Developmental, Copy editing, Fact-checking, Proofreading <sub><sup>The Reedsy Blog</sup></sub>
 
 
@@ -93,14 +86,14 @@ Developmental editing is like laying the foundations and building the structure.
 
 [The Grammar Factory](https://grammarfactory.com/editing/types-of-editing/) uses an inverted pyramid to illustrate the process—starting with the broader structural and developmental edits then moving down to the micro-level of detail.
 
-![Types-of-Editing.png](assets/images/Types-of-Editing.png align="center") 
+![Types-of-Editing.png](assets/images/Types-of-Editing.png) 
 
 
 ### **The nesting dolls**
 
 [Open Strategy Partners](https://openstrategypartners.com/blog/osp-editing-codes-quick-start-guide/) uses the idea of nesting dolls to show that you can't start looking at word choice before you've looked at structure and flow. They also do a separate [Positivity Pass](https://openstrategypartners.com/blog/the-positivity-pass-and-why-we-do-it/) as part of their process.
 
-![OSP_Editing_Stages](assets/images/OSP_Editing_Stage.png align="center")
+![OSP_Editing_Stages](assets/images/OSP_Editing_Stage.png)
 
 
 
