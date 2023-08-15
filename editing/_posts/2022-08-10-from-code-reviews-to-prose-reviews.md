@@ -54,7 +54,8 @@ Your writer probably doesn't need you to pick up grammar errors - leave that to 
 
 In your role as reviewer, you advocate for the reader, so question anything that doesn't make sense to you. When asking a question, think about whether you actually want an answer from the writer or whether you just want to create a thought-provoking prompt.
 
-![commentsquestions.png](/assets/images/commentsquestions.png align="center")
+![commentsquestions](/assets/images/commentsquestions.png align="center")
+
 
 ### Suggestions
 
@@ -62,9 +63,9 @@ Suggestions make up the majority of editing feedback, so here is where you'll sp
 
 There are two types of suggestions, depending on how necessary the change is.
 
-* \*\*Recommendations \*\*- If these changes aren't made, the writing is not fit for purpose. Your suggestions will probably be about structure and narrative flow: like re-ordering chunks of text, adding context or reducing word count.
+- **Recommendations** - If these changes aren't made, the writing is not fit for purpose. Your suggestions will probably be about structure and narrative flow: like re-ordering chunks of text, adding context or reducing word count.   
     
-* \*\*Possibilities \*\*- If these changes aren't made, it's not the end of the world. Your suggestions here are likely to be about word choice, phrasing, and style decisions.
+- **Possibilities** - If these changes aren't made, it's not the end of the world. Your suggestions here are likely to be about word choice, phrasing, and style decisions.
     
 
 ## Step 4: Feedback summary
@@ -73,7 +74,7 @@ Finally, write a feedback summary. This is a brief statement you include when yo
 
 Summarize your feelings about the written piece, and touch on the type of feedback you've given. This is the first thing your writer is going to read from you. Make it kind and use it to manage their expectations.
 
-![feedbacksummary.png](/assets/images/feedbacksummary.png align="center")
+![feedbacksummary.png](/assets/images/feedbacksummary.png)
 
 ## Another string to your bow
 
