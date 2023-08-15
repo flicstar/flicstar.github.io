@@ -6,7 +6,7 @@ date: "2022-06-29"
 datePublished: Wed Jun 29 2022 04:04:56 GMT+0000 (Coordinated Universal Time)
 cuid: cl4z2qp0q038lgjnv1q0ne0xd
 slug: types-of-tech-editing
-featured_image_thumbnail:  https://cdn.hashnode.com/res/hashnode/image/upload/v1655612273880/jh4NaPiwK.jpg
+featured_image_thumbnail:  assets/images/chisels.png
 tags: [ writing, editing ]
 
 ---
@@ -93,14 +93,14 @@ Developmental editing is like laying the foundations and building the structure.
 
 [The Grammar Factory](https://grammarfactory.com/editing/types-of-editing/) uses an inverted pyramid to illustrate the process—starting with the broader structural and developmental edits then moving down to the micro-level of detail.
 
-![Types-of-Editing.png](https://cdn.hashnode.com/res/hashnode/image/upload/v1656468035069/9xdVNeenf.png align="center") 
+![Types-of-Editing.png](assets/images/Types-of-Editing.png align="center") 
 
 
 ### **The nesting dolls**
 
 [Open Strategy Partners](https://openstrategypartners.com/blog/osp-editing-codes-quick-start-guide/) uses the idea of nesting dolls to show that you can't start looking at word choice before you've looked at structure and flow. They also do a separate [Positivity Pass](https://openstrategypartners.com/blog/the-positivity-pass-and-why-we-do-it/) as part of their process.
 
-![OSP_Editing_Stages_2k_6efd090089.png](https://cdn.hashnode.com/res/hashnode/image/upload/v1656468200288/iJ4S-AaRi.png align="center")
+![OSP_Editing_Stages](assets/images/OSP_Editing_Stage.png align="center")
 
 
 

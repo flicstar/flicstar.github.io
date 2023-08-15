@@ -4,7 +4,7 @@ title: "Blogstars"
 summary: I review articles written by tech bloggers and call out things they've done well.
 tags: [ editing, tech-writing ]
 image: 
-featured_image_thumbnail: https://cdn.hashnode.com/res/hashnode/image/upload/v1663657105269/hijIuBomg.png
+featured_image_thumbnail: /assets/images/kudosthumbnail.png
 featured_image: 
 ---
 

@@ -5,7 +5,7 @@ date: "2022-08-10"
 datePublished: Wed Aug 10 2022 01:25:20 GMT+0000 (Coordinated Universal Time)
 cuid: cl6mxj8sr048fk4nv056aglrh
 slug: from-code-reviews-to-prose-reviews
-featured_image_thumbnail: https://cdn.hashnode.com/res/hashnode/image/upload/v1660094974526/VYld9rRbI.jpg
+featured_image_thumbnail: /assets/images/bucketspens.png
 tags: [ devrel, review, editing ]
 
 
@@ -54,7 +54,7 @@ Your writer probably doesn't need you to pick up grammar errors - leave that to 
 
 In your role as reviewer, you advocate for the reader, so question anything that doesn't make sense to you. When asking a question, think about whether you actually want an answer from the writer or whether you just want to create a thought-provoking prompt.
 
-![commentsquestions.png](https://cdn.hashnode.com/res/hashnode/image/upload/v1660093820073/EasMBDEgK.png align="center")
+![commentsquestions.png](/assets/images/commentsquestions.png align="center")
 
 ### Suggestions
 
@@ -73,7 +73,7 @@ Finally, write a feedback summary. This is a brief statement you include when yo
 
 Summarize your feelings about the written piece, and touch on the type of feedback you've given. This is the first thing your writer is going to read from you. Make it kind and use it to manage their expectations.
 
-![feedbacksummary.png](https://cdn.hashnode.com/res/hashnode/image/upload/v1660093837077/BmUVnbrD0.png align="center")
+![feedbacksummary.png](/assets/images/feedbacksummary.png align="center")
 
 ## Another string to your bow
 
@@ -87,9 +87,9 @@ The ability to peer review someone else's writing is a great skill to develop. E
     
 * [The Art of the Review](https://www.knowledgeowl.com/blog/posts/art-of-review/)
     
-* [Anatomy of an editing comment](https://flicstar.hashnode.dev/anatomy-of-an-editing-comment)
+* [Anatomy of an editing comment](https://flicstar.com/anatomy-of-an-editing-comment)
     
-* [Avoid writer's block when you're editing content](https://flicstar.hashnode.dev/editor-writers-block)
+* [Avoid writer's block when you're editing content](https://flicstar.com/editor-writers-block)
     
 
 ---

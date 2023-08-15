@@ -6,7 +6,7 @@ summary: "You’re a tech writer? Congratulations, you’re well-suited to tech 
 datePublished: Fri Aug 05 2022 04:00:14 GMT+0000 (Coordinated Universal Time)
 cuid: cl6fxv64u045tx5nv5zxn14jl
 slug: editing-skills-innate-or-learned
-featured_image_thumbnail:  https://cdn.hashnode.com/res/hashnode/image/unsplash/HoTpxMjeMW8/upload/v1659671441976/ivwKomGoW.jpeg
+featured_image_thumbnail:  /assets/images/chrysalis.png
 tags: [ skills, editing, writing ]
 
 ---
@@ -53,7 +53,7 @@ Suffice it to say that your technical and software skills, curiosity, and attent
 
 Having a natural aptitude doesn’t mean you can be complacent. It’s always good to pursue professional development to strengthen your skills and be confident (if only to mitigate imposter syndrome).
 
-Check out my [Resources](https://flicstar.hashnode.dev/resources) page. Consider doing a course or join a professional organization in your area. Hang with us in the `#tech-editor` channel on [Write the Docs Slack](https://www.writethedocs.org/slack/). 
+Check out my [Resources](https://flicstar.com/editing-resources) page. Consider doing a course or join a professional organization in your area. Hang with us in the `#tech-editor` channel on [Write the Docs Slack](https://www.writethedocs.org/slack/). 
 
 —---
 

@@ -5,7 +5,7 @@ date: "2022-10-22"
 datePublished: Mon Oct 10 2022 00:10:37 GMT+0000 (Coordinated Universal Time)
 cuid: cl920q433000409ma05oyhssn
 slug: respectful-review-comments-in-os
-featured_image_thumbnail: https://cdn.hashnode.com/res/hashnode/image/upload/v1665360363169/GSUH0hb74.jpg
+featured_image_thumbnail: assets/images/teddy.png
 tags: [ asynchronous, opensource, symfony, editing ]
 
 ---

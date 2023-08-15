@@ -5,7 +5,7 @@ datePublished: Mon Aug 22 2022 06:30:12 GMT+0000 (Coordinated Universal Time)
 date: "2022-08-22"
 cuid: cl74dpi8j0271odnv1lg7bjis
 slug: editing-the-confident-writer
-featured_image_thumbnail: https://cdn.hashnode.com/res/hashnode/image/upload/v1661148805468/gByQ2zcka.jpg
+featured_image_thumbnail: assets/images.confident.png
 tags: [ writing, feedback, editing ]
 
 ---
@@ -26,7 +26,7 @@ An editor helps the confident writer by bringing a new perspective - being able 
  
 In the podcast, the confident writer is precious about their writing. “*The idea of someone changing a comma makes them shudder*”. These are difficult writers to edit. They never quite make it to 'understanding' on the [feedback staircase](https://align4profit.com/stand-feedback-staircase-2/). I've had my share of editing these kinds of writers  - they push back every change, defending and explaining every choice. These folk aren’t interested in your editing skills. It is a thankless task to review their writing.
 
-![FeedbackStaircase.png](https://cdn.hashnode.com/res/hashnode/image/upload/v1661148755023/T-iLZi_UN.png align="left")
+![FeedbackStaircase.png](assets/images/FeedbackStaircase.png align="left")
  
 Most tech writers embrace the idea of someone reviewing their writing. They see the value of an editor because they themselves have experience **editing others**. And that's what makes them a pleasure to edit. 
 

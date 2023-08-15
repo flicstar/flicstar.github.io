@@ -5,12 +5,12 @@ date: "2022-08-15"
 datePublished: Mon Aug 15 2022 01:43:32 GMT+0000 (Coordinated Universal Time)
 cuid: cl6u3dw050gxcgenvg32f82in
 slug: editor-writers-block
-featured_image_thumbnail: https://cdn.hashnode.com/res/hashnode/image/unsplash/2Zl80uqruUU/upload/v1660527654447/qdyIY5JvH.jpeg
+featured_image_thumbnail: assets/images/chewedpencil.png
 tags: [ blogging, review, editing ]
 
 ---
 
-In [From code reviews to prose reviews](https://flicstar.hashnode.dev/from-code-reviews-to-prose-reviews), I describe a 4-step process for doing a review. Three of those steps involve writing! Here I want to dig deeper into each of those bits of writing:
+In [From code reviews to prose reviews](https://flicstar.com/from-code-reviews-to-prose-reviews), I describe a 4-step process for doing a review. Three of those steps involve writing! Here I want to dig deeper into each of those bits of writing:
 
 - Corrections
 - Suggestions
@@ -78,14 +78,14 @@ Praise as a form of feedback is about helping someone continue to do a good thin
 
 Read more about praise:
 
-- [Step 2: Positive feedback](https://flicstar.hashnode.dev/from-code-reviews-to-prose-reviews#:~:text=Step%202%3A%20Positive%20feedback)
+- [Step 2: Positive feedback](https://flicstar.com/from-code-reviews-to-prose-reviews#:~:text=Step%202%3A%20Positive%20feedback)
 - [The Positivity Pass](https://openstrategypartners.com/blog/the-positivity-pass-and-why-we-do-it/)
 
 #### Signposting praise  💬
 
 How does the writer know it’s praise? 
 - You can preface your feedback with the label `praise` (see [Conventional Comments](https://conventionalcomments.org/)).
-- If you’re using [OSP editing codes](https://flicstar.hashnode.dev/editing-codes), include a few plus signs before the code.
+- If you’re using [OSP editing codes](https://flicstar.com/editing-codes), include a few plus signs before the code.
 
 ## Commentary 📝
 Commentary is a broader kind of feedback in the form of a statement. Think of this as your big picture wrap-up. It doesn’t have to be long - but it can be if you want. 
@@ -106,7 +106,7 @@ Rather than do line-level editing, you might choose to only write a commentary. 
 How does the writer know that this feedback is commentary? It’s at the very top or start of the document, or it’s included when you hand the writing back to the author via email or DM. 
 
 ## Further reading
-- [From code reviews to prose reviews](https://flicstar.hashnode.dev/from-code-reviews-to-prose-reviews)
+- [From code reviews to prose reviews](https://flicstar.com/from-code-reviews-to-prose-reviews)
 - [Strategies for writing comments](https://alg.manifoldapp.org/read/open-technical-communication/section/19abea6b-932a-4efd-a70d-9f1123dd4b08#:~:text=Example%20Style%20Sheet-,Strategies%20for%20Writing%20Comments,-When%20you%20edit) in Chapter 8 of Open Technical Communication
 
 ---

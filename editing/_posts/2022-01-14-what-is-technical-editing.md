@@ -36,7 +36,7 @@ A technical editor will read the content and then might:
 - Ask questions and seek clarification
 - Give praise and celebrate the author
 
-👉 See [Types of Technical Editing](https://flicstar.hashnode.dev/types-of-tech-editing)
+👉 See [Types of Technical Editing](https://flicstar.com/types-of-tech-editing)
 
 ## Types of content
 
@@ -54,7 +54,7 @@ When I use the phrase "online written content", I mean any short-form or long-fo
 
 Working with a variety of content types requires working with a variety of tools.
 
-👉 See [my editing tech stack](https://flicstar.hashnode.dev/tech-stack)
+👉 See [my editing tech stack](https://flicstar.com/tech-stack)
 
 
 ## The know-how
@@ -65,7 +65,7 @@ The word "technical" here refers to having an understanding of technology.
 
 A technical editor has domain knowledge. They understand the concepts and vocabulary of the subject matter, while also having the skills to make those concepts clear and understandable to a non-technical reader. 
 
-👉 See [Putting the "tech" in technical editor](https://flicstar.hashnode.dev/domain-knowledge)
+👉 See [Putting the "tech" in technical editor](https://flicstar.com/domain-knowledge)
 
 
 ## Further Reading

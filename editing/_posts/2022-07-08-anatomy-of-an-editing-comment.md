@@ -7,7 +7,7 @@ date: "2022-07-08"
 datePublished: Fri Jul 08 2022 04:13:36 GMT+0000 (Coordinated Universal Time)
 cuid: cl5by0inw044hdvnv4w4i2lpu
 slug: anatomy-of-an-editing-comment
-featured_image_thumbnail: https://cdn.hashnode.com/res/hashnode/image/upload/v1657253158393/Ds6Qvkf_p.jpg
+featured_image_thumbnail: /assets/images/heart.png
 tags: [ writing, feedback, editing ]
 ---
 
@@ -45,7 +45,7 @@ Give practical guidance for next steps.  There are a number of ways you can do t
 ## Example
 
 
-![AnatomyComment.png-mh.png](https://cdn.hashnode.com/res/hashnode/image/upload/v1658463665058/1gDFiUM6c.png align="left")
+![AnatomyComment](/assets/images/anatomycomment.png)
 
 ---
 ### Image credits
