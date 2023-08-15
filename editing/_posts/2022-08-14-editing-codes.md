@@ -20,7 +20,7 @@ Editing codes to the rescue! 🦸‍♀️ Using a code rolls up the ‘why’ t
 The codes are a lightweight convention for reviewing content. They communicate the rationale behind a suggested edit based on a specific writing guideline.
 
 
-![codes.png](assets/images/codes.png align="center")
+![codes.png](assets/images/codes.png)
 
 
 ## Why they’re good
@@ -55,16 +55,16 @@ When you make an edit, preface your feedback with the code. This does, initially
 **Constructive feedback**: Use a code, then give your comment or suggestion. No need to explain context - the code encapsulates the writing principle that underpins your feedback.
 
 
-![OSPCodesFdbk.png](assets/images/OSPCodesFdbk.png align="center")
+![OSPCodesFdbk.png](assets/images/OSPCodesFdbk.png)
 
 **Giving praise**: Add a `++` to the code to signify praise. You can follow with extra detail or just let it stand alone.
 
 
-![OSPPlusPlus.png](assets/images/OSPPlusPlus.png align="center")
+![OSPPlusPlus.png](assets/images/OSPPlusPlus.png)
 
 **Tell your writer**: Add a comment at the start of your review to let your writer know that you’ve used the edit codes - and provide a link to the list so they can find them easily.
 
-![OSPPUsecodes.png](assets/images/OSPPUsecodes.png align="center")
+![OSPPUsecodes.png](assets/images/OSPPUsecodes.png)
 
 
 ## Try them today
