@@ -5,7 +5,7 @@ meta_description: 'flicstar is a technical communicator, writing and editing onl
 logo: 'assets/images/logo.png'
 favicon: 'assets/images/favicon.ico'
 baseurl:
-production_url: https://flicstar.github.io/
+production_url: https://flicstar.com/
 disqus: 
 mailchimp_url: 
 title_image: 'assets/images/title_image.jpg'
