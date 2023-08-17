@@ -41,14 +41,13 @@ As an open source editor, you might also be volunteering your own time. Editing 
 
 ## Open source = global communities
 
-Tread mindfully. 
+Tread mindfully.
 
-The open source projects I have worked with are global, with English as the preferred language. That means working with many people who are non-native English writers.  
-Editing for global communities requires sensitivity to cultural differences. My job as an editor is about thinking globally—having a broad awareness of what is 
-region-specific and might not convey meaning across borders. 
+The open source projects I work with are global, and English is the preferred language. That means working with many people for whom English is not their first language.
 
-This could be word choice, figures of speech, language conventions, currency punctuation, and hemispherical bias. I don't always know all the answers, but I 
-know enough to flag the things that might not work. Here, I'm advocating for the reader and being sensitive in my feedback to the writer.
+Editing for global communities requires sensitivity to cultural differences. My job as an editor is about thinking globally—having a broad awareness of what is region-specific and might not convey meaning across borders.
+
+This could be word choice, figures of speech, language conventions, currency punctuation, and hemispherical bias. I don't always know all the answers, but I know enough to flag the things that might not work. Here, I'm advocating for the reader and being sensitive in my feedback to the writer.
 
 
 ## Minimalist editing
@@ -56,7 +55,7 @@ know enough to flag the things that might not work. Here, I'm advocating for the
 My approach when editing in open source is to consider the broader context of the writer and the project.
 
 * Is the writer usually a non-writer?
-* Is the writer a non-native speaker?
+* Is English the second or third language for this writer?
 * Have they ever contributed before?
 
 I don't go for brutal edits with a heavy red pen, I tend to dial my editing back a bit. Of course, I polish the writing and try to add value to the finished 

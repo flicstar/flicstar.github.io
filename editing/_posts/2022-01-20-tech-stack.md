@@ -71,7 +71,7 @@ Last but not least, tools for the task of editing itself. You need to be aware o
 * In GitHub, are you just adding commentary or are you making suggestions to the file?
 
 Also consider if you’re going to add semantic markup to your editing comments, for example [Conventional Comments](https://conventionalcomments.org/) 
-or [Editing Codes](https://github.com/open-strategy-partners/editing-codes).
+or [Editing Codes](https://openstrategypartners.com/resources/the-osp-editing-codes/).
 
 ## The all-knowing editor
 
@@ -79,6 +79,9 @@ You can't know everything all the time. There's a lot of tech out there!
 
 BUT, technical editors do need technical aptitude. Not only does it add to your [domain knowledge](https://flicstar.com/domain-knowledge), it makes you 
 good at your job. If you feel comfortable with the technology you're working with, you can get straight to work adding value to a written piece.
+
+> Further reading: Check out this great post by Chris Ward on the Knowledge Owl blog [Tools for editing docs as code](https://www.knowledgeowl.com/home/toolsforeditingdocsascode).
+
 
 ---
 

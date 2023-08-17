@@ -29,6 +29,8 @@ the universe. Understanding the space _outside_ a domain gives you the ability t
 
 Domain awareness means I can advocate for the reader and polish writing to be clear and simple - especially around a complex topic.
 
+> The [IPEd 2021 Survey](https://www.iped-editors.org/march-2022/editors-are-highly-skilled-and-well-educated/) showed that 92% of members had tertiary education. “Tertiary qualifications, regardless of whether they are specifically in editing or not, show that editors have skills in communication, critical thinking and judgment, as well as an understanding of broader cultural contexts.”
+
 
 ### Building domain awareness
 
@@ -49,10 +51,9 @@ and a steady diet of consuming industry content (I read a lot!). This has enable
 
 ### How domain awareness makes me a good editor
 
-Writing about tech can get really noun-heavy. For writing to be clear, it’s crucial to identify actors in a sentence, and what is being acted upon. My understanding 
-of tech stacks, processes, and workflows means I can better identify the subject of a sentence, and parse the verbs, nouns, and adjectives. This helps me separate 
-clauses if needed, or change passive constructions. I may not understand the nuts and bolts of the technology or language, but I know enough to flag
-awkward or unclear phrasing, and when to ask for clarification from the writer. 
+Writing about tech can get really noun-heavy. For writing to be clear, it’s crucial to identify actors in a sentence, and what is being acted upon. My understanding of tech stacks, processes, and workflows means I can better identify the subject of a sentence, and parse the verbs, nouns, and adjectives.
+
+I may not be able to code, but I do understand how technology fits together and works within a broader ecosystem. In addition, my [personal experience](https://flicstar.com/tech-comm-trends) brings an authentic and valuable perspective to the tech writing I edit.
 
 
 ---
