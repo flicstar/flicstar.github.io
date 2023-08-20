@@ -13,7 +13,7 @@ featured_image_thumbnail: http://i3.ytimg.com/vi/Qq3kg2Iw1GY/hqdefault.jpg
 featured_image: 
 ---
 
-This year I made my first appearance in a podcast – [Application, the TYPO3 Community Podcast](https://typo3.org/article/meet-felicity-brand-typo3-guidebook-author-australia-application-podcast-s1e4), season 1 episode 4.
+This year I made my first appearance on a podcast – [Application, the TYPO3 Community Podcast](https://typo3.org/article/meet-felicity-brand-typo3-guidebook-author-australia-application-podcast-s1e4), season 1 episode 4.
 
 ![flicstar on YouTube video](http://i3.ytimg.com/vi/X0Q4vCgftGU/hqdefault.jpg "Still of podcast video")
 
