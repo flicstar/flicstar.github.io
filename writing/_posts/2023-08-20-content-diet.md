@@ -9,7 +9,7 @@ featured_image_thumbnail: /assets/images/newsletter.png
 featured_image: 
 ---
 
-Times change. Two years ago, I wrote about [the content I consume](https://flicstar.com/newsletters-i-follow). Here's what's on my plate (or should I say, _shaping my algorithm_?) these days. 
+Here's what's on my plate (or should I say, _shaping my algorithm_?) these days. 
 
 ## Work 
 
@@ -89,3 +89,7 @@ Some I drop on purpose, some just die a natural death.
 * [Smartless](https://open.spotify.com/show/0Yzd0g8NYmn27k2HFNplv7?si=e52dd3edbfe2481f)
 * [We don't have time for this](https://open.spotify.com/show/1kGC1I1xEJiom7tqRLUKnJ?si=93f7b059d06e4921)
 * [Conan O'Brien needs a friend](https://open.spotify.com/show/3u26tlz7A3WyWRtXliX9a9?si=3f3e6249c6894e1a)
+
+----
+
+Compate this to [what was on my plate](https://flicstar.com/newsletters-i-follow) two years ago.
