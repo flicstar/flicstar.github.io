@@ -26,6 +26,7 @@ Newsletters covering a range of things I'm interested in, like writing, editing,
 * [DevRelWeekly](https://devrelweekly.com/ )
 * [Community Manager Breakfast](http://www.evanhamilton.com/community-manager-breakfast/) from Evan Hamilton
 * [Pronovix Developer Portals](https://pronovix.com/developer-portals-newsletter)
+* [Future Essentials](https://mishadavinci.substack.com/) from Misha da Vinci
 * [Working in Content](https://workingincontent.com/newsletter)
 * [Elle Geraghty Content Strategy](https://www.ellegeraghty.com/)
 * [Best Writing Jobs](https://bestwriting.com/#jobs-newsletter)
