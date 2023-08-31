@@ -6,7 +6,7 @@ date: "2020-12-19"
 tags: [ talks, open-source, devrel ]
 image: 
 featured_image_thumbnail: https://img.youtube.com/vi/imDTTyq4DTw/maxresdefault.jpg
-featured_image: https://img.youtube.com/vi/imDTTyq4DTw/maxresdefault.jpg
+featured_image: 
 ---
 
 In this episode of Deploy Friday, from Platform.sh, Heather, Jam, and I talk to Robert Douglass about how we co-authored [The TYPO3 Guidebook](https://www.amazon.com/TYPO3-Guidebook-Understand-Use-CMS/dp/1484265246) in concert with the TYPO3 community.
