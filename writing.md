@@ -5,7 +5,7 @@ featured_image:
 
 ---
 
-<p align="center"><img src="/assets/images/authorimage.png" alt="flicstar headshot" align="middle" width="15%"/> </p>{% include postbox.html %}
+<p><img src="/assets/images/typo3bookcover.jpg" alt="TYPO3 Book Cover" hspace="20" /> <img src="/assets/images/twpbookcover.jpg" alt="TWP Book Cover" hspace="20" /> </p>
 
 <div class="featured-posts outer">
 <div class="outer">
