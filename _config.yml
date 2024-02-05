@@ -42,7 +42,7 @@ producthunt:
 
 # Navigation (example text: Style Guide  url: /style-guide/)
 navigation:
-  - text: Tech Writing
+  - text: Writing
     url: /writing
   - text: Editing
     url: /editing
