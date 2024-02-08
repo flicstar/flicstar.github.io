@@ -9,7 +9,7 @@ A list of games [my daughter and I have played](https://flicstar.com/gaming).
 ---
 
 ### Tiny Bang Story
-![Tiny Bang Story](https://upload.wikimedia.org/wikipedia/en/f/f0/The_Tiny_Bang_Story-cover_art.jpg#left)  
+![Tiny Bang Story](https://cdn.cloudflare.steamstatic.com/steam/apps/96000/header.jpg?t=1631292999#left)  
 
 [Tiny Bang Story](https://store.steampowered.com/app/96000/The_Tiny_Bang_Story/) from Calibri Games is a point-and-click game that involves solving puzzles. You click around until you’re given a kind of ‘shopping list’ of things to gather to unlock a puzzle. You collect the things, unlock the puzzle, do the puzzle, then you get another list of things to find.  This was an ideal game for us to play because it has chapters that follow a predictable pattern. Within each chapter, you can collect flies to earn hints. Edie quickly grasped the structure of the game and when we got stuck, she was happy to click flies to earn hints. 
 
@@ -18,31 +18,48 @@ At the end of each chapter, there is a jigsaw puzzle to complete. Fun! The best 
 I totally recommend this game! After we played it once we went through and played it all over again a second time. I think once enough time has passed, we will definitely play it again. Super fun!  
 
 ### Windosill
-![Windosill](https://upload.wikimedia.org/wikipedia/commons/thumb/1/1f/Windosill_screenshot_02.jpg/330px-Windosill_screenshot_02.jpg#left)  
+![Windosill](https://cdn.cloudflare.steamstatic.com/steam/apps/37600/header.jpg?t=1677716969#left)  
 
 [Windowsill](https://store.steampowered.com/app/37600/Windosill/) by Vectorpark is a beautiful, award-winning game. We completed this in one sitting (just over an hour). It was sooo good and fascinating to see how Edie picked it up intuitively. She quickly grasped how to interact with things on the screen. This was a charming, inventive, wondrous game that ended too quickly. Highly recommend!
 
 ## The Room
-![Tiny Bang Story](https://upload.wikimedia.org/wikipedia/en/f/f0/The_Tiny_Bang_Story-cover_art.jpg#left)  
+![The Room](https://cdn.cloudflare.steamstatic.com/steam/apps/288160/header.jpg?t=1646758287#left)  
 
-We thoroughly enjoyed this game (with the help of a walkthrough guide). It was a bit dark on our device. Warning: One of the items you find is a long-forgotten photograph. The image is a bit spooky and distrubing for young players. 
+[The Room](https://store.steampowered.com/app/288160/The_Room/) by Fireproof Games. We thoroughly enjoyed this game (with the help of a walkthrough guide). It was a bit dark on our device. Warning: One of the items you find is a long-forgotten photograph. The image is a bit spooky and distrubing for young players.    
 
-## Milo
+## Milo and the Magpies
+![Milo](https://cdn.cloudflare.steamstatic.com/steam/apps/1407420/header.jpg?t=1703496388#left)  
+
+[Milo](https://store.steampowered.com/app/1407420/Milo_and_the_Magpies/) by Second Maze. 
 
 ## isoland
+![isoland](https://cdn.cloudflare.steamstatic.com/steam/apps/831570/header.jpg?t=1525227937#left)  
+
+[isoland](https://store.steampowered.com/app/831570/Isoland/) by Cotton Game. 
 
 ## CHUCHEL
+![CHUCHEL](https://cdn.cloudflare.steamstatic.com/steam/apps/711660/header.jpg?t=1669304646#left)  
+
+[CHUCHEL](https://store.steampowered.com/app/711660/CHUCHEL/) by Amanita Design. 
 Less of a game, more of an interactive movie. Very funny with slapstick sequences and delightful artwork. This grumpy dude just wants his cherry! 
 
-## Putt STZ
+## Putt-Putt saves the zoo
+![PuttSTZ](https://cdn.cloudflare.steamstatic.com/steam/apps/294660/header.jpg?t=1578527121#left)  
+
+[Putt-Putt saves the zoo](https://store.steampowered.com/app/294660/PuttPutt_Saves_The_Zoo/) by Humongous Entertainment. 
 A bit too easy. We played it in one sitting, with mummy skipping through all the dialogue (yawn) and looking forward to the end. Edie has gone back and played it several times on her own so maybe not too babyish after all? 
 
 ## Botanicula
-I know this will be good, another one from Amanita Design.
+![Botanicula](https://cdn.cloudflare.steamstatic.com/steam/apps/207690/header.jpg?t=1669304587#left)  
 
-## [Machinarium](https://store.steampowered.com/app/40700/Machinarium/)
-![Machinarium](https://upload.wikimedia.org/wikipedia/en/4/4b/Machinarium-cover_art.png#left)
-The “robot game”. 
+[Botanicula](https://store.steampowered.com/app/207690/Botanicula/) by Amanita Design. The "tree game". My favorite of all the games we've played so far! 
+
+## Machinarium
+![Machinarium](https://cdn.cloudflare.steamstatic.com/steam/apps/40700/header.jpg?t=1683630220#left)
+[Machinarium](https://store.steampowered.com/app/40700/Machinarium/) by Amanita Design. The “robot game”. 
 
 ## Samorost
+![Samorost](https://cdn.cloudflare.steamstatic.com/steam/apps/1580970/header.jpg?t=1669303625#left)  
+
+[Samorost](https://store.steampowered.com/app/1580970/Samorost_1/) 1, 2 and 3 by Amanita Design. 
 Surreal and beautiful. We definitely needed our walkthrough helper for these games. Very enchanting and lovely audio. 
