@@ -11,7 +11,7 @@ A list of games [my daughter and I have played](https://flicstar.com/gaming).
 ### Tiny Bang Story
 ![Tiny Bang Story](https://cdn.cloudflare.steamstatic.com/steam/apps/96000/header.jpg?t=1631292999#left)  
 
-[Tiny Bang Story](https://store.steampowered.com/app/96000/The_Tiny_Bang_Story/) from Calibri Games is a point-and-click game that involves solving puzzles. You click around until you’re given a kind of ‘shopping list’ of things to gather to unlock a puzzle. You collect the things, unlock the puzzle, do the puzzle, then you get another list of things to find.  This was an ideal game for us to play because it has chapters that follow a predictable pattern. Within each chapter, you can collect flies to earn hints. Edie quickly grasped the structure of the game and when we got stuck, she was happy to click flies to earn hints. 
+[Tiny Bang Story](https://store.steampowered.com/app/96000/The_Tiny_Bang_Story/) from Calibri Games is a point-and-click game that involves solving puzzles. You click around until you’re given a kind of ‘shopping list’ of things to gather to unlock a puzzle. You collect the things, unlock the puzzle, do the puzzle, then you get another list of things to find.  This was an ideal game for us to play because it has chapters that follow a predictable pattern. Within each chapter, you can collect flies to earn hints. My daughter quickly grasped the structure of the game and when we got stuck, she was happy to click flies to earn hints. 
 
 At the end of each chapter, there is a jigsaw puzzle to complete. Fun! The best thing about this game was that two of us could tap the screen at once. We could solve the jigsaw together at the same time. 
 
@@ -20,7 +20,7 @@ I totally recommend this game! After we played it once we went through and playe
 ### Windosill
 ![Windosill](https://cdn.cloudflare.steamstatic.com/steam/apps/37600/header.jpg?t=1677716969#left)  
 
-[Windowsill](https://store.steampowered.com/app/37600/Windosill/) by Vectorpark is a beautiful, award-winning game. We completed this in one sitting (just over an hour). It was sooo good and fascinating to see how Edie picked it up intuitively. She quickly grasped how to interact with things on the screen. This was a charming, inventive, wondrous game that ended too quickly. Highly recommend!
+[Windowsill](https://store.steampowered.com/app/37600/Windosill/) by Vectorpark is a beautiful, award-winning game. We completed this in one sitting (just over an hour). It was sooo good and fascinating to see how my five year old picked it up intuitively. She quickly grasped how to interact with things on the screen. This was a charming, inventive, wondrous game that ended too quickly. Highly recommend!
 
 ## The Room
 ![The Room](https://cdn.cloudflare.steamstatic.com/steam/apps/288160/header.jpg?t=1646758287#left)  
@@ -47,7 +47,7 @@ Less of a game, more of an interactive movie. Very funny with slapstick sequence
 ![PuttSTZ](https://cdn.cloudflare.steamstatic.com/steam/apps/294660/header.jpg?t=1578527121#left)  
 
 [Putt-Putt saves the zoo](https://store.steampowered.com/app/294660/PuttPutt_Saves_The_Zoo/) by Humongous Entertainment. 
-A bit too easy. We played it in one sitting, with mummy skipping through all the dialogue (yawn) and looking forward to the end. Edie has gone back and played it several times on her own so maybe not too babyish after all? 
+A bit too easy. We played it in one sitting, with me skipping through all the dialogue (yawn) and looking forward to the end. My daughter has gone back and played it several times on her own so maybe not too babyish after all? 
 
 ## Botanicula
 ![Botanicula](https://cdn.cloudflare.steamstatic.com/steam/apps/207690/header.jpg?t=1669304587#left)  
