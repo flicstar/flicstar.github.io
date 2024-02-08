@@ -25,7 +25,7 @@ I totally recommend this game! After we played it once we went through and playe
 ## The Room
 ![The Room](https://cdn.cloudflare.steamstatic.com/steam/apps/288160/header.jpg?t=1646758287#left)  
 
-[The Room](https://store.steampowered.com/app/288160/The_Room/) by Fireproof Games. We thoroughly enjoyed this game (with the help of a walkthrough guide). It was a bit dark on our device. Warning: One of the items you find is a long-forgotten photograph. The image is a bit spooky and distrubing for young players.    
+[The Room](https://store.steampowered.com/app/288160/The_Room/) by Fireproof Games. We thoroughly enjoyed this game (with the help of a walkthrough guide). It was a bit dark on our device. Warning: One of the items you find is a long-forgotten photograph of a spooky image that is disturbing for young players.    
 
 ## Milo and the Magpies
 ![Milo](https://cdn.cloudflare.steamstatic.com/steam/apps/1407420/header.jpg?t=1703496388#left)  
