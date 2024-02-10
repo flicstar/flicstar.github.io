@@ -35,7 +35,7 @@ I totally recommend this game! After we played it once we went through and playe
 ## isoland
 ![isoland](https://cdn.cloudflare.steamstatic.com/steam/apps/831570/header.jpg?t=1525227937#left)  
 
-[isoland](https://store.steampowered.com/app/831570/Isoland/) by Cotton Game. 
+[isoland](https://store.steampowered.com/app/831570/Isoland/) by Cotton Game. In this game you're walking around an island, and there are different building and rooms. This game was cool because we could see clues on screen and write (or draw) them  on a piece of paper to use them later in the game when we needed them. No other games have really had that, and it was like keeping our own inventory of clues - rather than the game keeping them for us. Lots of symbols and shapes. 
 
 ## CHUCHEL
 ![CHUCHEL](https://cdn.cloudflare.steamstatic.com/steam/apps/711660/header.jpg?t=1669304646#left)  
@@ -62,4 +62,4 @@ I found this too easy. We played it in one sitting, with me skipping through all
 ![Samorost](https://cdn.cloudflare.steamstatic.com/steam/apps/1580970/header.jpg?t=1669303625#left)  
 
 [Samorost](https://store.steampowered.com/app/1580970/Samorost_1/) 1, 2 and 3 by Amanita Design. 
-Surreal and beautiful. We definitely needed our walkthrough helper for these games. Very enchanting and lovely audio. 
+Surreal and beautiful. Very enchanting and lovely audio.  A little gnome and a spaceship. Lots of flaura and fauna. Do yourself a favor and play these games - we definitely needed our walkthrough for some of the puzzles, but we're still new to gaming.
