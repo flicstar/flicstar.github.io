@@ -20,7 +20,7 @@ I totally recommend this game! After we played it once we went through and playe
 ### Windosill
 ![Windosill](https://cdn.cloudflare.steamstatic.com/steam/apps/37600/header.jpg?t=1677716969#left)  
 
-[Windowsill](https://store.steampowered.com/app/37600/Windosill/) by Vectorpark is a beautiful, award-winning game. We completed this in one sitting (just over an hour). It was sooo good and fascinating to see how my five year old picked it up intuitively. She quickly grasped how to interact with things on the screen. This was a charming, inventive, wondrous game that ended too quickly. Highly recommend!
+[Windowsill](https://store.steampowered.com/app/37600/Windosill/) by Vectorpark is a beautiful, award-winning game. We completed this in one sitting (just over an hour). It was sooo good; and fascinating to see how my five year old picked it up intuitively. She quickly grasped how to interact with things on the screen. This was a charming, inventive, wondrous game that ended too quickly. Highly recommend! You're just alittle car, and on one screen there are creatures that like to play wiht you, an dif you try to roll away a big creature comes and picks you up and gives you back to the little creature so she can play.
 
 ## The Room
 ![The Room](https://cdn.cloudflare.steamstatic.com/steam/apps/288160/header.jpg?t=1646758287#left)  
