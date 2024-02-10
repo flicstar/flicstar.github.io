@@ -30,7 +30,7 @@ I totally recommend this game! After we played it once we went through and playe
 ## Milo and the Magpies
 ![Milo](https://cdn.cloudflare.steamstatic.com/steam/apps/1407420/header.jpg?t=1703496388#left)  
 
-[Milo](https://store.steampowered.com/app/1407420/Milo_and_the_Magpies/) by Second Maze. 
+[Milo](https://store.steampowered.com/app/1407420/Milo_and_the_Magpies/) by Second Maze. We got through this in two sittings. We did the walkthrough. We enjoyed it - a cat who goes through the backyards of the neighbours houses to get home. Not as sophisticated as some of the other games we've played, but still enjoyable.
 
 ## isoland
 ![isoland](https://cdn.cloudflare.steamstatic.com/steam/apps/831570/header.jpg?t=1525227937#left)  
@@ -41,22 +41,22 @@ I totally recommend this game! After we played it once we went through and playe
 ![CHUCHEL](https://cdn.cloudflare.steamstatic.com/steam/apps/711660/header.jpg?t=1669304646#left)  
 
 [CHUCHEL](https://store.steampowered.com/app/711660/CHUCHEL/) by Amanita Design. 
-Less of a game, more of an interactive movie. Very funny with slapstick sequences and delightful artwork. This grumpy dude just wants his cherry! 
+Less of a game, more of an interactive movie. Very funny with slapstick sequences and delightful artwork. This grumpy dude just wants his cherry! Sometimes it was difficult to work out the controls. Anything by Amanita Design is well worth the money.
 
 ## Putt-Putt saves the zoo
 ![PuttSTZ](https://cdn.cloudflare.steamstatic.com/steam/apps/294660/header.jpg?t=1578527121#left)  
 
 [Putt-Putt saves the zoo](https://store.steampowered.com/app/294660/PuttPutt_Saves_The_Zoo/) by Humongous Entertainment. 
-A bit too easy. We played it in one sitting, with me skipping through all the dialogue (yawn) and looking forward to the end. My daughter has gone back and played it several times on her own so maybe not too babyish after all? 
+I found this too easy. We played it in one sitting, with me skipping through all the dialogue (yawn) and looking forward to the end. You can press a lot of things on screen and interact with them, which is fun. My daughter has gone back and played it several times on her own so maybe not too babyish after all? Once she'd gone through it twice, she was proud to be able to show her Dad how to play.
 
 ## Botanicula
 ![Botanicula](https://cdn.cloudflare.steamstatic.com/steam/apps/207690/header.jpg?t=1669304587#left)  
 
-[Botanicula](https://store.steampowered.com/app/207690/Botanicula/) by Amanita Design. The "tree game". My favorite of all the games we've played so far! 
+[Botanicula](https://store.steampowered.com/app/207690/Botanicula/) by Amanita Design. The "tree game". My favorite of all the games we've played so far! There is a group of five little characters and they each have different powers. They were trying to save their tree from lots of baddie creatures - one a scary black spider creature. Beautiful and fun and I can't wait to play it again. 
 
 ## Machinarium
 ![Machinarium](https://cdn.cloudflare.steamstatic.com/steam/apps/40700/header.jpg?t=1683630220#left)
-[Machinarium](https://store.steampowered.com/app/40700/Machinarium/) by Amanita Design. The “robot game”. 
+[Machinarium](https://store.steampowered.com/app/40700/Machinarium/) by Amanita Design. The “robot game”. My daughter's favorite out of the games we've played so far. She liked it because first you move the main robot, and then later, you get to move his friend. It was cool the way we changed characters. I liked that is lasted a long time - so it's good value. It had lots of mini games and an overarching story. Every now and then the robot has memories of when he was little and played with his friend. It was cool to get the backstory of different robots in the game. 
 
 ## Samorost
 ![Samorost](https://cdn.cloudflare.steamstatic.com/steam/apps/1580970/header.jpg?t=1669303625#left)  
