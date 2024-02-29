@@ -30,6 +30,5 @@ after they were gone. In the moment, there were just too many spinning plates. �
 I want to extend a HUGE thank you to my amazing panelists. I can’t wait to have a go at this grand adventure again at Write the Docs Australia 2024!
 
 Find out more: 
-- My [speaker notes](https://flicstar.com/wtd-panel) about the session
 - A full summary of the discussion on the [OSP blog](https://openstrategypartners.com/blog/write-the-docs-australia-2023/) - what we ACTUALLY talked about including the value of docs, working with others, and diversity in tech!
 - The [recording of the event](https://www.youtube.com/watch?v=Z9Bipm3owl0) on WTD’s conference playlist.
