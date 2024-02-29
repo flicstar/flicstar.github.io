@@ -31,5 +31,5 @@ I want to extend a HUGE thank you to my amazing panelists. I can’t wait to hav
 
 Find out more: 
 - My [speaker notes](https://flicstar.com/wtd-panel) about the session
-- A full summary of the discussion on the [OSP blog](https://openstrategypartners.com/blog/) - what we ACTUALLY talked about including the value of docs, working with others, and diversity in tech!
+- A full summary of the discussion on the [OSP blog](https://openstrategypartners.com/blog/write-the-docs-australia-2023/) - what we ACTUALLY talked about including the value of docs, working with others, and diversity in tech!
 - The [recording of the event](https://www.youtube.com/watch?v=Z9Bipm3owl0) on WTD’s conference playlist.
