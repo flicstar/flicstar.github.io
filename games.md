@@ -8,9 +8,9 @@ A list of games [my daughter and I have played](https://flicstar.com/gaming).
 
 ---
 
-**Currently playing:** [Under Leaves](https://store.steampowered.com/app/567030/Under_Leaves/) by Circus Atos. It's a hidden object game. The best bit is you can replay it because the position of the objects change when you revisit each scene. It has beautiful artwork, lovely colors and relaxing music.
-
 ![Under Leaves](https://cdn.cloudflare.steamstatic.com/steam/apps/567030/header.jpg?t=1667202294#right)
+
+**Currently playing:** [Under Leaves](https://store.steampowered.com/app/567030/Under_Leaves/) by Circus Atos. It's a hidden object game. The best bit is you can replay it because the position of the objects change when you revisit each scene. It has beautiful artwork, lovely colors and relaxing music.
 
 ---
 
