@@ -8,6 +8,10 @@ A list of games [my daughter and I have played](https://flicstar.com/gaming).
 
 ---
 
+**Currently playing:** We're choosing our next game!
+
+---
+
 ### Tiny Bang Story
 ![Tiny Bang Story](https://cdn.cloudflare.steamstatic.com/steam/apps/96000/header.jpg?t=1631292999#left)  
 
@@ -69,7 +73,5 @@ Surreal and beautiful. Very enchanting and lovely audio.  A little gnome and a s
 
 [Monument Valley](https://store.steampowered.com/bundle/25548/Monument_Valley_Panoramic_Collection/) by ustwo games. 
 This is a beautiful game with mesmerising, mind-bending puzzles. The graphics and sound are wonderful.    
-
-Also, it has chapters so it's easy to do a few and then save your progress for next time. 
 
 I liked number one best, but my daughter preferred the second edition because it has a lovely story about a mother and daughter. When you finish each chapter, a wise elder shares wisdom to help the child learn. Then you cap off the level by drawing a beautiful design in the sky with your finger that looks like a firework. Highly recommend! Great for two players working together. 
