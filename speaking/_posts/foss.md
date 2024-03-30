@@ -1,0 +1,28 @@
+---
+layout: post
+title: "Everything Open 2024"
+summary: Everything Open Gladstone 2024
+date: "2024-04-15"
+tags: [ talks, open-source, devrel; foss ]
+image: /assets/images/foss.jpg
+featured_image_thumbnail: /assets/images/foss.jpg
+featured_image: /assets/images/foss.jpg
+---
+
+I presented [FOSS: From Building Websites to Changing Society](https://2024.everythingopen.au/schedule/presentation/51/)
+ at the [Everything Open 2024](https://2024.everythingopen.au/) conference in Gladstone.  
+
+You can catch recordings of Jam and MBL giving the OG version of this talk:
+
+-
+
+Got a cool open source story? At Open Strategy Partners, we want to hear it. Get in touch and [book a free 30 minute call today!](https://openstrategypartners.com/contact/) We can help you package your cool open source story into an awesome sharable thing (infographic, audio documentary, printed handout, you name it!).
+
+Here are the links to stories referenced in the presentaton:
+
+<!-- blank line 
+<figure class="video_container">
+  <iframe src="https://www.youtube.com/embed/PVrHO0YaK9g" frameborder="0" allowfullscreen="true"> </iframe>
+</figure>
+blank line -->
+
