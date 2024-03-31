@@ -22,8 +22,12 @@ I presented [FOSS: From Building Websites to Changing Society](https://2024.ever
 - Australian [GovCMS](https://www.govcms.gov.au/)
 - Denmark [Municipalities' Microsoft expenses have exploded: "We have no other choice"](https://www.version2.dk/artikel/kommunernes-microsoft-udgifter-er-eksploderet-vi-har-ikke-andet-valg)
 - [Report on TYPO3-Based Government Websites in Rwanda​​](https://typo3.com/blog/report-on-typo3-based-government-websites-in-rwanda)
+- [Bradley Cooper on Armchair Expert](https://armchairexpertpod.com/pods/bradley-cooper-returns)
 - FOSS Backstage 2024: [TYPO3's approach to supporting FOSS adoption in the Global South](https://www.youtube.com/watch?v=QMlC45l3TsI)
+- [Open letter in response to EU proposed Cyber Resilience Act](https://typo3.org/project/press/press-releases/open-letter-to-eu-legislators/english)
 - [Open-Source CMS Leaders Form Open Web Alliance](https://wptavern.com/eu-regulatory-success-prompts-open-source-cms-leaders-to-form-alliance)
+- [Open Web Advocacy](https://open-web-advocacy.org/)
+- [Open Policy Alliance](https://opensource.org/programs/open-policy-alliance)
 
 
 💬 Got a cool open source story? At [Open Strategy Partners](https://openstrategypartners.com/), we want to hear it. Get in touch and [book a free 30 minute call today!](https://openstrategypartners.com/contact/) We can help you package your cool open source story into an awesome sharable thing (infographic, audio documentary, printed handout, you name it!).
