@@ -16,7 +16,9 @@ I presented [FOSS: From Building Websites to Changing Society](https://2024.ever
 
  Here are the links to stories referenced in the presentation:
 - [Open Source Utopia podcast]()
+- [Govt shunned own CMS for Adobe, myGov features left idle](https://www.innovationaus.com/govt-shunned-own-cms-for-adobe-mygov-features-left-idle/)
 - [EU Open Source Policy Summit](https://summit.openforumeurope.org/)
+- LinkedIn Post from Daniel Homorodean about [avoiding the “we won” paradigm](https://www.linkedin.com/posts/danielhomorodean_the-eu-open-source-policy-summit-organized-activity-7159529631501430784-8fPh/).
 - Australian [GovCMS](https://www.govcms.gov.au/)
 - Denmark [Municipalities' Microsoft expenses have exploded: "We have no other choice"](https://www.version2.dk/artikel/kommunernes-microsoft-udgifter-er-eksploderet-vi-har-ikke-andet-valg)
 - [Report on TYPO3-Based Government Websites in Rwanda​​](https://typo3.com/blog/report-on-typo3-based-government-websites-in-rwanda)
