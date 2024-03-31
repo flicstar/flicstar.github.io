@@ -28,7 +28,7 @@ I presented [FOSS: From Building Websites to Changing Society](https://2024.ever
 
 You can catch recordings of [Jam](https://www.linkedin.com/in/horncologne/) and [MBL](https://www.linkedin.com/in/mathias-bolt-lesniak/) giving the OG version of this talk:
 
-- FOSDEM 2024: [Defend FOSS: From innovation to world wide positive chang](https://mirrors.dotsrc.org/fosdem/2024/k4601/fosdem-2024-3544-defend-foss-from-innovation-to-world-wide-positive-change.mp4)
+- FOSDEM 2024: [Defend FOSS: From innovation to world wide positive change](https://mirrors.dotsrc.org/fosdem/2024/k4601/fosdem-2024-3544-defend-foss-from-innovation-to-world-wide-positive-change.mp4)
 - TYPO3 Web Camp Venlo 2024: [Defend FOSS](https://www.youtube.com/live/WPPPpX262Uw?si=6AgUUyupt-6r4t9i&t=1092)
 - DrupalCon Lille 2023: [Defend FOSS: From innovation to positive change, we need to remind the world what we're about](https://youtu.be/72yo-5-2J34?si=4QfShKhJwfxiRJaD)
 - DrupalCon Pittsburgh 2023: [The Big Impact of Open Source]([https://events.drupal.org/pittsburgh2023/session/big-impact-open-source](https://youtu.be/GV83WGTp1fQ?si=Ov-YXQijTA5cxNYs))
