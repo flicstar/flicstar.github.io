@@ -36,8 +36,8 @@ in interacting with an avatar version of your friends in a virtual world. I gues
 <p align="center"><img src="/assets/images/minecraftwater.jpg" width="500" /></p>
 
 ## Salutary lesson: The Getting Lost Adventure
-During a rare solo-playing session, my daughter decided to go exploring so she flew up really high - like, really really high - then went in a few different directions. Next thing I know, she hugged me around the legs, clearly very upset. In a small voice 
-she said, “I can’t find my way home”. Turns out Minecraft is a big, wide world like any other — if you don’t take note of 
+During a rare solo-playing session, my daughter decided to go exploring so she flew up really high - like, really really high - then went in a few different directions. Next thing I know, she ran to me and in a small voice 
+she spoke into my knees, “I can’t find my way home”. Turns out Minecraft is a big, wide world like any other — if you don’t take note of 
 your surroundings, you can get lost. She had that real-world feeling of dislocation and panic. 
 I didn't know how to help her, but got stuck into research and quickly found that it wasn't going to be an easy task to find the way back home. 
 
@@ -54,8 +54,8 @@ being pretty stoic about it. Meanwhile I'm devouring forum threads, going down R
 The basic idea is to die so you can respawn back to a recognizable point. Because we're in creative mode, you can't die. One tip was to dig straight down to kill yourself so that you’re forced to respawn. So I 
 spent 5 minutes digging down. I went through the Nether and into the void.... but didn't die. Nuts! Now I really am stuck. I’m both lost _and_ I can't get out of the void. Hahaha. Okay. So.
 
-Then I got onto a hot tip which was to save and close, then set the world to survival mode - when you launch the world, because you're in the void, you instantly die and respawn back to your last bed. It worked! Huzzah.
-Then save and close again, set it back to creative mode and we're set. Still lost, but at least no longer in the void, and now near a bed so we can sleep the night away.
+Then I got onto a hot tip which was to save and close, then set the world to **survival** mode - when you launch the world, because you're in the void, you instantly die and respawn back to your last bed. It worked! Huzzah.
+Then save and close again, switch back to creative mode and we're set. Still lost, but at least no longer in the void, and now near a bed so we can sleep the night away.
 
 So what do we do now - randomly fly around A WHOLE WORLD to find her build? That feels like hard work. More googling led me to the website [Chunkbase](https://www.chunkbase.com/) that shows you the map of the world for your seed—including the original
 spawn point. Cool! At least we can now work systematically.
@@ -66,9 +66,7 @@ horse enclosure, axolotls. Happy Days Mate!
 
 ## Surfing the learning curve
 
-That chaotic getting-lost-and-found experience was actually supremely rewarding (for me, anyway). 
-
-Getting lost taught me: 
+That chaotic getting-lost-and-found experience was actually supremely rewarding (for me, anyway). Getting lost taught me some useful things: 
 
 * The importance of knowing where you are.
 * How to configure displaying your coordinates.
@@ -77,9 +75,11 @@ Getting lost taught me:
 
 PS: I also learnt, after punching a poor cow many a time, that to put on a name tag you do a long press. A friggin’ long press on poor Daisy. 
 
-## Links
+### Links & resources
 
-Many of the Minecraft tutorials suffer from the curse of knowledge. It’s such an old game with many device options - which means many control choices. 
+Many of the Minecraft tutorials suffer from the curse of knowledge. It’s such an old game, with many device options, so a lot of the more granular instructions get glossed over or assumed completely. No fix for this, just sayin'. 
+
+Here's a few link I'm keeping for future reference:
 
 - [Chunkbase seed map](https://www.chunkbase.com/apps/seed-map)
 - [Dig Minecraft](https://www.digminecraft.com) for good tutorials
