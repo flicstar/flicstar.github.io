@@ -20,13 +20,13 @@ and I am convinced by the legitimacy of Minecraft as a fun and educational STEM 
 ## Getting Started
 Which version to play? It was a no-brainer for us to go with Pocket Edition (Bedrock) because we play on iPads. The biggest learning curve was the controls - after [playing Machinarium and Samorost](https://flicstar.com/games), 
 working out how to move was full of frustration. Which was actually a good thing for her to see me fail since she tends to assume I have all the answers. This was a good opportunity for role 
-reversal - she picked it up faster than I and was often consoling me and encouraging me not to give up. More than once we stomped away in frustration, only to come back and gently encourage each other that "_It just takes practice!_"
+reversal - she picked it up faster than I did and was often consoling me and encouraging me not to give up. More than once we stomped away in frustration, only to come back and gently encourage each other that "_It just takes practice!_"
 
 ## The Joys of Minecraft
 So it turns out Minecraft is really fun. Who knew!? 😂 Only about half the population for oh, thirteen years? We’re late to the party. We play in **creative** mode on the `peaceful` setting. We started out in different worlds. Eventually I went into my Microsoft account, set her up as a family member, configured all the settings so that we can be 
 friends on the same LAN and now, finally, we can play in the same world.  
 
-Being six, she is a enthusiastic, fearless builder and doesn’t skimp on detail. It wasn’t long before she had dug from the 
+Being six, she is an enthusiastic, fearless builder and doesn’t skimp on detail. It wasn’t long before she had dug from the 
 river to her home and built an axolotl play area. She also constructed a pen for horses (shaped like an actual horse’s head), a massive glass mushroom, and an underwater pool with double story diving board. Meanwhile I’m faffing around 
 cutting down trees and smashing things at every turn. (It took me a LONG time to learn the controls.)
 
