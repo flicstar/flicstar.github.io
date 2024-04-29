@@ -12,6 +12,8 @@ featured_image: /assets/images/minecraft.png
 My daughter made me watch a 4.5 hour [Minecraft “movie”](https://www.youtube.com/watch?v=OtyvvPRhUhw) on YouTube. It wasn’t really a movie, it was several videos stitched together by a very talented gamer, Katherine Elizabeth. 
 We came away from that experience with the question, “If we download Minecraft, can we play this game called “StarQuest”? The short answer is [no](https://www.reddit.com/r/Minecraft/comments/t87tk1/katherine_elizabeth_gaming/), but we’re now both hooked anyway.
 
+<p align="center"><img src="https://i.ytimg.com/vi/OtyvvPRhUhw/hqdefault.jpg" /></p>
+
 I just got back from the [Everything Open](https://2024.everythingopen.au/) conference where I caught the presentation [Crafting Worlds Together: The open source behind Minecraft's multiplayer universe](https://2024.everythingopen.au/schedule/presentation/43/), 
 and I am convinced by the legitimacy of Minecraft as a fun and educational STEM tool for my six year old (and myself!).
 
@@ -30,6 +32,8 @@ cutting down trees and smashing things at every turn. (It took me a LONG time to
 
 As our first joint project, we built a bridge across the river. Now I’m starting to build a house on the bank across from her. There is a lot of laughter, trial and error, achievements, and fun. We wave at each other using the character emotes. There is an inexplicable joy
 in interacting with an avatar version of your friends in a virtual world. I guess that explains the popularity of multi-player games. 🤣
+
+<p align="center"><img src="/assets/images/minecraftwater.jpg" width="500" /></p>
 
 ## Salutary lesson: The Getting Lost Adventure
 During a rare solo-playing session, my daughter decided to go exploring so she flew up really high - like, really really high - then went in a few different directions. Next thing I know, she hugged me around the legs, clearly very upset. In a small voice 
@@ -87,6 +91,3 @@ Many of the Minecraft tutorials suffer from the curse of knowledge. It’s such 
 ## The joys of bonding over creative gaming
 
 I’ve said it before, but [digital gameplay is still gameplay](https://flicstar.com/gaming), and it is a legitimate outlet for creativity. I can also tell that a big component of this current obsession is that we play together as a joint activity. I genuinely love it but I _do_ have to set a strict 1 hour timer because it sucks you in. 
-
-
-<p align="center"><img src="/assets/images/minecraftwater.jpg" /></p>
