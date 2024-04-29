@@ -16,7 +16,7 @@ I just got back from the [Everything Open](https://2024.everythingopen.au/) conf
 and I am convinced by the legitimacy of Minecraft as a fun and educational STEM tool for my six year old (and myself!).
 
 ## Getting Started
-Which version to play? It was a no-brainer for us to go with Pocket Edition (Bedrock) because we play on iPads. The biggest learning curve was the controls - after playing Machinarium and Samorost, 
+Which version to play? It was a no-brainer for us to go with Pocket Edition (Bedrock) because we play on iPads. The biggest learning curve was the controls - after [playing Machinarium and Samorost](https://flicstar.com/games), 
 working out how to move was full of frustration. Which was actually a good thing for her to see me fail since she tends to assume I have all the answers. This was a good opportunity for role 
 reversal - she picked it up faster than I and was often consoling me and encouraging me not to give up. More than once we stomped away in frustration, only to come back and gently encourage each other that "_It just takes practice!_"
 
@@ -42,6 +42,8 @@ being pretty stoic about it. Meanwhile I'm devouring forum threads, going down R
 "_What to do when you get lost in Minecraft_". 
 
 🗺 They all start with "First thing to do before you get lost, is write down your coordinates". Ha! 🙃
+
+<p align="center"><img src="/assets/images/slackminecraft.png" /></p>
 
 ## Tips for finding home
 
@@ -85,3 +87,6 @@ Many of the Minecraft tutorials suffer from the curse of knowledge. It’s such 
 ## The joys of bonding over creative gaming
 
 I’ve said it before, but [digital gameplay is still gameplay](https://flicstar.com/gaming), and it is a legitimate outlet for creativity. I can also tell that a big component of this current obsession is that we play together as a joint activity. I genuinely love it but I _do_ have to set a strict 1 hour timer because it sucks you in. 
+
+
+<p align="center"><img src="/assets/images/minecraftwater.jpg" /></p>
