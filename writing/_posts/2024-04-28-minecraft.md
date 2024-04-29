@@ -75,11 +75,11 @@ That chaotic getting-lost-and-found experience was actually supremely rewarding 
 
 PS: I also learnt, after punching a poor cow many a time, that to put on a name tag you do a long press. A friggin’ long press on poor Daisy. 
 
-### Links & resources
+#### Links & resources
 
 Many of the Minecraft tutorials suffer from the curse of knowledge. It’s such an old game, with many device options, so a lot of the more granular instructions get glossed over or assumed completely. No fix for this, just sayin'. 
 
-Here's a few link I'm keeping for future reference:
+Just dumping a few links here for future reference:
 
 - [Chunkbase seed map](https://www.chunkbase.com/apps/seed-map)
 - [Dig Minecraft](https://www.digminecraft.com) for good tutorials
