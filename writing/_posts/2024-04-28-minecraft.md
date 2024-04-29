@@ -9,8 +9,8 @@ featured_image_thumbnail: /assets/images/minecraft.png
 featured_image: /assets/images/minecraft.png
 ---
 
-My daughter made me watch a 4.5 hour [Minecraft “movie”](https://www.youtube.com/watch?v=OtyvvPRhUhw) on YouTube. It wasn’t really a movie, it was several videos stitched together by a very talented gamer, Katherine Elizabeth. 
-We came away from that experience with the question, “If we download Minecraft, can we play this game called “StarQuest”? The short answer is [no](https://www.reddit.com/r/Minecraft/comments/t87tk1/katherine_elizabeth_gaming/), but we’re now both hooked anyway.
+My daughter made me watch a 4.5 hour Minecraft “movie” on YouTube. It wasn’t really a movie, it was several videos stitched together by a very talented gamer, Katherine Elizabeth. 
+We came away from that experience with the question, “If we download Minecraft, can we play this game called "[StarQuest](https://www.youtube.com/watch?v=OtyvvPRhUhw)"? The short answer is [no](https://www.reddit.com/r/Minecraft/comments/t87tk1/katherine_elizabeth_gaming/), but we’re now both hooked anyway.
 
 <p align="center"><img src="https://i.ytimg.com/vi/OtyvvPRhUhw/hqdefault.jpg" /></p>
 
