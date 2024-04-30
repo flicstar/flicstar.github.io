@@ -60,7 +60,7 @@ Then save and close again, switch back to **creative mode** and we're set. Still
 
 So what do we do now - randomly fly around A WHOLE WORLD to find her build? That feels like hard work. More googling led me to the website [Chunkbase](https://www.chunkbase.com/) that shows you the map of the world for your seed — cool! At least we can now work systematically.
 
-Next step: hand over to a more patient adult to do a grid search of surroundings. My husband (a non-Minecrafter, but son of a Search & Rescue Police Officer) spent almost 20 minutes looking and at dusk on the first day, he spies the familiar glint of a giant glass mushroom, the 
+Next step: hand over to a more patient adult to do a grid search of surroundings. My husband (a non-Minecrafter, but son of a Police Search and Rescue officer) spent almost 20 minutes looking and at dusk on the first day, he spies the familiar glint of a giant glass mushroom, the 
 horse enclosure, axolotls. Happy Days Mate!
 
 
