@@ -14,13 +14,12 @@ We came away from that experience with the question: “If we download Minecraft
 
 <p align="center"><img src="https://i.ytimg.com/vi/OtyvvPRhUhw/hqdefault.jpg" /></p>
 
-I just got back from the [Everything Open](https://2024.everythingopen.au/) conference where I caught the presentation [Crafting Worlds Together: The open source behind Minecraft's multiplayer universe](https://2024.everythingopen.au/schedule/presentation/43/), 
+I'm recently returned from the [Everything Open](https://2024.everythingopen.au/) conference where I caught the presentation: [Crafting Worlds Together: The open source behind Minecraft's multiplayer universe](https://2024.everythingopen.au/schedule/presentation/43/), 
 and I am convinced by the legitimacy of Minecraft as a fun and educational STEM tool for my six year old (and myself!).
 
 ## Getting Started
-Which version to play? It was a no-brainer for us to go with Pocket Edition (Bedrock) because we play on iPads. The biggest learning curve was the controls - after [playing Machinarium and Samorost](https://flicstar.com/games), 
-working out how to move was full of frustration. Which was actually a good thing for her to see me fail since she tends to assume I have all the answers. This was a good opportunity for role 
-reversal - she picked it up faster than I did and was often consoling me and encouraging me not to give up. More than once we stomped away in frustration, only to come back and gently encourage each other that "_It just takes practice!_"
+Which version to play? Pretty much [all our game play](https://flicstar.com/gaming) is on iPads, so it was a no-brainer for us to go with Bedrock (pocket edition). The biggest learning curve was how to use the controls - after [playing Machinarium and Samorost](https://flicstar.com/games), 
+working out how to move was full of frustration. She picked it up faster than I did, which presented a good opportunity for her to see me fail. More than once I stomped away in frustration, only for her to gently encourage me that "_It just takes practice!_" Role-reversal!!
 
 ## The Joys of Minecraft
 So it turns out Minecraft is really fun. Who knew!? 😂 Only about half the population for oh, thirteen years? We’re late to the party. We play in **creative** mode on the `peaceful` setting. We started out in different worlds. Eventually I went into my Microsoft account, set her up as a family member, configured all the settings so that we can be 
@@ -36,31 +35,32 @@ in interacting with an avatar version of your friends in a virtual world. I gues
 <p align="center"><img src="/assets/images/minecraftwater.jpg" width="500" /></p>
 
 ## Salutary lesson: The Getting Lost Adventure
-During a rare solo-playing session, my daughter decided to go exploring so she flew up really high - like, really really high - then went in a few different directions. Next thing I know, she ran to me and in a small voice 
+During a rare solo-playing session, my daughter decided to go exploring so she flew up really high then went looking around in a few different directions. Next thing I know, she ran to me and in a small voice 
 she spoke into my knees, “I can’t find my way home”. Turns out Minecraft is a big, wide world like any other — if you don’t take note of 
 your surroundings, you can get lost. She had that real-world feeling of dislocation and panic. 
-I didn't know how to help her, but got stuck into research and quickly found that it wasn't going to be an easy task to find the way back home. 
+I had no clue how to help, but got stuck into research and quickly found that it wasn't going to be an easy task to find the way back home. 
 
-At first I was thinking, this will be a good test of disappointment and fortitude. I started counseling her, "I'll try but you might have to rebuild from scratch."  She was 
+At first I was thinking, this will be a good test of disappointment and fortitude. I started counseling her, "I'll try to find your home but you might have to rebuild from scratch."  She was 
 being pretty stoic about it. Meanwhile I'm devouring forum threads, going down Reddit rabbit holes and scrubbing through YouTube tutorials: 
 "_What to do when you get lost in Minecraft_". 
 
-🗺 They all start with "First thing to do before you get lost, is write down your coordinates". Ha! 🙃
+Everything I came across started with "Before you get lost, write down your coordinates". Ha! 🙃
 
 <p align="center"><img src="/assets/images/slackminecraft.png" /></p>
 
 ## Tips for finding home
 
+Should this happen to you, here is how we found home again. 
+
 The basic idea is to die so you can respawn back to a recognizable point. Because we're in creative mode, you can't die. One tip was to dig straight down to kill yourself so that you’re forced to respawn. So I 
-spent 5 minutes digging down. I went through the Nether and into the void.... but didn't die. Nuts! Now I really am stuck. I’m both lost _and_ I can't get out of the void. Hahaha. Okay. So.
+spent 5 minutes digging down. I went through the [Nether](https://minecraft.wiki/w/The_Nether) and into the [Void](https://minecraft.wiki/w/Void).... but didn't die. Nuts! Now I really am stuck. I’m both lost _and_ I can't get out of the Void. Hahaha. Okay. So.
 
-Then I got onto a hot tip which was to save and close, then set the world to **survival** mode - when you launch the world, because you're in the void, you instantly die and respawn back to your last bed. It worked! Huzzah.
-Then save and close again, switch back to creative mode and we're set. Still lost, but at least no longer in the void, and now near a bed so we can sleep the night away.
+My rescue came from a hot tip which was to save and close then set the world to **survival** mode. When you launch the world, because you're in the Void, you instantly die and respawn back to your last bed. It worked! Huzzah.
+Then save and close again, switch back to **creative mode** and we're set. Still lost, but at least no longer in the void, and now near a bed so we can sleep the night away.
 
-So what do we do now - randomly fly around A WHOLE WORLD to find her build? That feels like hard work. More googling led me to the website [Chunkbase](https://www.chunkbase.com/) that shows you the map of the world for your seed—including the original
-spawn point. Cool! At least we can now work systematically.
+So what do we do now - randomly fly around A WHOLE WORLD to find her build? That feels like hard work. More googling led me to the website [Chunkbase](https://www.chunkbase.com/) that shows you the map of the world for your seed — cool! At least we can now work systematically.
 
-Next step: hand over to a more patient adult to do a grid search of surroundings. Quickly teach them the controls. Husband spends almost 20 minutes looking and at dusk on the first day, he spies the familiar glint of a giant glass mushroom, the 
+Next step: hand over to a more patient adult to do a grid search of surroundings. My husband (a non-Minecrafter, but son of a Search & Rescue Police Officer) spent almost 20 minutes looking and at dusk on the first day, he spies the familiar glint of a giant glass mushroom, the 
 horse enclosure, axolotls. Happy Days Mate!
 
 
@@ -79,7 +79,7 @@ PS: I also learnt, after punching a poor cow many a time, that to put on a name 
 
 Many of the Minecraft tutorials suffer from the curse of knowledge. It’s such an old game, with many device options, so a lot of the more granular instructions get glossed over or assumed completely. No fix for this, just sayin'. 
 
-Just dumping a few links here for future reference:
+Listing a few links here for future reference:
 
 - [Chunkbase seed map](https://www.chunkbase.com/apps/seed-map)
 - [Dig Minecraft](https://www.digminecraft.com) for good tutorials
@@ -90,4 +90,4 @@ Just dumping a few links here for future reference:
 
 ## The joys of bonding over creative gaming
 
-I’ve said it before, but [digital gameplay is still gameplay](https://flicstar.com/gaming), and it is a legitimate outlet for creativity. I can also tell that a big component of this current obsession is that we play together as a joint activity. I genuinely love it but I _do_ have to set a strict 1 hour timer because it sucks you in. 
+I’ve said it before, but [digital gameplay is still gameplay](https://flicstar.com/gaming), and it is a legitimate outlet for creativity. I can also tell that a big component of why my daughter is in the grip of this current obsession is that we play together. It's a joint activity, and we talk about it when we're not playing it. I genuinely love it but I _do_ have to set a strict 1 hour timer because it sucks you (and me, and her) in. 
