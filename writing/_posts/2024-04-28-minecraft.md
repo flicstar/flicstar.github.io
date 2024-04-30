@@ -66,18 +66,9 @@ horse enclosure, axolotls. Happy Days Mate!
 
 ## Surfing the learning curve
 
-That chaotic getting-lost-and-found experience was actually supremely rewarding (for me, anyway). Getting lost taught me some useful things: 
+That chaotic getting-lost-and-found experience was actually supremely rewarding (for me, anyway). Getting lost taught me a lot of useful things by having to deep-dive into tutorials, going through configuration settings, and discovering the command console to teleport. 
 
-* The importance of knowing where you are.
-* How to configure displaying your coordinates.
-* How to use the command console to enter coordinates and teleport.
-* How to fly - it’s double-tap on the up button. (You can jump and jump and jump but jumpin’ ain’t flyin’. It’s a double-tap!!!)
-
-PS: I also learnt, after punching a poor cow many a time, that to put on a name tag you do a long press. A friggin’ long press on poor Daisy. 
-
-#### Links & resources
-
-Many of the Minecraft tutorials suffer from the curse of knowledge. It’s such an old game, with many device options, so a lot of the more granular instructions get glossed over or assumed completely. No fix for this, just sayin'. 
+Many of the Minecraft tutorials out there suffer from the curse of knowledge. It’s such an old game, with so many device options now, that a lot of the more granular instructions get glossed over or completely assumed. By facing adversity, I really got a crash-course in Minecraft. (In creative mode, anyway. I still have to face-down a zombie but that's for later). 
 
 Listing a few links here for future reference:
 
