@@ -10,7 +10,7 @@ A list of games [my daughter and I have played](https://flicstar.com/gaming).
 
 ![Minecraft](/assets/images/minecraft.png#right)
 
-**Currently playing:** Minecraft!! Yes, we're doin' it. After watching Katherine Elizabeth's [4.5 hour "movie" StarQuest](https://www.youtube.com/watch?v=OtyvvPRhUhw), we got this on the iPad and started playing in creative mode. It is a steep learning curve but fun nevertheless. 
+**Currently playing:** Minecraft!! Yes, we're doin' it. After watching Katherine Elizabeth's [4.5 hour "movie" StarQuest](https://www.youtube.com/watch?v=OtyvvPRhUhw), we got this on the iPad and started [playing in creative mode](https://flicstar.com/minecraft). It is a steep learning curve but fun nevertheless. 
 
 ---
 
