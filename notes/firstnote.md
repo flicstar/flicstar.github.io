@@ -1,4 +1,5 @@
 ---
+layout: note
 title: "My First Note"
 date: 2025-03-04
 category: note
