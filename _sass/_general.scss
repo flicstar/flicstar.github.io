@@ -467,6 +467,13 @@ img {
     font-weight: 400;
 }
 
+.note-divider {
+    border: none;
+    height: 1px;
+    background: #ddd;
+    margin: 1.5rem 0;
+}
+
 /* Text meant only for screen readers */
 .screen-reader-text,
 .site-logo+.site-title {

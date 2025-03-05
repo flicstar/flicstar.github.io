@@ -8,7 +8,7 @@ post_class: note-template
     <main id="main" class="site-main outer">
         <article class="note-full inner">
             <div class="note-meta">
-                <time class="note-date" datetime="{{ page.date | date: '%Y-%m-%d' }}">
+                <time class="note-date" datetime="{{ page.date | date: '%Y-%m-%d' }}" rel="bookmark">
                     {{ page.date | date: "%B %-d, %Y" }}
                 </time>
             </div>
@@ -16,5 +16,6 @@ post_class: note-template
                 {{ content }}
             </div>
         </article>
+        <hr class="note-divider">
     </main>
 </div>
