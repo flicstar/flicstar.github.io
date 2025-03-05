@@ -447,6 +447,25 @@ img {
 .post-content img {
     border-radius: 8px; /* Updated from 3px */
 }
+.note-full {
+    background: #f9f9f9;
+    padding: 1rem;
+    border-left: 4px solid #ff69b4; /* Your signature pink */
+    font-size: 1.1rem;
+    line-height: 1.5;
+    margin-bottom: 1.5rem;
+    border-radius: 8px;
+}
+
+.note-meta {
+    font-size: 0.85rem;
+    color: #666;
+    margin-bottom: 0.5rem;
+}
+
+.note-content {
+    font-weight: 400;
+}
 
 /* Text meant only for screen readers */
 .screen-reader-text,
