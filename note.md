@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Notes
+title: Note
 featured_image: 
 ---
 
@@ -8,8 +8,8 @@ featured_image:
 <div class="outer">
   <div class="post-feed-title inner">Notes are shorter posts</div>
        <div class="post-feed inner-wide">
-       {% for note in site.categories.notes %}
-         {% include notebox.html %}
+       {% for note in site.categories.note %}
+         {% include note.html %}
   {% endfor %}         
     </div>   
 </div>
