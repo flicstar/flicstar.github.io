@@ -2,7 +2,6 @@
 layout: note
 date: 2025-02-20
 category: notes
-title: "Note"
 tags: [ open-source, speaking, events ]
 ---
 

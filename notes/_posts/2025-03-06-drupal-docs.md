@@ -2,7 +2,6 @@
 layout: note
 date: 2025-03-06
 category: notes
-title: "Note 📝"
 tags: [ open-source, tech-writing ]
 ---
 
