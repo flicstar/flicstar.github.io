@@ -11,6 +11,9 @@ featured_image:
        <div class="post-feed inner-wide">
       {% for post in site.categories.notes %}
          {% include notebox.html %}
+         {% unless forloop.last %}
+           <hr class="note-separator">
+         {% endunless %}
   {% endfor %}         
     </div>   
 </div>

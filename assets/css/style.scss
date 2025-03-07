@@ -22,6 +22,7 @@
  * 7. Widgets
  * 8. Site Footer
  * 9. Media Queries
+ * 10. Notes
 */
 
 @import
@@ -1104,6 +1105,44 @@
   .contact-form {
     padding: 10px;
   }
+}
+/**
+ * 10. Notes
+ * ----------------------------------------------------------------------------
+ */
+ .note-separator {
+  border: 0;
+  height: 1px;
+  background: #333;
+  background-image: linear-gradient(to right, #ccc, #333, #ccc);
+  margin: 20px 0;
+}
+
+.note-full {
+  background: #f9f9f9;
+  padding: 1rem;
+  border-left: 4px solid #ff69b4; /* Your signature pink */
+  font-size: 1.1rem;
+  line-height: 1.5;
+  margin-bottom: 1.5rem;
+  border-radius: 8px;
+}
+
+.note-meta {
+  font-size: 0.85rem;
+  color: #666;
+  margin-bottom: 0.5rem;
+}
+
+.note-content {
+  font-weight: 400;
+}
+
+.note-divider {
+  border: none;
+  height: 1px;
+  background: #ddd;
+  margin: 1.5rem 0;
 }
 
 /*# sourceMappingURL=style.css.map */
