@@ -48,6 +48,8 @@ navigation:
     url: /editing
   - text: Speaking
     url: /speaking
+  - text: Notes
+    url: /notes   
 
 # Required Plugins
 plugins_dir:
