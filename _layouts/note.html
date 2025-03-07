@@ -9,12 +9,13 @@ post_class: note
         <article class="note">
           <header class="post-header">
           <div class="note-meta">
-            
-        </div></header>
-        <div class="note-content">
-          <p><time class="published" datetime="{{ post.date | date: '%Y-%m-%d' }}">
+            time class="published" datetime="{{ post.date | date: '%Y-%m-%d' }}">
             {{ post.date | date: "%B %-d, %Y" }}
-        </time></p>
+        </time>
+      </div>
+      <h1 class="posttitle">{{ page.title }}</h1>
+  </header>
+        <div class="note-content">
           <p>{{ post.content }}</p>
       </div>
           </article>
