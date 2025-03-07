@@ -11,7 +11,7 @@ featured_image: https://brianakdesigns.com/wp-content/uploads/2020/02/Unicorn-He
 
 Here is a round-up of some podcasts (and one YouTuber) that I'm particularly enjoying right now. 
 
-{% include note.html content="This post was published in code:words on Medium." %}
+> This post was published in code:words on Medium.
 
 ## WORD UP! 
 
