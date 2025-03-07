@@ -465,13 +465,15 @@ img {
 
 .note-content {
     font-weight: 400;
+    margin-top: 0.5rem;
 }
 
 .note-divider {
     border: none;
-    height: 1px;
-    background: #ddd;
-    margin: 1.5rem 0;
+    height: 3px;
+    background: #888; 
+    margin: 2rem 0; /* More space */
+    opacity: 1; /* Fully visible */
 }
 
 /* Text meant only for screen readers */
