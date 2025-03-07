@@ -1,15 +1,20 @@
 ---
 layout: default
 disqus: false
-post_class: note-template
+post_class: note
 ---
 
 <div id="content" class="site-content fadeInDown delay_075s">
     <main id="main" class="site-main outer">
         <article class="note">
-            <div class="note-content">
-              {{ content }}
-            </div>
+          <div class="note-meta">
+            <time class="published" datetime="{{ post.date | date: '%Y-%m-%d' }}">
+              {{ post.date | date: "%B %-d, %Y" }}
+          </time>
+        </div>
+        <div class="note-content">
+          <p>{{ post.content }}</p>
+      </div>
           </article>
           <hr class="note-divider">
     </main>
