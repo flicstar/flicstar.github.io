@@ -10,7 +10,7 @@ featured_image:
   <div class="post-feed-title inner"></div>
        <div class="post-feed inner-wide">
        {% for post in site.categories.speaking %}
-         {{ note.content }}
+         {% include postbox.html %}
   {% endfor %}         
     </div>   
 </div>
