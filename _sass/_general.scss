@@ -1,5 +1,5 @@
 /**
- * 2. General
+ * 2. General (Updated with Patterns & Rounded Edges)
  * ----------------------------------------------------------------------------
  */
 html {
@@ -8,9 +8,13 @@ html {
 }
 
 body {
-    background: #fff;
+    background-color: #fff;
     color: $gray-dark;
     line-height: 1.66667;
+    /* Added subtle dot pattern using radial gradient */
+    background-image: radial-gradient(#e1e1e1 1px, transparent 1px);
+    background-size: 20px 20px;
+    background-attachment: fixed;
 }
 
 a {
@@ -99,13 +103,20 @@ code {
 
 pre {
     background: $gray-darkest;
-    border-radius: 3px;
+    border-radius: 8px; /* Updated from 3px */
     color: $gray-light;
     font-size: 0.88889rem;
     margin: 0 0 1.875em;
     overflow: auto;
     padding: 1.875em;
     white-space: pre;
+    /* Added pattern for code blocks */
+    background-image: linear-gradient(
+        rgba(255,255,255,0.05) 50%, 
+        transparent 50%
+    );
+    background-size: 100% 4em;
+    background-origin: content-box;
 }
 
 pre code {
@@ -113,11 +124,14 @@ pre code {
 }
 
 blockquote{
-  margin:50px auto;
-  color: #555555;
-  padding:1.2em 30px 1.2em 25px;
-  border-left:8px solid #E1198B;
-  background:#FDE9F4;
+    margin: 50px auto;
+    color: #555555;
+    padding: 1.2em 30px 1.2em 25px;
+    border-left: 8px solid $color-accent;
+    background: #FDE9F4;
+    /* Added rounded corner */
+    border-radius: 0 8px 8px 0;
+    position: relative;
 }
 
 blockquote:before {
@@ -126,6 +140,14 @@ blockquote:before {
 }
 
 blockquote:after {
+    content: "";
+    position: absolute;
+    bottom: 0;
+    right: 0;
+    height: 20px;
+    width: 20px;
+    background: linear-gradient(135deg, transparent 50%, rgba($color-accent, 0.2) 50%);
+    border-radius: 0 0 8px 0;
     margin-top: 40px;
     width: 30px;
 }
@@ -179,12 +201,48 @@ hr {
     margin: 1.66667em 0;
 }
 
+/* Added Section Divider */
+.section-divider {
+    height: 12px;
+    position: relative;
+    margin: 3em 0;
+    overflow: hidden;
+}
+
+.section-divider::before {
+    content: "";
+    position: absolute;
+    width: 100%;
+    height: 12px;
+    background: linear-gradient(135deg, 
+        $color-accent 25%, 
+        transparent 25%, 
+        transparent 50%, 
+        $color-accent 50%, 
+        $color-accent 75%, 
+        transparent 75%, 
+        transparent 100%);
+    background-size: 24px 24px;
+    animation: slide 20s linear infinite;
+}
+
+@keyframes slide {
+    from { background-position: 0 0; }
+    to { background-position: 1000px 0; }
+}
+
 table {
     font-size: 0.88889rem;
     line-height: 1.5;
     margin: 0 0 1.875em;
     text-align: left;
     width: 100%;
+    /* Added rounded table */
+    border-collapse: separate;
+    border-spacing: 0;
+    border-radius: 8px;
+    overflow: hidden;
+    box-shadow: 0 2px 8px rgba(0,0,0,0.05);
 }
 
 caption {
@@ -204,6 +262,23 @@ td {
 th {
     color: $gray-darkest;
     font-weight: bold;
+    background-color: rgba($color-accent, 0.1);
+}
+
+th:first-child {
+    border-top-left-radius: 8px;
+}
+
+th:last-child {
+    border-top-right-radius: 8px;
+}
+
+tr:last-child td:first-child {
+    border-bottom-left-radius: 8px;
+}
+
+tr:last-child td:last-child {
+    border-bottom-right-radius: 8px;
 }
 
 /* Form fields */
@@ -218,7 +293,7 @@ select,
 textarea {
     background: #fff;
     border: 1px solid $gray-lighter;
-    border-radius: 3px;
+    border-radius: 8px; /* Updated from 3px */
     box-shadow: none;
     box-sizing: border-box;
     color: $gray-dark;
@@ -227,6 +302,13 @@ textarea {
     max-width: 100%;
     padding: 8px 10px;
     vertical-align: baseline;
+    /* Added subtle gradient */
+    background-image: linear-gradient(
+        to bottom,
+        rgba(0,0,0,0.02) 0%,
+        transparent 5%
+    );
+    transition: all 0.3s ease;
 }
 
 input[type="text"],
@@ -247,6 +329,8 @@ input[type="password"]:focus,
 input[type="search"]:focus,
 select:focus,
 textarea:focus {
+    border-color: rgba($color-accent, 0.5);
+    box-shadow: 0 0 0 3px rgba($color-accent, 0.1);
     outline: 0;
 }
 
@@ -256,7 +340,7 @@ input[type="button"],
 input[type="reset"],
 a.button {
     background: $color-accent;
-    border: 0;
+    border: 2px solid $color-accent;
     border-radius: 30px;
     box-sizing: border-box;
     color: #fff;
@@ -264,8 +348,17 @@ a.button {
     font-size: 16px;
     line-height: 1.5;
     padding: 10px 30px;
-    -webkit-transition: .3s;
-    transition: .3s;
+    -webkit-transition: all .3s ease;
+    transition: all .3s ease;
+    /* Added subtle shine effect */
+    background-image: linear-gradient(
+        to right,
+        rgba(255,255,255,0) 0%,
+        rgba(255,255,255,0.2) 50%,
+        rgba(255,255,255,0) 100%
+    );
+    background-size: 200% 100%;
+    background-position: 100% 0;
 }
 
 button:hover,
@@ -283,6 +376,9 @@ input[type="reset"]:active,
 a.button:hover,
 a.button:focus {
     box-shadow: 0 0 1px 7px rgba($color-accent,.15);
+    background-color: #fff;
+    color: $color-accent;
+    background-position: 0 0;
     outline: 0;
 }
 
@@ -349,7 +445,33 @@ img {
 
 .post-thumbnail img,
 .post-content img {
-    border-radius: 3px;
+    border-radius: 8px; /* Updated from 3px */
+}
+.note-full {
+    background: #f9f9f9;
+    padding: 1rem;
+    border-left: 4px solid #ff69b4; /* Your signature pink */
+    font-size: 1.1rem;
+    line-height: 1.5;
+    margin-bottom: 1.5rem;
+    border-radius: 8px;
+}
+
+.note-meta {
+    font-size: 0.85rem;
+    color: #666;
+    margin-bottom: 0.5rem;
+}
+
+.note-content {
+    font-weight: 400;
+}
+
+.note-divider {
+    border: none;
+    height: 1px;
+    background: #ddd;
+    margin: 1.5rem 0;
 }
 
 /* Text meant only for screen readers */
@@ -545,6 +667,34 @@ img {
     -webkit-transition: .3s;
     transition: .3s;
     width: 40px;
+    /* Added shine effect */
+    overflow: hidden;
+}
+
+.social-links a::before,
+.top-button::before,
+.newer-posts::before,
+.older-posts::before {
+    content: "";
+    position: absolute;
+    top: 0;
+    left: -100%;
+    width: 100%;
+    height: 100%;
+    background: linear-gradient(
+        90deg,
+        transparent,
+        rgba(255, 255, 255, 0.2),
+        transparent
+    );
+    transition: 0.5s;
+}
+
+.social-links a:hover::before,
+.top-button:hover::before,
+.newer-posts:hover::before,
+.older-posts:hover::before {
+    left: 100%;
 }
 
 .hero .social-links a {
@@ -558,6 +708,30 @@ img {
     background: $color-accent;
     color: #fff;
     box-shadow: 0 0 1px 7px rgba($color-accent,.15);
+}
+
+/* Card and Box styling */
+.card, .box {
+    border-radius: 8px;
+    overflow: hidden;
+    transition: all 0.3s ease;
+    box-shadow: 0 3px 10px rgba(0,0,0,0.05);
+}
+
+.card:hover, .box:hover {
+    transform: translateY(-3px);
+    box-shadow: 0 5px 15px rgba(0,0,0,0.1);
+}
+
+/* Contact Form with updated styling */
+.contact-form {
+    background: $gray-lightest;
+    border: 1px solid $gray-lighter;
+    border-radius: 8px; /* Updated from 3px */
+    box-sizing: border-box;
+    margin-bottom: 3.33333em;
+    padding: 35px 30px 45px;
+    box-shadow: 0 3px 15px rgba(0,0,0,0.05);
 }
 
 /* Animations */
@@ -664,7 +838,14 @@ pre[class*="language-"] {
     padding: 1.875em;
     margin: 0 0 1.875em;
     overflow: auto;
-    border-radius: 3px;
+    border-radius: 8px; /* Updated from 3px */
+    /* Added pattern for syntax highlighted code */
+    background-image: linear-gradient(
+        rgba(255,255,255,0.03) 50%, 
+        transparent 50%
+    );
+    background-size: 100% 4em;
+    background-origin: content-box;
 }
 
 :not(pre)>code[class*="language-"],
@@ -754,7 +935,6 @@ pre[class*="language-"] {
 }
 
 /* Contact Form */
-
 .form-label {
     display: block;
     font-size: 1rem;
@@ -773,13 +953,4 @@ pre[class*="language-"] {
 
 .form-textarea {
     min-height: 230px;
-}
-
-.contact-form {
-    background: $gray-lightest;
-    border: 1px solid $gray-lighter;
-    border-radius: 3px;
-    box-sizing: border-box;
-    margin-bottom: 3.33333em;
-    padding: 35px 30px 45px;
 }

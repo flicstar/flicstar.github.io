@@ -1,7 +1,6 @@
 ---
 layout: note
 title: "Season of Docs Retro"
-summary: Season of Docs Retro
 date: "2020-02-19"
 tags: [ talks, open-source, tech-writing, write-the-docs ]
 image: 
