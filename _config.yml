@@ -42,10 +42,8 @@ producthunt:
 
 # Navigation (example text: Style Guide  url: /style-guide/)
 navigation:
-  - text: Writing
-    url: /writing
-  - text: Editing
-    url: /editing
+  - text: Blog
+    url: /blog
   - text: Speaking
     url: /speaking
   - text: Notes
