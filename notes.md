@@ -9,13 +9,8 @@ featured_image:
 <div class="outer">  
   <div class="post-feed-title inner">Short notes and quick thoughts</div>
        <div class="post-feed inner-wide">
-       {% for post in site.categories.notes %}
-          <article class="note-full">
-            <div class="note-content">
-            {{ note.content }}
-        </div>
-        <hr class="note-divider">
-    </article>
+      {% for post in site.categories.notes %}
+         {% include postbox.html %}
   {% endfor %}         
     </div>   
 </div>
