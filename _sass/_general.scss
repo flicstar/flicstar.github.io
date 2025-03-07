@@ -447,6 +447,7 @@ img {
 .post-content img {
     border-radius: 8px; /* Updated from 3px */
 }
+
 .note-full {
     background: #f9f9f9;
     padding: 1rem;
@@ -466,7 +467,7 @@ img {
 note-content {
     float: right;
     margin-right: 180px;
-    width: 520px;
+    width: 520px; !important
   }
 
 .note-divider {
