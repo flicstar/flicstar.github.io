@@ -500,6 +500,16 @@ img {
     display: table;
 }
 
+.note-content:after {
+    clear: both;
+}
+
+.note-content:before,
+.note-content:after {
+    content: "";
+    display: table;
+}
+
 /* Custom icons */
 .icon-more,
 .icon-close {
