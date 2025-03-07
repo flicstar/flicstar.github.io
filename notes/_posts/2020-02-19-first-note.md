@@ -1,8 +1,8 @@
 ---
 layout: note
-date: "2020-02-19"
+date: 2020-02-19
+category: notes
 tags: [ talks, open-source, tech-writing, write-the-docs ]
-image: 
 ---
 
 I presented this talk at the [Write the Docs Meetup Melbourne](https://www.meetup.com/en-AU/Write-the-Docs-Australia/events/268284615/) in February 2020.
