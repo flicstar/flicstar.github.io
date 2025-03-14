@@ -1,5 +1,6 @@
 ---
 layout: note
+title: "Notes"
 date: 2025-03-06
 category: notes
 tags: [ open-source, tech-writing ]
