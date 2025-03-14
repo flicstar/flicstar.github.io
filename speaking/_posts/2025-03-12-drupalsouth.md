@@ -14,7 +14,8 @@ I presented [AX: Turning your B2B tech strategy into content that converts](http
 
 <!-- blank line  <figure class="video_container"> <iframe src="https://www.youtube.com/embed/PVrHO0YaK9g" frameborder="0" allowfullscreen="true"> </iframe> </figure> <!-- blank line -->
 
-/assets/images/flicstarDrupalSouth.jpg
+<p align="center"><img src="/assets/images/flicstarDrupalSouth.jpg" alt="flicstar about to speak" width="350" hspace="20"/> </p>
+
 
 My presentation focussed on OSP's three principles of [Authentic Communication — empathy, clarity, and trust](https://openstrategypartners.com/blog/empathy-clarity-and-trust-the-cornerstones-of-a-successful-communication-and-content-strategy/).
 
