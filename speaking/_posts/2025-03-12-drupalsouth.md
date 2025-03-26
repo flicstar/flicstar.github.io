@@ -20,4 +20,4 @@ I found some uncanny parallels between my  talk and Nicola Nye’s keynote, [Hum
 
 I'm grateful to Open Strategy Partners for supporting me to attend events like this. I love having the opportunity to learn, share, and connect with open source communities that value both the technical and human aspects of digital experiences.
 
-<figure class="video_container"> <iframe src="https://www.youtube.com/embed/v=w9D4TyzzmXg" frameborder="0" allowfullscreen="true"> </iframe> </figure> 
+<figure class="video_container"> <iframe src="https://www.youtube.com/embed/w9D4TyzzmXg" frameborder="0" allowfullscreen="true"> </iframe> </figure> 
