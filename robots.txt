@@ -43,10 +43,19 @@ Disallow: /
 User-agent: ImagesiftBot
 Disallow: /
 
+User-agent: magpie-crawler
+Disallow: /
+
 User-agent: Meta-ExternalAgent
 Disallow: /
 
+User-agent: meta-externalagent
+Disallow: /
+
 User-agent: Meta-ExternalFetcher
+Disallow: /
+
+User-agent: MoodleBot
 Disallow: /
 
 User-agent: Omgili
@@ -58,7 +67,16 @@ Disallow: /
 User-agent: PerplexityBot
 Disallow: /
 
+User-agent: PetalBot
+Disallow: /
+
+User-agent: PiplBot
+Disallow: /
+
 User-agent: Timpibot
+Disallow: /
+
+User-agent: TurnitinBot
 Disallow: /
 
 User-agent: YouBot
