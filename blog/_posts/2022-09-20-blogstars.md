@@ -14,7 +14,7 @@ Blogstars is a series where I review articles written by tech bloggers and call 
 > G'day! flicstar your friendly editor here. I help writers create great written content. Let me help you improve your writing by taking a look at what some others are doing really well.
 
 
-I like making writers feel good 🤗 In this series, I do a [Positivity Pass](https://openstrategypartners.com/blog/the-positivity-pass-and-why-we-do-it/) and use [editing codes](https://github.com/open-strategy-partners/editing-codes) to review articles and call out specific techniques for effective writing.
+I like making writers feel good 🤗 In this series, I do a [Positivity Pass](https://openstrategypartners.com/blog/the-positivity-pass-and-why-we-do-it/) and use [editing codes](https://openstrategypartners.com/resources/the-osp-editing-codes/) to review articles and call out specific techniques for effective writing.
 
 ____
 
