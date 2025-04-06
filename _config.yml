@@ -47,7 +47,9 @@ navigation:
   - text: Speaking
     url: /speaking
   - text: Notes
-    url: /notes   
+    url: /notes
+  - text: Read My Feed
+    url: /readmyfeed     
 
 # Required Plugins
 plugins_dir:
