@@ -9,10 +9,9 @@
         {% include head-seo.html %}
     {% else %}
         <title>{% if page.title %}{{ page.title | escape }}{% else %}{{ site.name | escape }}{% endif %}</title>
-        <meta name="description" content="{{ page.excerpt | default: site.description | strip_html | normalize_whitespace | truncate: 160 | escape }}">
+        <meta name="description" content="{% if page.description %}{{ page.description | escape }}{% else %}{{ page.excerpt | default: site.description | strip_html | normalize_whitespace | truncate: 160 | escape }}{% endif %}">
         <link rel="canonical" href="{{ page.url | replace:'index.html', '' | absolute_url }}">
     {% endif %}
-
     <!-- Site Favicon -->
     <link rel="shortcut icon" href="{{ site.url }}/{{ site.baseurl }}{{ site.favicon }}" type="image/png" />
 
