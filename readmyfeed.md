@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Read My Feed
-description: Sharing the newsletters, sites, voices and resources that are worth a follow for tech writers and editors. Influence your algorithm.
+description: A tech writer’s media diet: newsletters, sites, and voices to expand your feed and influence your algorithm.
 image: /assets/images/ReadMyFeedCoverArt.png
 ---
 
