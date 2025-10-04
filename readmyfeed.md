@@ -2,7 +2,7 @@
 layout: page
 title: Read My Feed
 description: A tech writer’s media diet — newsletters, sites, and voices to expand your feed and influence your algorithm.
-image: /assets/images/ReadMyFeedCoverArtLarge.jpg
+image: /assets/images/ReadMyFeedCoverArtRect.png
 ---
 
 ![Read my feed cover art](/assets/images/ReadMyFeedCoverArt.png?h=50)
