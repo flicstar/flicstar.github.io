@@ -5,7 +5,7 @@ description: Sharing the newsletters, sites, voices and resources that are worth
 image: /assets/images/ReadMyFeedCoverArt.png
 ---
 
-![Read my feed cover art](/assets/images/ReadMyFeedCoverArt.png?w=50)
+![Read my feed cover art](/assets/images/ReadMyFeedCoverArt.png?h=50)
 
 Podcast idea
 
