@@ -15,6 +15,13 @@
     <!-- Site Favicon -->
     <link rel="shortcut icon" href="{{ site.url }}/{{ site.baseurl }}{{ site.favicon }}" type="image/png" />
 
+<!-- Open Graph / Facebook / LinkedIn -->
+<meta property="og:type" content="website">
+<meta property="og:title" content="{% if page.title %}{{ page.title | escape }}{% else %}{{ site.name | escape }}{% endif %}">
+<meta property="og:description" content="{% if page.description %}{{ page.description | escape }}{% else %}{{ site.meta_description | escape }}{% endif %}">
+<meta property="og:url" content="{{ page.url | replace:'index.html','' | absolute_url }}">
+<meta property="og:image" content="{% if page.image %}{{ site.url }}{{ page.image }}{% else %}https://flicstar.com/assets/images/title_image.jpg{% endif %}">
+    
     <!-- Twitter cards -->
     <meta name="twitter:site"    content="flicstar.com">
     <meta name="twitter:creator" content="@felicity_brand">
