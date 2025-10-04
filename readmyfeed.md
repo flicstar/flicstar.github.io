@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Read My Feed
+description: Sharing the newsletters, sites, voices and resources that are worth a follow for tech writers and editors. Influence your algorithm.
 image: /assets/images/ReadMyFeedCoverArt.png
 ---
 
