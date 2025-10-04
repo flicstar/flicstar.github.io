@@ -1,11 +1,10 @@
 ---
 layout: page
 title: Read My Feed
-image: /assets/images/lifeline.jpg
-featured_image: /assets/images/ReadMyFeedCoverArt.png
+image: /assets/images/ReadMyFeedCoverArt.png
 ---
 
-![Read my feed cover art](/assets/images/ReadMyFeedCoverArt.png)
+![Read my feed cover art](/assets/images/ReadMyFeedCoverArt.png?w=50)
 
 Podcast idea
 
