@@ -8,9 +8,9 @@ A list of games [my daughter and I have played](https://flicstar.com/gaming).
 
 ---
 
-![Stardew Valley](https://stardewvalley.net/wp-content/uploads/2017/12/main_logo.png#right)
+![Stardew Valley](/assets/images/stardew.png#right)
 
-**Currently playing:** Stardew Valley by ConcernedApe. Possible the best game in creation. We play on the Switch 2. Farming, combat, friendship, quests. This game has something for everyone.  Possibly slightly addictive but I can stop anytime I like 😉
+**Currently playing:** [Stardew Valley](https://www.stardewvalley.net/) by ConcernedApe. Possible the best game in creation. We play on the Switch 2. Farming, combat, friendship, quests: this game has something for everyone.  Possibly slightly addictive but I can stop anytime I like 😉
 
 ---
 
@@ -77,7 +77,7 @@ Surreal and beautiful. Very enchanting and lovely audio.  A little gnome and a s
 ### Windosill
 ![Windosill](https://cdn.cloudflare.steamstatic.com/steam/apps/37600/header.jpg?t=1677716969#left)  
 
-[Windowsill](https://store.steampowered.com/app/37600/Windosill/) by Vectorpark is a beautiful, award-winning game. We completed this in one sitting (just over an hour). It was sooo good; and fascinating to see how my five year old picked it up intuitively. She quickly grasped how to interact with things on the screen. This was a charming, inventive, wondrous game that ended too quickly. Highly recommend! You're just alittle car, and on one screen there are creatures that like to play wiht you, an dif you try to roll away a big creature comes and picks you up and gives you back to the little creature so she can play.
+[Windowsill](https://store.steampowered.com/app/37600/Windosill/) by Vectorpark is a beautiful, award-winning game. We completed this in one sitting (just over an hour). It was sooo good; and fascinating to see how my five year old picked it up intuitively. She quickly grasped how to interact with things on the screen. This was a charming, inventive, wondrous game that ended too quickly. Highly recommend! 
 
 ### Tiny Bang Story
 ![Tiny Bang Story](https://cdn.cloudflare.steamstatic.com/steam/apps/96000/header.jpg?t=1631292999#left)  
@@ -86,4 +86,4 @@ Surreal and beautiful. Very enchanting and lovely audio.  A little gnome and a s
 
 At the end of each chapter, there is a jigsaw puzzle to complete. Fun! The best thing about this game was that two of us could tap the screen at once. We could solve the jigsaw together at the same time. 
 
-I totally recommend this game! After we played it once we went through and played it all over again a second time. I think once enough time has passed, we will definitely play it again. Super fun!  
+I totally recommend this game! After we played it once we went through and played it all over again a second and third time. I think once enough time has passed, we will definitely play it again. Super fun!  
