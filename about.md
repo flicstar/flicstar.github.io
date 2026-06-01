@@ -29,4 +29,4 @@ I am involved with [The Good Docs Project](https://thegooddocsproject.dev/){:tar
 
 💬 Catch me at felicitybrand at gmail dot com, or DM me on [Write the Docs Slack](https://www.writethedocs.org/slack/){:target="_blank"} or [Twitter](https://twitter.com/flicstar_){:target="_blank"}. 
 
-> Chat to me about being a parent who [games](https://flicstar.com/games). I'd love to hear your recommendations.
+🎮 Chat to me about being a parent who [games](https://flicstar.com/games). I'd love to hear your recommendations.
