@@ -8,11 +8,16 @@ A list of games [my daughter and I have played](https://flicstar.com/gaming).
 
 ---
 
-![Minecraft](/assets/images/minecraft.png#right)
+![Stardew Valley](https://stardewvalley.net/wp-content/uploads/2017/12/main_logo.png#right)
 
-**Currently playing:** Minecraft!! Yes, we're doin' it. After watching Katherine Elizabeth's [4.5 hour "movie" StarQuest](https://www.youtube.com/watch?v=OtyvvPRhUhw), we got this on the iPad and started [playing in creative mode](https://flicstar.com/minecraft). It is a steep learning curve but fun nevertheless. 
+**Currently playing:** Stardew Valley by ConcernedApe. Possible the best game in creation. We play on the Switch 2. Farming, combat, friendship, quests. This game has something for everyone.  Possibly slightly addictive but I can stop anytime I like 😉
 
 ---
+
+## Minecraft
+![Minecraft](/assets/images/minecraft.png#left)
+
+[Minecraft](https://www.minecraft.net/en-us) by Mojang Studios. After watching Katherine Elizabeth's [4.5 hour "movie" StarQuest](https://www.youtube.com/watch?v=OtyvvPRhUhw), we got this on the iPad and started [playing in creative mode](https://flicstar.com/minecraft). It was a steep learning curve but fun nevertheless. Now we do survival, and my daughter can 'beat the game' with her friends. This game will never get old. 
 
 ## Under Leaves
 ![Under Leaves](https://cdn.cloudflare.steamstatic.com/steam/apps/567030/header.jpg?t=1667202294#left)
