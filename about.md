@@ -25,8 +25,6 @@ I am a member of the [TYPO3 Association](https://typo3.org/){:target="_blank"}, 
 
 I am involved with [The Good Docs Project](https://thegooddocsproject.dev/){:target="_blank"}, creating best practice templates and writing instructions for documenting open source software. It's heaps cool over there - you should totally come and join us.
 
-Chat to me about being a parent who [games](https://flicstar.com/games). I'd love to hear your recommendations.
-
 ### Get in touch
 
 💬 Catch me at felicitybrand at gmail dot com, or DM me on [Write the Docs Slack](https://www.writethedocs.org/slack/){:target="_blank"} or [Twitter](https://twitter.com/flicstar_){:target="_blank"}. 
