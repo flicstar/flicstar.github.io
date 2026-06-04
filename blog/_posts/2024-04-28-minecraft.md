@@ -9,8 +9,6 @@ featured_image_thumbnail: /assets/images/minecraft.png
 featured_image: /assets/images/minecraft.png
 ---
 
-> [Games we’ve played so far](https://flicstar.com/games) (plus our reviews!)
-
 My daughter made me watch a 4.5 hour Minecraft “movie” on YouTube. It wasn’t really a movie, it was several videos stitched together by a very talented gamer, Katherine Elizabeth. 
 We came away from that experience with the question: “If we download Minecraft, can we play this game called "[StarQuest](https://www.youtube.com/watch?v=OtyvvPRhUhw)"? The short answer is [no](https://www.reddit.com/r/Minecraft/comments/t87tk1/katherine_elizabeth_gaming/), but we’re now both hooked anyway.
 
@@ -18,6 +16,8 @@ We came away from that experience with the question: “If we download Minecraft
 
 I'm recently returned from the [Everything Open](https://2024.everythingopen.au/) conference where I caught the presentation: [Crafting Worlds Together: The open source behind Minecraft's multiplayer universe](https://2024.everythingopen.au/schedule/presentation/43/), 
 and I am convinced by the legitimacy of Minecraft as a fun and educational STEM tool for my six year old (and myself!).
+
+> [Games we’ve played so far](https://flicstar.com/games) (plus our reviews!)
 
 ## Getting Started
 Which version to play? Pretty much [all our game play](https://flicstar.com/gaming) is on iPads, so it was a no-brainer for us to go with Bedrock (pocket edition). The biggest learning curve was how to use the controls - after [playing Machinarium and Samorost](https://flicstar.com/games), 
