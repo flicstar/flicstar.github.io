@@ -1,0 +1,62 @@
+---
+layout: post
+title: "Stardew Valley - the game with everything"
+summary: Possibly the best game ever in the whole entire universe?
+date: "2024-06-17"
+tags: [ family, writing, gaming ]
+image: /assets/images/stardew.png
+featured_image_thumbnail: /assets/images/stardew.png
+featured_image: /assets/images/stardew.png
+---
+
+I am not a gamer (IANAG) but this game. This game. It has pulled me in in a big way. 
+
+[Stardew Valley](https://www.stardewvalley.net/) is our current obsession and it's not going away anytime soon. It boggles me that one person built all of this. The soundtrack alone has taken up permanent residence in my head.
+
+> [Games we’ve played so far](https://flicstar.com/games) (plus our reviews!)
+
+## **Minecraft move over (but we still love you)**
+
+Santa brought my daughter a Switch 2 last Christmas, and moving up from [Minecraft on the iPad](https://flicstar.com/minecraft) to a whole new console took some getting used to. We played MarioKart for a hot minute and then let the expensive thing sit idle for months. In the Easter school holidays we went hunting for something new to play - Animal Crossing: New Horizons was top of the wishlist, but the price made me wince. So I went back to an old list of games I'd jotted down a couple of years ago and Stardew Valley was only $16.99. Sold.
+
+I did a quick Google before we started, and the single most useful thing I read was, "_Don't follow a walkthrough. Let the game unfold naturally_." So that's exactly what we did. 
+
+## **Turns out it's not a farming game: but also, it is?!**
+
+The idea of a cozy farm-sim holds absolutely no interest for me. But this game is not that. Or it is, but it’s also so much more. Farming, combat, friendship, quests: this game has something for everyone. 
+
+And it is *addictive.* One day takes about twenty minutes. You earn money, you mine, you forage, you watch the weather, you ride your luck, you stumble into random events, you pat your dog - then do it all again. Just one more day, just one more day…
+
+## **We play completely differently**
+
+My daughter and I play very differently. Variety is the spice of life, I suppose. 
+
+She loves the animals, farming, decorating, and is heavily invested in all the relationship progression. I mean, she just got *married* for heavensakes. She's diligently saving for the house upgrade so she can add the nursery. She couldn't care less about combat and quests, and begrudgingly fishes when she has to.
+
+Me, I couldn't tell you what my character is wearing, and I find tending the animals such a drag. It can take up to half an hour every morning, ugh! I upgraded to sprinklers as soon as I could so I'd never have to water a crop by hand again. I quite enjoy the mines and I *love* to fish. Above all, it turns out I am quest-driven. Give me something to collect and I am on it! Right now I need one truffle to finish the community centre, and Porky the pig is going to come through for me any day now. Then, *finally,* I get to catch the bus and see what's beyond the valley.
+
+My daughter lucked onto a glorious world seed. She finds artefact spots everywhere, and they drop all sorts of stuff for her. She found a rabbit's foot early, and she's got two meteorites parked on her farm that she's keeping *for decoration* while I eye them greedily for the iridium. I don't have her luck, but I'm wily and opportunistic. I check the travelling cart and am not above buying books to level up. 
+
+## **The treasure trove and the trash fire**
+
+Coming late to a wildly popular game means the internet is both a treasure trove *and* a trash fire. 
+
+* Treasure trove - After a decade of playing, people have shared a mountain of tips. Whatever oddly specific thing you're stuck on, someone has already worked it out and written it down.  
+* Trash fire - People being people in 2026, so much of the content is about maxxing. Finish the community centre in year one, hit perfection, optimise everything. 🤮
+
+A lot of folks assume an old game is a *solved* game, and gloss over the very things a newcomer needs. But we have found a few resources that have been very helpful.
+
+### Helpful resources
+
+* [Stardew Valley wiki](https://stardewvalleywiki.com/)  
+* [Database for Stardew Valley](https://apps.apple.com/au/app/database-for-stardew-valley/id1442223084) - A companion app for tracking bundles, birthdays and gifts (worth spending the few dollars to go ad-free)  
+* [r/StardewValley](https://www.reddit.com/r/StardewValley/), the subreddit, is for when you've got a curly or really specific question that wiki and database haven't answered; or you just want opinions, approaches, and design ideas from other players.   
+* [Bobby Lee and ConcernedApe](https://www.youtube.com/watch?v=AlmgR0TSzvY) — Comedian Bobby Lee is a Stardew Valley diehard and this video of him fanboying out and showing ConcernedApe around his farm is gold.   
+
+## **Two players, one valley** 
+
+Santa did not bring a second set of Joy-Cons so we have yet to graduate to a split-screen co-op farm. Because we take turns and watch each other play, we constantly lose track of who's done what. *Grab some stone from the quarry? Oh — you haven’t unlocked it yet, that's me.* I'll go get my duck feather — oh, no, *you're* the one with the duck feather. Sigh. 🙃
+
+This muddle does mean we get to learn from each other's experience. She gets to see the outcome of my exploration (I'm braver) and I get to witness the benefit of her friendship levels (she's kinder). It's absorbing and nourishing and, between the two of us, a weirdly *complete* experience.
+
+Any day now, Porky. Any day now. Then we'll finally see what's beyond the valley — and Pam can finally get back to her bus driving job.
