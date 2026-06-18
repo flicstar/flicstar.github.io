@@ -10,7 +10,7 @@ A list of games [my daughter and I have played](https://flicstar.com/gaming).
 
 ![Stardew Valley](/assets/images/stardew.png#right)
 
-**Currently playing:** [Stardew Valley](https://www.stardewvalley.net/) by ConcernedApe. Possible the best game in creation. We play on the Switch 2. Farming, combat, friendship, quests: this game has something for everyone.  Possibly slightly addictive but I can stop anytime I like 😉
+**Currently playing:** [Stardew Valley](https://www.stardewvalley.net/) by ConcernedApe. Possible the best game in creation. We play on the Switch 2. Farming, combat, friendship, quests: this game has something for everyone.  Possibly slightly addictive but [I can stop anytime I like](https://flicstar.com/stardew) 😉
 
 ---
 
