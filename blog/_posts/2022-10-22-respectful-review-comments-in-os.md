@@ -6,7 +6,7 @@ datePublished: Mon Oct 10 2022 00:10:37 GMT+0000 (Coordinated Universal Time)
 cuid: cl920q433000409ma05oyhssn
 slug: respectful-review-comments-in-os
 featured_image_thumbnail: assets/images/teddy.png
-tags: [ asynchronous, opensource, symfony, editing ]
+tags: [ asynchronous, open-source, symfony, editing ]
 
 ---
 
