@@ -9,7 +9,7 @@ featured_image_thumbnail: /assets/images/gosa-favicon.svg
 featured_image: /assets/images/gosa-logo.png
 ---
 
-## I’m Building a Thing
+I’m building a directory of the Australian open source ecosystem.
 
 This idea came to me last year. I fell in love with it and did nothing. It sat on the back burner while I worked and lived and then incrementally, just through working and living, the back burner got 
 hotter and hotter. Things I was seeing and reading started to coalesce and it became clear to me: The time is now! This thing needs to be in the world. 
