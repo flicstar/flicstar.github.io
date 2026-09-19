@@ -9,7 +9,7 @@ slug: editing-the-reluctant-writer
 image: /assets/images/eggs.png
 featured_image: /assets/images/eggs.png
 featured_image_thumbnail:  /assets/images/eggs.png
-tags: [ opensource, styleguide, writing, feedback, editing ]
+tags: [ open-source, styleguide, writing, feedback, editing ]
 
 ---
 
