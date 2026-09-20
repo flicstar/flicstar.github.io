@@ -10,7 +10,7 @@ featured_image_thumbnail: /assets/images/embarrassment.png
 featured_image: 
 ---
 
-When you work remote on your personal project, it’s cosy in your home office with no one to nay-say you. Real Cosy.
+When you [work remote on your personal project](https://flicstar.com/working-in-the-open), it’s cosy in your home office with no one to nay-say you. Real Cosy.
 
 🔗 [opensourceaustralia.guide](https://opensourceaustralia.guide/) - there's nothing wrong with it, right?! Chef's kiss, mwah.
 
