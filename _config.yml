@@ -6,6 +6,7 @@ logo: 'assets/images/logo.png'
 favicon: 'assets/images/favicon.ico'
 baseurl:
 production_url: https://flicstar.com/
+url: https://flicstar.com
 disqus: 
 mailchimp_url: 
 title_image: 'assets/images/title_image.jpg'
