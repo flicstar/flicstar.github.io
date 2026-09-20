@@ -2,6 +2,7 @@
 layout: post
 title: "Working in the open"
 summary: I'm building a Thing. Come join.
+description: I'm building a Thing. Come join.
 date: "2026-09-01"
 tags: [ writing, open-source ]
 image: /assets/images/gosa-logo.png
