@@ -6,7 +6,7 @@ date: "2026-09-19"
 tags: [ writing, open-source ]
 image: /assets/images/embarrassment.png
 featured_image_thumbnail: /assets/images/embarrassment.png
-featured_image: /assets/images/embarrassment.png
+featured_image: 
 ---
 
 When you work remote on your personal project, it’s cosy in your home office with no one to nay-say you. Real Cosy.
