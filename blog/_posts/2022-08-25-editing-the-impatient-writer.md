@@ -6,7 +6,7 @@ datePublished: Thu Aug 25 2022 02:48:30 GMT+0000 (Coordinated Universal Time)
 cuid: cl78g3yve01pqgpnvep3ccnnr
 slug: editing-the-impatient-writer
 featured_image_thumbnail: assets/images/impatient.png
-tags: [ opensource, styleguide, writing, feedback, editing ]
+tags: [ open-source, styleguide, writing, feedback, editing ]
 ---
 
 > This is in response to The Editing podcast episode: [4 types of editing for 4 kinds of  writer](https://theeditingpodcast.captivate.fm/episode/kinds-of-writer). I highly recommend listening to this podcast!   
