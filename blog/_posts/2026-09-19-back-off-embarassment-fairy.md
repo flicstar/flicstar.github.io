@@ -2,6 +2,7 @@
 layout: post
 title: "Back off, Embarrassment Fairy"
 summary: Embrace the chaos of working in the open
+description: Embrace the chaos of working in the open
 date: "2026-09-19"
 tags: [ writing, open-source ]
 image: /assets/images/embarrassment.png
